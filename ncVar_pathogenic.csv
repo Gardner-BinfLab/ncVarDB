@@ -1,0 +1,640 @@
+ID,genome,chr,pos,,ref,alt,mutation_type,mut_position,avHet,avHetSE,x_ref,pmed_ID,phenotype
+ncVarP_A000001,hg38,1,2408451,,G,A,single,intronic,1.7E-05,0.002915,dbsnp:rs267608183,21031596,Peroxisome biogenesis disorder 6A|Peroxisome biogenesis disorder 6B|not provided
+ncVarP_A000002,hg38,1,3839606,,T,C,single,intronic,0,0,dbsnp:rs869025276,26477546,Joubert syndrome 25
+ncVarP_A000003,hg38,1,11966985,,A,-,deletion,intronic,0,0,dbsnp:rs797044447,9450904,"Ehlers-Danlos syndrome, hydroxylysine-deficient"
+ncVarP_A000004,hg38,1,21564217,,G,A,single,intronic,1.7E-05,0.002891,dbsnp:rs749544042,11745997,"Hypophosphatasia, perinatal lethal"
+ncVarP_A000005,hg38,1,42752536,,G,T,single,intronic,0,0,dbsnp:rs72659354,17277775,Osteogenesis imperfecta type 8
+ncVarP_A000006,hg38,1,42757782,,G,T,single,intronic,0.000445,0.014904,dbsnp:rs72659351,29150909,Osteogenesis imperfecta type 8|not provided
+ncVarP_A000007,hg38,1,45332088,,A,G,single,intronic,0.002042,0.031891,dbsnp:rs77542170,26824983,MYH-associated polyposis|not specified|not provided|Hereditary cancer-predisposing syndrome
+ncVarP_A000008,hg38,1,90916206,,G,A,single,3utr,0,0,dbsnp:rs587776903,21695231,"Myopia 21, autosomal dominant"
+ncVarP_A000009,hg38,1,91353299,,G,C,single,intronic,0,0,dbsnp:rs730880018,24597873,Premature ovarian failure 9
+ncVarP_A000010,hg38,1,99880047,,G,T,single,intronic,3.3E-05,0.004059,dbsnp:rs199922945,24257475,Glycogen storage disease type III|Glycogen storage disease IIIa
+ncVarP_A000011,hg38,1,108903235,,G,T,single,intronic,1.8E-05,0.00296,dbsnp:rs777695770,22578326,Chudley-McCullough syndrome|not specified
+ncVarP_A000012,hg38,1,16996381,,G,A,single,intronic,0,0,dbsnp:rs786205056,16964263,Parkinson disease 9
+ncVarP_A000013,hg38,1,26447535,,A,G,single,intronic,3.3E-05,0.004077,dbsnp:rs764831063,27343064,Congenital disorder of glycosylation type 1bb
+ncVarP_A000014,hg38,1,42747254,,G,A,single,intronic,0.000154,0.008773,dbsnp:rs137853890,19088120,Osteogenesis imperfecta type 8
+ncVarP_A000015,hg38,1,44823064,,C,T,single,intronic,0,0,dbsnp:rs587776628,9931336,"Basal cell carcinoma, somatic"
+ncVarP_A000016,hg38,1,46189457,,G,A,single,intronic,0.000222,0.010543,dbsnp:rs386834024,26908613,Muscle eye brain disease|Retinitis pigmentosa 76
+ncVarP_A000017,hg38,1,94011395,,T,C,single,intronic,0.000446,0.014928,dbsnp:rs1800728,28118664,Cone-rod dystrophy 3|Stargardt disease 1|not provided|Retinal dystrophy|Macular dystrophy|Bull's eye maculopathy
+ncVarP_A000018,hg38,1,99915491,,G,A,single,intronic,1.7E-05,0.002878,dbsnp:rs780504025,10925384,"Glycogen storage disease IIIb|GLYCOGEN STORAGE DISEASE, TYPE IIIb"
+ncVarP_A000019,hg38,1,99916398,,A,G,single,intronic,0.000142,0.008427,dbsnp:rs369973784,25827695,"Glycogen storage disease type III|Glycogen storage disease IIIa|Glycogen storage disease IIIb|GLYCOGEN STORAGE DISEASE, TYPE IIIb|not provided"
+ncVarP_A000020,hg38,1,145927328,,G,C,single,intronic,0.012671,0.078581,dbsnp:rs201779890,22366785,Radial aplasia-thrombocytopenia syndrome|not provided
+ncVarP_A000021,hg38,1,145927447,,G,A,single,5utr,0.046254,0.144874,dbsnp:rs139428292,20301781,Radial aplasia-thrombocytopenia syndrome|not provided
+ncVarP_A000022,hg38,1,150491665,,A,G,single,intronic,3.3E-05,0.004062,dbsnp:rs587777594,24827421,Combined oxidative phosphorylation deficiency 21
+ncVarP_A000023,hg38,1,151025513,,A,G,single,intronic,0,0,dbsnp:rs886039608,28211990,"not provided|Neurodevelopmental disorder with microcephaly, hypotonia, and variable brain anomalies"
+ncVarP_A000024,hg38,5,60927745,,G,C,single,intronic,0,0,dbsnp:rs1043679457,29422660,Cockayne syndrome type A
+ncVarP_A000025,hg38,X,108620226,,A,G,single,intronic,0.000557,0.016672,dbsnp:rs104886358,11223851,"Alport syndrome, X-linked recessive"
+ncVarP_A000026,hg38,8,11564446,,T,G,single,3utr,0.022686,0.10406,dbsnp:rs1042695,19667185,"Maturity onset diabetes mellitus in young|Maturity-onset diabetes of the young, type 11"
+ncVarP_A000027,hg38,1,109608607,,G,A,single,intronic,0,0,dbsnp:rs397515384,15557429,Achromatopsia 4
+ncVarP_A000028,hg38,1,100467953,,C,G,single,intronic,NA,NA,dbsnp:rs1553191001,29293958,"Deafness, autosomal recessive 32"
+ncVarP_A000029,hg38,1,150552897,,G,A,single,intronic,0,0,dbsnp:rs587776927,20141359,"Ectopia lentis, isolated autosomal recessive"
+ncVarP_A000030,hg38,8,41797691,,G,A,single,5utr,0.020942,0.100162,dbsnp:rs183894680,11102985,"Spherocytosis, type 1, autosomal recessive"
+ncVarP_A000031,hg38,X,55031184,,C,G,single,5utr,0.005284,0.051128,dbsnp:rs140772352,12663458,Hereditary sideroblastic anemia|not specified
+ncVarP_A000032,hg38,X,108695042,,T,C,single,intronic,0,0,dbsnp:rs104886423,16517570,"Alport syndrome, X-linked recessive"
+ncVarP_A000033,hg38,1,3816372,,A,G,single,intronic,0,0,dbsnp:rs869025278,26477546,Joubert syndrome 25
+ncVarP_A000034,hg38,1,11022737,,T,C,single,3utr,0,0,dbsnp:rs80356744,20301761,Amyotrophic lateral sclerosis type 10
+ncVarP_A000035,hg38,1,11952736,,G,A,single,intronic,0,0,dbsnp:rs797044448,9893157,"Ehlers-Danlos syndrome, hydroxylysine-deficient"
+ncVarP_A000036,hg38,1,16125329,,G,A,single,intronic,0,0,dbsnp:rs886041412,24014202,"Cataract 6, multiple types|not provided"
+ncVarP_A000037,hg38,1,17024076,,A,G,single,intronic,0,0,dbsnp:rs786201161,23083876,Hereditary Paraganglioma-Pheochromocytoma Syndromes|not provided|Hereditary cancer-predisposing syndrome|SDHB-Related Disorders
+ncVarP_A000038,hg38,1,17028599,,G,A,single,intronic,1.6E-05,0.00287,dbsnp:rs398122805,26283294,Gastrointestinal stroma tumor|Paragangliomas 4|Pheochromocytoma|Hereditary Paraganglioma-Pheochromocytoma Syndromes|not specified|not provided|Hereditary cancer-predisposing syndrome
+ncVarP_A000039,hg38,2,46994513,,AAGT,-,deletion,intronic,1.7E-05,0.002891,dbsnp:rs587776971,23830146,Multiple gastrointestinal atresias
+ncVarP_A000040,hg38,1,21573801,,T,G,single,intronic,0,0,dbsnp:rs1057517391,18925618,Infantile hypophosphatasia
+ncVarP_A000041,hg38,1,24337790,,G,T,single,intronic,0,0,dbsnp:rs886037768,27018475,nonsyndromic cleft palate
+ncVarP_A000042,hg38,5,36876937,,-,A,insertion,5utr,0,0,dbsnp:rs724159980,16799922,Cornelia de Lange syndrome 1
+ncVarP_A000043,hg38,17,42695519,,AGAT,-,deletion,intronic,0,0,dbsnp:rs786204800,24319099,Lethal congenital contracture syndrome 7
+ncVarP_A000044,hg38,X,15846013,,TACA,-,deletion,intronic,0,0,dbsnp:rs587776738,17186471,Pettigrew syndrome
+ncVarP_A000045,hg38,X,49215241,,-,TGG,insertion,intronic,0,0,dbsnp:rs863223294,16505158,Cone-rod dystrophy X-linked 3
+ncVarP_A000046,hg38,4,186274115,,G,A,single,intronic,0,0,dbsnp:rs1057517364,27067486,Hereditary factor XI deficiency disease
+ncVarP_A000047,hg38,X,129553302,,A,G,single,intronic,0,0,dbsnp:rs1057515577,21031565,Lowe syndrome
+ncVarP_A000048,hg38,X,129562373,,G,A,single,intronic,0.000114,0.00755,dbsnp:rs776743373,21031565,Lowe syndrome
+ncVarP_A000049,hg38,2,202376806,,G,A,single,5utr,0.006766,0.057769,dbsnp:rs115604088,19223935,Primary pulmonary hypertension
+ncVarP_A000050,hg38,18,47851273,,G,A,single,intronic,0,0,dbsnp:rs397509416,23665959,Variant of unknown significance
+ncVarP_A000051,hg38,11,61967589,,A,T,single,5utr,0,0,dbsnp:rs387906549,11389486,Hemochromatosis type 5
+ncVarP_A000052,hg38,16,31191479,,G,A,single,3utr,0.013724,0.081692,dbsnp:rs80301724,22292843,"Amyotrophic lateral sclerosis type 6|not specified|Tremor, hereditary essential, 4|Amyotrophic Lateral Sclerosis, Dominant"
+ncVarP_A000053,hg38,16,173692,,A,G,single,3utr,0,0,dbsnp:rs63750067,1581238,"Alpha-thalassemia-2, nondeletional|Hemoglobin H disease, nondeletional|not specified|not provided"
+ncVarP_A000054,hg38,16,173694,,A,G,single,3utr,0,0,dbsnp:rs63751269,20301608,alpha Thalassemia|not specified
+ncVarP_A000055,hg38,11,5225487,,A,G,single,3utr,0,0,dbsnp:rs63751128,1856830,Beta-plus-thalassemia|beta Thalassemia|not provided
+ncVarP_A000056,hg38,11,5250053,,C,T,single,5utr,0,0,dbsnp:rs35983258,2423160,Fetal hemoglobin quantitative trait locus 1
+ncVarP_A000057,hg38,X,153971810,,T,C,single,5utr,0,0,dbsnp:rs398122908,23000143,"Mental retardation 3, X-linked"
+ncVarP_A000058,hg38,11,2159793,,A,G,single,3utr,0,0,dbsnp:rs397515519,20938745,Permanent neonatal diabetes mellitus
+ncVarP_A000059,hg38,1,151399579,,G,A,single,5utr,0.001809,0.03002,dbsnp:rs200946642,26524591,PROTEASOME-ASSOCIATED AUTOINFLAMMATORY SYNDROME 3
+ncVarP_A000060,hg38,13,48303724,,G,T,single,5utr,0,0,dbsnp:rs387906520,1881452,Retinoblastoma
+ncVarP_A000061,hg38,13,48303715,,G,A,single,5utr,0,0,dbsnp:rs387906521,24225018,Retinoblastoma|Hereditary cancer-predisposing syndrome
+ncVarP_A000062,hg38,13,83878728,,G,A,single,3utr,0.001197,0.024439,dbsnp:rs191284403,16224024,Tourette syndrome
+ncVarP_A000063,hg38,5,128328823,,A,T,single,intronic,0,0,dbsnp:rs587776518,8900230,Congenital contractural arachnodactyly
+ncVarP_A000064,hg38,7,138734135,,G,A,single,intronic,1.7E-05,0.002873,dbsnp:rs587776615,10973252,"Renal tubular acidosis, distal, autosomal recessive"
+ncVarP_A000065,hg38,2,189061561,,G,T,single,intronic,0,0,dbsnp:rs786205104,9425231,"Ehlers-Danlos syndrome, type 2|Ehlers-Danlos syndrome, classic type"
+ncVarP_A000066,hg38,10,89007839,,-,NA,NA,intronic,0,0,dbsnp:rs606231362,7540117,"Autoimmune lymphoproliferative syndrome, type 1a"
+ncVarP_A000067,hg38,2,25164783,,C,A,single,5utr,5E-05,0.005009,dbsnp:rs753856820,14557433,Proopiomelanocortin deficiency
+ncVarP_A000068,hg38,2,26238933,,G,A,single,intronic,0,0,dbsnp:rs786205088,7738175,Mitochondrial trifunctional protein deficiency|Long-chain 3-hydroxyacyl-CoA dehydrogenase deficiency
+ncVarP_A000069,hg38,1,228149857,,A,G,single,5utr,0,0,dbsnp:rs587777496,27780564,"Leukodystrophy, hypomyelinating, 2"
+ncVarP_A000070,hg38,1,228149860,,A,G,single,5utr,0,0,dbsnp:rs587776888,24374284,"Leukodystrophy, hypomyelinating, 2|Spastic paraplegia"
+ncVarP_A000071,hg38,15,48474652,,A,T,single,intronic,0,0,dbsnp:rs387906547,7633409,"Marfan syndrome, neonatal"
+ncVarP_A000072,hg38,12,47987268,,G,-,deletion,intronic,0,0,dbsnp:rs587776847,9066888,Kniest dysplasia
+ncVarP_A000073,hg38,16,57639389,,CAACGGTTGCCAGGG,-,deletion,5utr,0,0,dbsnp:rs587777312,24531968,"Polymicrogyria, bilateral perisylvian, autosomal recessive"
+ncVarP_A000074,hg38,22,19723410,,C,G,single,5utr,0,0,dbsnp:rs730882059,8703016,"Bernard-Soulier syndrome, type B|Bernard-Soulier syndrome, type B"
+ncVarP_A000075,hg38,8,22201444,,T,C,single,3utr,0,0,dbsnp:rs786205217,25214535,"Osteogenesis imperfecta, type xiii"
+ncVarP_A000076,hg38,9,113275630,,18,-,deletion,5utr,0.001197,0.024439,dbsnp:rs541873609,24419317,Retinitis pigmentosa 70
+ncVarP_A000077,hg38,15,73343384,,-,GTGA,insertion,intronic,0,0,dbsnp:rs786205418,19165230,Brugada syndrome 8|Ventricular tachycardia
+ncVarP_A000078,hg38,2,168990800,,G,A,single,intronic,3.3E-05,0.004074,dbsnp:rs147649016,19165230,Benign recurrent intrahepatic cholestasis 2|Progressive familial intrahepatic cholestasis 2
+ncVarP_A000079,hg38,2,169014300,,A,C,single,intronic,0,0,dbsnp:rs387906354,16039748,Progressive familial intrahepatic cholestasis 2
+ncVarP_A000080,hg38,1,25557269,,T,G,single,intronic,0,0,dbsnp:rs1461905374,15599766,"Hypercholesterolemia, autosomal recessive"
+ncVarP_A000081,hg38,4,154569800,,G,T,single,intronic,0,0,dbsnp:rs606231224,12393540,"Afibrinogenemia, congenital"
+ncVarP_A000082,hg38,17,4903159,,C,T,single,5utr,0,0,dbsnp:rs748144899,10211467,"Myasthenic syndrome, congenital, associated with acetylcholine receptor deficiency"
+ncVarP_A000083,hg38,2,1887487,,G,A,single,intronic,0,0,dbsnp:rs869320675,23033978,"not provided|Mental retardation, autosomal dominant 39"
+ncVarP_A000084,hg38,2,19982552,,T,A,single,intronic,NA,NA,dbsnp:rs1553324519,25908617,Short rib polydactyly syndrome 5
+ncVarP_A000085,hg38,2,32128483,,A,G,single,intronic,0,0,dbsnp:rs587777755,11309678,"Spastic paraplegia 4, autosomal dominant"
+ncVarP_A000086,hg38,2,46909018,,G,A,single,intronic,1.6E-05,0.002871,dbsnp:rs387906286,12717434,"Factor v and factor viii, combined deficiency of, 2"
+ncVarP_A000087,hg38,2,47480876,,G,C,single,intronic,0,0,dbsnp:rs267608017,18033691,Lynch syndrome|Hereditary cancer-predisposing syndrome
+ncVarP_A000088,hg38,2,62904596,,G,A,single,intronic,0.171057,0.237209,dbsnp:rs721048,18264098,"Prostate cancer, hereditary, 12"
+ncVarP_A000089,hg38,2,69245213,,A,G,single,intronic,0,0,dbsnp:rs879255533,23602711,Odontotrichomelic syndrome
+ncVarP_A000090,hg38,2,71661900,,G,T,single,intronic,0,0,dbsnp:rs886042110,25493284,"Miyoshi muscular dystrophy 1|Limb-girdle muscular dystrophy, type 2B"
+ncVarP_A000091,hg38,2,73902698,,C,A,single,intronic,0.000406,0.014234,dbsnp:rs768290597,24676022,Visceral myopathy
+ncVarP_A000092,hg38,2,73950574,,C,G,single,intronic,0.000399,0.014124,dbsnp:rs536746349,23043144,"not provided|Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive 4"
+ncVarP_A000093,hg38,2,86217057,,G,T,single,3utr,0.00168,0.028933,dbsnp:rs377637314,18321925,"Spastic paraplegia 31, autosomal dominant|not specified"
+ncVarP_A000094,hg38,2,97733464,,G,A,single,intronic,0,0,dbsnp:rs113994173,20301777,"Severe combined immunodeficiency, atypical"
+ncVarP_A000095,hg38,2,165754927,,G,A,single,intronic,6.6E-05,0.005748,dbsnp:rs375879489,15133511,"Tumoral calcinosis, familial, hyperphosphatemic"
+ncVarP_A000096,hg38,2,190294639,,T,G,single,intronic,0,0,dbsnp:rs786200864,17160907,Beta-hydroxyisobutyryl-CoA deacylase deficiency
+ncVarP_A000097,hg38,2,202513709,,T,C,single,intronic,0,0,dbsnp:rs1085307231,23298310,Primary pulmonary hypertension
+ncVarP_A000098,hg38,2,202520206,,G,T,single,intronic,0,0,dbsnp:rs1085307279,20534176,Primary pulmonary hypertension
+ncVarP_A000099,hg38,2,238352956,,T,G,single,intronic,0,0,dbsnp:rs886037897,26487268,Senior-Loken syndrome 9
+ncVarP_A000100,hg38,3,3146404,,T,C,single,intronic,0,0,dbsnp:rs876661299,26494905,Retinitis pigmentosa and erythrocytic microcytosis
+ncVarP_A000101,hg38,3,9453732,,A,G,single,intronic,0,0,dbsnp:rs886041593,28881385,not provided|Inborn genetic diseases
+ncVarP_A000102,hg38,3,14168389,,T,A,single,intronic,0,0,dbsnp:rs794729656,14662655,"Xeroderma pigmentosum, group C"
+ncVarP_A000103,hg38,3,37008801,,A,G,single,intronic,0,0,dbsnp:rs267607749,27601186,Lynch syndrome|not specified|Hereditary cancer-predisposing syndrome|Hereditary nonpolyposis colon cancer
+ncVarP_A000104,hg38,3,48884134,,T,G,single,intronic,6.6E-05,0.005744,dbsnp:rs541208710,25459972,Carnitine acylcarnitine translocase deficiency|not provided
+ncVarP_A000105,hg38,3,49171662,,C,T,single,5utr,0.005972,0.054319,dbsnp:rs387906223,19706467,Hodgkin lymphoma
+ncVarP_A000106,hg38,3,142465860,,C,G,single,intronic,0,0,dbsnp:rs587777852,23144622,Seckel syndrome 1
+ncVarP_A000107,hg38,3,180650140,,A,G,single,intronic,0.001197,0.024439,dbsnp:rs577069249,21131972,Ciliary dyskinesia
+ncVarP_A000108,hg38,4,1003475,,G,A,single,intronic,0,0,dbsnp:rs398123256,21394825,Dysostosis multiplex
+ncVarP_A000109,hg38,4,6293966,,C,G,single,intronic,0.4021,0.198407,dbsnp:rs6446482,17603484,"Diabetes mellitus, noninsulin-dependent, association with"
+ncVarP_A000110,hg38,4,42963153,,A,T,single,intronic,0.000828,0.020333,dbsnp:rs201824235,20137778,"Deafness, autosomal recessive 25"
+ncVarP_A000111,hg38,4,43020345,,C,A,single,intronic,0,0,dbsnp:rs606231120,20137778,"Deafness, autosomal recessive 25"
+ncVarP_A000112,hg38,4,55418167,,G,A,single,intronic,0,0,dbsnp:rs793888506,22683087,Congenital disorder of glycosylation type 2k
+ncVarP_A000113,hg38,4,88523797,,G,A,single,5utr,0,0,dbsnp:rs869025323,26293662,Hyperphosphatasia with mental retardation syndrome 6
+ncVarP_A000114,hg38,4,154608970,,A,T,single,intronic,0,0,dbsnp:rs587776839,17854317,"Afibrinogenemia, congenital"
+ncVarP_A000115,hg38,5,37157382,,G,A,single,intronic,0.004024,0.044676,dbsnp:rs111294855,22425360,Joubert syndrome 17
+ncVarP_A000116,hg38,5,56859707,,T,A,single,intronic,0,0,dbsnp:rs1131692053,21129722,"46,XY sex reversal, type 6"
+ncVarP_A000117,hg38,5,74720617,,G,A,single,intronic,0.000149,0.008622,dbsnp:rs201580118,27021291,Sandhoff disease
+ncVarP_A000118,hg38,5,78839434,,T,G,single,intronic,1.6E-05,0.002872,dbsnp:rs431905496,17643332,Mucopolysaccharidosis type VI
+ncVarP_A000119,hg38,5,78839434,,T,G,single,intronic,1.6E-05,0.002872,dbsnp:rs431905496,17643332,Mucopolysaccharidosis type VI
+ncVarP_A000120,hg38,4,186287824,,G,A,single,intronic,4.9E-05,0.004971,dbsnp:rs373297713,23332144,Hereditary factor XI deficiency disease
+ncVarP_A000121,hg38,1,183577598,,G,A,single,intronic,0,0,dbsnp:rs796065032,10498624,"Chronic granulomatous disease, autosomal recessive cytochrome b-positive, type 2|not provided"
+ncVarP_A000122,hg38,1,193122332,,G,A,single,intronic,0,0,dbsnp:rs587776558,15531515,"Hyperparathyroidism 1|Parathyroid adenoma, somatic|not provided"
+ncVarP_A000123,hg38,1,193130173,,G,A,single,intronic,0,0,dbsnp:rs587776559,15613436,Hyperparathyroidism 2
+ncVarP_A000124,hg38,1,209632777,,G,A,single,intronic,0,0,dbsnp:rs587776814,17476356,Adult junctional epidermolysis bullosa
+ncVarP_A000125,hg38,1,214620653,,A,C,single,intronic,3.4E-05,0.004126,dbsnp:rs376767238,25564561,"Stromme syndrome|Ciliary dyskinesia, primary, 31"
+ncVarP_A000126,hg38,2,85559076,,G,T,single,intronic,0,0,dbsnp:rs786205096,15287948,"Vitamin k-dependent clotting factors, combined deficiency of, 1"
+ncVarP_A000127,hg38,2,88570873,,G,A,single,intronic,0,0,dbsnp:rs869025179,12960215,Wolcott-Rallison dysplasia
+ncVarP_A000128,hg38,2,108910459,,G,A,single,intronic,0,0,dbsnp:rs797044437,18816645,Autosomal recessive hypohidrotic ectodermal dysplasia syndrome
+ncVarP_A000129,hg38,2,108930963,,G,A,single,intronic,0,0,dbsnp:rs797044435,15373768,Autosomal recessive hypohidrotic ectodermal dysplasia syndrome
+ncVarP_A000130,hg38,2,112001199,,A,G,single,intronic,0,0,dbsnp:rs730880273,11727200,Retinitis pigmentosa 38
+ncVarP_A000131,hg38,2,135120817,,A,G,single,intronic,0,0,dbsnp:rs730882183,29300443,Warburg micro syndrome 1
+ncVarP_A000132,hg38,5,90628554,,C,G,single,intronic,0,0,dbsnp:rs869312178,26872967,"Usher syndrome, type 2C"
+ncVarP_A000133,hg38,5,112707526,,A,T,single,5utr,0,0,dbsnp:rs879253784,27087319,Familial adenomatous polyposis 1
+ncVarP_A000134,hg38,5,112707527,,T,C,single,5utr,0,0,dbsnp:rs879253783,27343414,Familial adenomatous polyposis 1
+ncVarP_A000135,hg38,6,116877784,,A,G,single,intronic,0,0,dbsnp:rs587776515,20148032,Mitchell-Riley syndrome|Mitchell-Riley syndrome
+ncVarP_A000136,hg38,6,136845605,,A,G,single,intronic,0.000231,0.010747,dbsnp:rs267608255,20301447,Phytanic acid storage disease|Rhizomelic chondrodysplasia punctata|Peroxisome biogenesis disorder 9B
+ncVarP_A000137,hg38,6,152321898,,A,G,single,intronic,4.9E-05,0.004973,dbsnp:rs606231134,17503513,"Spinocerebellar ataxia, autosomal recessive 8|not provided"
+ncVarP_A000138,hg38,7,94395818,,A,G,single,intronic,0,0,dbsnp:rs72656354,15077201,"Ehlers-Danlos syndrome, autosomal recessive, cardiac valvular form"
+ncVarP_A000139,hg38,7,117589467,,A,G,single,intronic,0,0,dbsnp:rs397508266,18456578,Cystic fibrosis
+ncVarP_A000140,hg38,7,117611555,,A,G,single,intronic,2.8E-05,0.003751,dbsnp:rs76151804,10425036,Cystic fibrosis
+ncVarP_A000141,hg38,7,117639961,,C,T,single,intronic,0,0,dbsnp:rs75039782,26631874,Cystic fibrosis|Hereditary pancreatitis|not specified
+ncVarP_A000142,hg38,7,143332409,,T,C,single,intronic,3.3E-05,0.00406,dbsnp:rs543120965,23810313,"Congenital myotonia, autosomal recessive form"
+ncVarP_A000143,hg38,7,154305155,,C,T,single,intronic,0,0,dbsnp:rs606231226,19285295,"Ventricular fibrillation, paroxysmal familial, 2"
+ncVarP_A000144,hg38,7,156791137,,A,G,single,intronic,0,0,dbsnp:rs606231150,17152067,"Polydactyly, preaxial II|Triphalangeal thumb"
+ncVarP_A000145,hg38,2,201628075,,G,T,single,intronic,2.7E-05,0.003677,dbsnp:rs748510210,26092869,Joubert syndrome 14
+ncVarP_A000146,hg38,2,203868052,,G,T,single,intronic,0,0,dbsnp:rs606231421,25329329,"Autoimmune lymphoproliferatiVe syndrome, type V"
+ncVarP_A000147,hg38,2,233761152,,G,C,single,intronic,0,0,dbsnp:rs587776764,9497253,"Crigler Najjar syndrome, type 1"
+ncVarP_A000148,hg38,2,233768218,,A,G,single,intronic,0,0,dbsnp:rs587776766,9497253,"Crigler Najjar syndrome, type 1"
+ncVarP_A000149,hg38,3,14156333,,T,G,single,intronic,0,0,dbsnp:rs794729655,9804340,"Xeroderma pigmentosum, group C"
+ncVarP_A000150,hg38,3,30688382,,A,G,single,intronic,0,0,dbsnp:rs587776770,16333834,Loeys-Dietz syndrome 2
+ncVarP_A000151,hg38,3,51986254,,G,A,single,intronic,1.7E-05,0.002926,dbsnp:rs672601330,16465618,Aminoacylase 1 deficiency
+ncVarP_A000152,hg38,3,122257080,,G,T,single,intronic,0,0,dbsnp:rs797044441,11668634,"Hypocalciuric hypercalcemia, familial, type 1"
+ncVarP_A000153,hg38,3,149163840,,A,G,single,intronic,1.7E-05,0.002929,dbsnp:rs397507168,11590544,Hermansky-Pudlak syndrome 3
+ncVarP_A000154,hg38,4,54727928,,G,A,single,intronic,0,0,dbsnp:rs794726675,1384325,Partial albinism
+ncVarP_A000155,hg38,4,70635895,,G,A,single,intronic,0,0,dbsnp:rs587776587,22414746,Amelogenesis imperfecta - hypoplastic autosomal dominant - local
+ncVarP_A000156,hg38,4,78472331,,G,T,single,intronic,0,0,dbsnp:rs730882180,17163535,Cryptophthalmos syndrome
+ncVarP_A000157,hg38,4,87657031,,G,C,single,intronic,1.7E-05,0.002881,dbsnp:rs587776697,17033625,Autosomal recessive hypophosphatemic vitamin D refractory rickets
+ncVarP_A000158,hg38,11,47449174,,A,G,single,5utr,0,0,dbsnp:rs786200905,15145336,"Pena-Shokeir syndrome type I|Congenital myasthenic syndrome|Myasthenic syndrome, congenital, 11, associated with acetylcholine receptor deficiency"
+ncVarP_A000159,hg38,X,64921812,,G,A,single,intronic,0,0,dbsnp:rs1057520298,26056227,Wieacker Wolff syndrome|not provided
+ncVarP_A000160,hg38,6,83857238,,T,G,single,intronic,0.00129,0.025365,dbsnp:rs370933531,25343988,"Spondylocostal dysostosis 6, autosomal recessive"
+ncVarP_A000161,hg38,20,2467201,,C,A,single,intronic,0,0,dbsnp:rs786201021,25047197,Cerebro-costo-mandibular syndrome
+ncVarP_A000162,hg38,10,68416703,,C,-,deletion,intronic,0,0,dbsnp:rs587777614,24389050,Ateleiotic dwarfism|Seckel syndrome 8
+ncVarP_A000163,hg38,15,51218658,,C,A,single,intronic,0,0,dbsnp:rs786205110,12466340,Aromatase deficiency
+ncVarP_A000164,hg38,9,134795057,,T,G,single,intronic,1.7E-05,0.002888,dbsnp:rs765079080,9683580,"Ehlers-Danlos syndrome, type 2|Ehlers-Danlos syndrome, classic type"
+ncVarP_A000165,hg38,9,134835207,,GAGT,-,deletion,intronic,0,0,dbsnp:rs786200923,8923000,"Ehlers-Danlos syndrome, type 2|Ehlers-Danlos syndrome, classic type"
+ncVarP_A000166,hg38,4,154612527,,G,A,single,intronic,0,0,dbsnp:rs587776837,11001902,"Afibrinogenemia, congenital"
+ncVarP_A000167,hg38,11,2165787,,T,A,single,intronic,0,0,dbsnp:rs587776767,11281275,"Segawa syndrome, autosomal recessive"
+ncVarP_A000168,hg38,7,156791480,,C,T,single,intronic,0,0,dbsnp:rs606231153,19519794,"Polydactyly, preaxial II"
+ncVarP_A000169,hg38,18,57580222,,C,T,single,intronic,0.371683,0.218399,dbsnp:rs2269219,1729699,Erythropoietic protoporphyria|Jaundice|Erythema
+ncVarP_A000170,hg38,21,36767213,,G,A,single,intronic,0.000198,0.009939,dbsnp:rs753887925,10653324,Holocarboxylase synthetase deficiency
+ncVarP_A000171,hg38,5,68293835,,G,T,single,intronic,0,0,dbsnp:rs587777709,25488983,not provided|Immunodeficiency 36
+ncVarP_A000172,hg38,5,148086403,,A,T,single,intronic,0,0,dbsnp:rs587777749,10835624,Netherton syndrome
+ncVarP_A000173,hg38,5,149960981,,T,C,single,5utr,0.001596,0.028205,dbsnp:rs386833492,10482955,Multiple epiphyseal dysplasia 4|Diastrophic dysplasia
+ncVarP_A000174,hg38,6,50828617,,A,T,single,intronic,0,0,dbsnp:rs879253870,18752453,Patent ductus arteriosus 2
+ncVarP_A000175,hg38,7,94401565,,A,G,single,intronic,0,0,dbsnp:rs72656355,9295084,"not provided|EHLERS-DANLOS SYNDROME, ARTHROCHALASIA TYPE, 2"
+ncVarP_A000176,hg38,7,94412122,,G,A,single,intronic,3.9E-05,0.004416,dbsnp:rs67162110,15077201,"Ehlers-Danlos syndrome, autosomal recessive, cardiac valvular form"
+ncVarP_A000177,hg38,7,94426532,,T,C,single,intronic,0,0,dbsnp:rs72659324,11288717,Osteogenesis imperfecta/Ehlers-Danlos crossover syndrome
+ncVarP_A000178,hg38,8,93791320,,G,A,single,intronic,0,0,dbsnp:rs386834187,16415887,Meckel syndrome type 3
+ncVarP_A000179,hg38,8,99859482,,T,C,single,intronic,0,0,dbsnp:rs587777382,24311531,Cohen syndrome
+ncVarP_A000180,hg38,8,102225020,,A,G,single,intronic,0,0,dbsnp:rs515726185,24741716,"Mitochondrial DNA depletion syndrome, encephalomyopathic form, with renal tubulopathy|RRM2B-related mitochondrial disease"
+ncVarP_A000181,hg38,8,144515243,,G,A,single,intronic,0.00026,0.011408,dbsnp:rs117642173,10678659,Rothmund-Thomson syndrome
+ncVarP_A000182,hg38,9,134727264,,A,G,single,intronic,0,0,dbsnp:rs786205101,12145749,"Ehlers-Danlos syndrome, type 2|Ehlers-Danlos syndrome, classic type"
+ncVarP_A000183,hg38,9,136676681,,G,C,single,intronic,0,0,dbsnp:rs606231168,20301391,Congenital generalized lipodystrophy type 1
+ncVarP_A000184,hg38,10,13295608,,A,G,single,intronic,0.000217,0.010419,dbsnp:rs201578674,17905308,"Phytanic acid storage disease|Refsum disease, adult, 1|not provided"
+ncVarP_A000185,hg38,10,89011997,,A,C,single,intronic,0,0,dbsnp:rs606231363,7540117,"Autoimmune lymphoproliferative syndrome, type 1a"
+ncVarP_A000186,hg38,10,89012083,,T,A,single,intronic,0,0,dbsnp:rs267607122,9927496,"Autoimmune lymphoproliferative syndrome, type 1a"
+ncVarP_A000187,hg38,11,2395971,,G,A,single,intronic,0,0,dbsnp:rs587776775,20237408,Common variable immunodeficiency 6
+ncVarP_A000188,hg38,11,31810826,,T,A,single,5utr,0,0,dbsnp:rs878852979,17148041,Aniridia 1
+ncVarP_A000189,hg38,11,34960519,,G,A,single,intronic,0,0,dbsnp:rs724159829,11935326,Pyruvate dehydrogenase E3-binding protein deficiency
+ncVarP_A000190,hg38,11,34984569,,G,A,single,intronic,0,0,dbsnp:rs724159830,11935326,Pyruvate dehydrogenase E3-binding protein deficiency
+ncVarP_A000191,hg38,11,63976224,,G,C,single,intronic,0,0,dbsnp:rs869025575,26685157,"Hepatic failure, early-onset, and neurologic disorder due to cytochrome C oxidase deficiency"
+ncVarP_A000192,hg38,1,94060536,,G,T,single,intronic,0.001998,0.031543,dbsnp:rs61749427,28118664,Stargardt disease 1
+ncVarP_A000193,hg38,1,155240629,,G,A,single,intronic,0.000231,0.010739,dbsnp:rs104886460,1558964,"Gaucher's disease, type 1|Acute neuronopathic Gaucher's disease|Gaucher disease"
+ncVarP_A000194,hg38,1,156137033,,G,C,single,intronic,0,0,dbsnp:rs267607543,16636128,Familial partial lipodystrophy 2|not provided
+ncVarP_A000195,hg38,1,156137642,,T,G,single,intronic,0,0,dbsnp:rs267607582,18611980,"Heart-hand syndrome, Slovenian type|not provided"
+ncVarP_A000196,hg38,1,156138758,,G,A,single,intronic,0,0,dbsnp:rs113436208,15317753,Hutchinson-Gilford syndrome|Lethal tight skin contracture syndrome|not provided
+ncVarP_A000197,hg38,1,156138762,,G,A,single,intronic,0,0,dbsnp:rs797044488,20301300,"Hutchinson-Gilford syndrome|Hutchinson-Gilford progeria syndrome, atypical"
+ncVarP_A000198,hg38,1,158656669,,T,G,single,intronic,1.7E-05,0.002879,dbsnp:rs757147440,9192783,Hereditary pyropoikilocytosis
+ncVarP_A000199,hg38,1,160032009,,C,G,single,5utr,0,0,dbsnp:rs587776528,16767100,Glycosylphosphatidylinositol deficiency
+ncVarP_A000200,hg38,1,161356841,,G,A,single,intronic,1.6E-05,0.00287,dbsnp:rs587776653,17804857,Gastrointestinal stroma tumor|Paraganglioma and gastric stromal sarcoma|Carney triad|Hereditary Paraganglioma-Pheochromocytoma Syndromes
+ncVarP_A000201,hg38,1,196673968,,T,G,single,intronic,0,0,dbsnp:rs387906550,18252232,Basal laminar drusen
+ncVarP_A000202,hg38,1,202334984,,G,A,single,intronic,0,0,dbsnp:rs796052212,26046368,"Fanconi anemia, complementation group T"
+ncVarP_A000203,hg38,1,205169835,,C,T,single,intronic,0.001113,0.023569,dbsnp:rs554197975,23862974,"Congenital anomalies of kidney and urinary tract 1, susceptibility to"
+ncVarP_A000204,hg38,1,209633028,,G,A,single,intronic,0,0,dbsnp:rs587776812,17476356,Junctional epidermolysis bullosa gravis of Herlitz|Adult junctional epidermolysis bullosa
+ncVarP_A000205,hg38,1,209633136,,T,C,single,intronic,0,0,dbsnp:rs587776813,17476356,Adult junctional epidermolysis bullosa
+ncVarP_A000206,hg38,1,215891198,,A,G,single,intronic,0,0,dbsnp:rs786200928,25558175,"Usher syndrome, type 2A|Retinitis pigmentosa 39|Usher syndrome"
+ncVarP_A000207,hg38,1,225404715,,A,G,single,intronic,0,0,dbsnp:rs886037618,14617022,Pelger-Hu√´t anomaly
+ncVarP_A000208,hg38,1,243305133,,C,T,single,intronic,0.000162,0.009005,dbsnp:rs397515337,22190896,Bardet-Biedl syndrome 16
+ncVarP_A000209,hg38,2,26238931,,A,G,single,intronic,0.000181,0.009521,dbsnp:rs781222705,7738175,Mitochondrial trifunctional protein deficiency|Long-chain 3-hydroxyacyl-CoA dehydrogenase deficiency|not provided
+ncVarP_A000210,hg38,2,27226128,,C,T,single,intronic,0,0,dbsnp:rs1057519262,28007989,"Epileptic encephalopathy, early infantile, 50"
+ncVarP_A000211,hg38,2,27226130,,G,A,single,intronic,1.7E-05,0.002873,dbsnp:rs769567624,25678555,"Epileptic encephalopathy, early infantile, 50"
+ncVarP_A000212,hg38,2,27457760,,T,A,single,intronic,0,0,dbsnp:rs786205858,25168386,Retinitis pigmentosa 71
+ncVarP_A000213,hg38,2,43805249,,A,G,single,intronic,0,0,dbsnp:rs879255656,26077881,Short-rib thoracic dysplasia 15 with polydactyly
+ncVarP_A000214,hg38,2,46994356,,G,T,single,intronic,0,0,dbsnp:rs777469885,24417819,Multiple gastrointestinal atresias
+ncVarP_A000215,hg38,2,47022084,,T,A,single,intronic,0,0,dbsnp:rs587777551,24292712,Multiple gastrointestinal atresias
+ncVarP_A000216,hg38,2,47414421,,A,T,single,intronic,0,0,dbsnp:rs193922376,10978353,"Lynch syndrome I|Colorectal cancer, hereditary, nonpolyposis, type 1|Lynch syndrome|not provided|Hereditary cancer-predisposing syndrome|Hereditary nonpolyposis colon cancer"
+ncVarP_A000217,hg38,2,47476362,,T,A,single,intronic,0,0,dbsnp:rs267607990,16372347,Turcot syndrome|Lynch syndrome
+ncVarP_A000218,hg38,2,73844893,,G,T,single,intronic,5.2E-05,0.005074,dbsnp:rs397509389,23542699,Microcephaly-capillary malformation syndrome|not provided
+ncVarP_A000219,hg38,2,74531106,,G,C,single,intronic,0,0,dbsnp:rs1057519081,27696117,"3-methylglutaconic aciduria, type VIII"
+ncVarP_A000220,hg38,2,84459170,,G,C,single,intronic,0,0,dbsnp:rs786205871,20693550,Mitochondrial DNA depletion syndrome 9 (encephalomyopathic with methylmalonic aciduria)
+ncVarP_A000221,hg38,2,86252072,,A,G,single,intronic,0,0,dbsnp:rs387907242,22703882,Distal hereditary motor neuronopathy type 5B
+ncVarP_A000222,hg38,2,86254816,,A,G,single,intronic,0,0,dbsnp:rs387906264,16826527,"Spastic paraplegia 31, autosomal dominant"
+ncVarP_A000223,hg38,2,113060943,,T,C,single,intronic,0.002021,0.031726,dbsnp:rs148755083,23863864,"Pustular psoriasis, generalized"
+ncVarP_A000224,hg38,2,188988140,,T,C,single,intronic,0,0,dbsnp:rs397509375,8320698,"Ehlers-Danlos syndrome, type 4"
+ncVarP_A000225,hg38,2,188996501,,G,T,single,intronic,0,0,dbsnp:rs397509372,1672129,"Ehlers-Danlos syndrome, type 4"
+ncVarP_A000226,hg38,2,188997394,,G,A,single,intronic,0,0,dbsnp:rs397509376,7581395,"Ehlers-Danlos syndrome, type 4"
+ncVarP_A000227,hg38,2,189003067,,G,T,single,intronic,0,0,dbsnp:rs397509371,8477261,"Ehlers-Danlos syndrome, type 4"
+ncVarP_A000228,hg38,2,190062219,,G,A,single,intronic,0,0,dbsnp:rs397515373,15215484,Muscle hypertrophy
+ncVarP_A000229,hg38,2,190296956,,C,G,single,intronic,1.7E-05,0.002897,dbsnp:rs778922921,17160907,Beta-hydroxyisobutyryl-CoA deacylase deficiency
+ncVarP_A000230,hg38,2,203871492,,G,C,single,intronic,0,0,dbsnp:rs606231419,25213377,"Autoimmune lymphoproliferatiVe syndrome, type V"
+ncVarP_A000231,hg38,2,232482850,,G,T,single,intronic,0,0,dbsnp:rs587777131,23236030,"Arthrogryposis, distal, type 5d"
+ncVarP_A000232,hg38,2,232484469,,A,T,single,intronic,0,0,dbsnp:rs587776920,23261301,"Arthrogryposis, distal, type 5d"
+ncVarP_A000233,hg38,3,3147899,,C,G,single,intronic,0.000266,0.011525,dbsnp:rs368078167,25193871,"not specified|Sideroblastic anemia with B-cell immunodeficiency, periodic fevers, and developmental delay"
+ncVarP_A000234,hg38,3,4788144,,G,T,single,intronic,0,0,dbsnp:rs878853174,27108797,Gillespie syndrome
+ncVarP_A000235,hg38,3,14168404,,A,G,single,intronic,0,0,dbsnp:rs794729657,14662655,"Xeroderma pigmentosum, group C"
+ncVarP_A000236,hg38,3,31622328,,G,T,single,intronic,0,0,dbsnp:rs587777217,23842455,Congenital disorder of glycosylation type 1x
+ncVarP_A000237,hg38,11,72234616,,G,A,single,intronic,0,0,dbsnp:rs655423,23273567,Opsismodysplasia
+ncVarP_A000238,hg38,11,102594759,,A,T,single,intronic,0.002153,0.032737,dbsnp:rs140213840,15744043,"Amelogenesis imperfecta, hypomaturation type, IIA2"
+ncVarP_A000239,hg38,11,108293479,,T,C,single,intronic,0,0,dbsnp:rs587781927,21445571,Ataxia-telangiectasia syndrome|not provided|Hereditary cancer-predisposing syndrome
+ncVarP_A000240,hg38,12,14884212,,G,A,single,intronic,0,0,dbsnp:rs111320759,15810001,Keutel syndrome|not provided
+ncVarP_A000241,hg38,12,14884247,,A,G,single,intronic,0,0,dbsnp:rs112518413,9916809,Keutel syndrome
+ncVarP_A000242,hg38,12,31102313,,T,C,single,intronic,0,0,dbsnp:rs730880279,20137776,Warsaw breakage syndrome
+ncVarP_A000243,hg38,12,102852814,,G,A,single,intronic,6.6E-05,0.00574,dbsnp:rs5030852,20188615,Phenylketonuria|not provided
+ncVarP_A000244,hg38,13,20193020,,C,T,single,5utr,0,0,dbsnp:rs886037626,17660464,"Deafness, autosomal recessive 1A"
+ncVarP_A000245,hg38,13,24885671,,G,C,single,intronic,0,0,dbsnp:rs864321658,20522431,Seckel syndrome 4
+ncVarP_A000246,hg38,13,28659090,,C,-,deletion,5utr,0,0,dbsnp:rs112368783,20226437,Keratosis linearis with ichthyosis congenita and sclerosing keratoderma
+ncVarP_A000247,hg38,14,23431584,,G,A,single,intronic,0,0,dbsnp:rs730880850,27788187,"Primary dilated cardiomyopathy|Left ventricular noncompaction 5|not provided|Hypertrophic cardiomyopathy|Cardiomyopathy, left ventricular noncompaction"
+ncVarP_A000248,hg38,14,36518022,,A,T,single,intronic,0,0,dbsnp:rs587776708,12891678,Benign hereditary chorea
+ncVarP_A000249,hg38,14,77298688,,G,A,single,intronic,8.8E-05,0.006616,dbsnp:rs533916138,15894594,"Congenital muscular dystrophy-dystroglycanopathy with brain and eye anomalies, type A2|Limb-girdle muscular dystrophy-dystroglycanopathy, type C2"
+ncVarP_A000250,hg38,14,88833691,,A,G,single,intronic,0,0,dbsnp:rs587777809,25776555,Retinitis pigmentosa 51
+ncVarP_A000251,hg38,15,51218539,,T,C,single,intronic,0,0,dbsnp:rs786205107,1496995,Aromatase deficiency
+ncVarP_A000252,hg38,15,51236858,,G,A,single,intronic,0,0,dbsnp:rs786205109,9177373,Aromatase deficiency
+ncVarP_A000253,hg38,16,47502989,,A,G,single,intronic,0,0,dbsnp:rs797044442,9402963,Glycogen storage disease IXb
+ncVarP_A000254,hg38,9,101435912,,G,A,single,5utr,0.009934,0.069774,dbsnp:rs185972191,20033295,not specified
+ncVarP_A000255,hg38,16,88735134,,G,A,single,intronic,0,0,dbsnp:rs869025600,26333996,"Lymphedema, hereditary, III"
+ncVarP_A000256,hg38,17,19347782,,T,C,single,intronic,6.8E-05,0.005837,dbsnp:rs143149764,21493627,"Meckel syndrome, type 9|not provided"
+ncVarP_A000257,hg38,17,38334703,,G,A,single,intronic,1.7E-05,0.002898,dbsnp:rs773126191,22325361,"Congenital stationary night blindness, type 1E"
+ncVarP_A000258,hg38,17,40819516,,G,A,single,intronic,0,0,dbsnp:rs587776816,20798280,"Erythroderma, ichthyosiform, congenital reticular"
+ncVarP_A000259,hg38,17,43099773,,T,A,single,intronic,0.001511,0.027441,dbsnp:rs80358047,23451180,"Breast-ovarian cancer, familial 1|Hereditary breast and ovarian cancer syndrome|not provided|Hereditary cancer-predisposing syndrome"
+ncVarP_A000260,hg38,17,45477899,,G,A,single,intronic,0,0,dbsnp:rs786205055,17404618,Osteopetrosis autosomal recessive 6
+ncVarP_A000261,hg38,17,58210658,,G,A,single,intronic,0.000116,0.007624,dbsnp:rs199874059,17377820,Bardet-Biedl syndrome 13|Meckel syndrome type 1|Joubert syndrome 28
+ncVarP_A000262,hg38,17,58219149,,T,C,single,intronic,0,0,dbsnp:rs386834052,16415886,Bardet-Biedl syndrome 13|Meckel syndrome type 1|Joubert syndrome 28
+ncVarP_A000263,hg38,17,63917759,,G,C,single,intronic,0,0,dbsnp:rs797044449,8496314,Isolated growth hormone deficiency type 1B
+ncVarP_A000264,hg38,17,63918015,,T,C,single,intronic,0,0,dbsnp:rs863223310,17038549,Autosomal dominant isolated somatotropin deficiency
+ncVarP_A000265,hg38,17,63918016,,G,C,single,intronic,0,0,dbsnp:rs71640277,18785993,Autosomal dominant isolated somatotropin deficiency
+ncVarP_A000266,hg38,17,63918016,,G,A,single,intronic,0,0,dbsnp:rs71640277,10372722,Autosomal dominant isolated somatotropin deficiency
+ncVarP_A000267,hg38,17,63918138,,A,T,single,intronic,0,0,dbsnp:rs863223309,12574219,Autosomal dominant isolated somatotropin deficiency
+ncVarP_A000268,hg38,17,68512549,,G,A,single,5utr,0,0,dbsnp:rs587776773,12213893,"Pigmented nodular adrenocortical disease, primary, 1"
+ncVarP_A000269,hg38,17,68529919,,G,A,single,intronic,0,0,dbsnp:rs587776774,14500362,"Adrenocortical tumor, somatic"
+ncVarP_A000270,hg38,17,75836338,,G,A,single,intronic,0.000102,0.007141,dbsnp:rs777759523,21248318,"Hemophagocytic lymphohistiocytosis, familial, 3|Familial hemophagocytic lymphohistiocytosis|not provided"
+ncVarP_A000271,hg38,17,75840506,,G,T,single,intronic,8.2E-05,0.00642,dbsnp:rs201908137,16825436,"Hemophagocytic lymphohistiocytosis, familial, 3|not provided"
+ncVarP_A000272,hg38,17,78124181,,A,T,single,intronic,1.7E-05,0.002895,dbsnp:rs769471844,15042430,EPIDERMODYSPLASIA VERRUCIFORMIS
+ncVarP_A000273,hg38,18,57554259,,G,A,single,intronic,0,0,dbsnp:rs786205245,8500787,Erythropoietic protoporphyria
+ncVarP_A000274,hg38,18,58723046,,A,G,single,intronic,0,0,dbsnp:rs786200953,25627829,Combined immunodeficiency
+ncVarP_A000275,hg38,19,11035133,,G,A,single,intronic,0,0,dbsnp:rs587777461,24658002,Rhabdoid tumor predisposition syndrome 2
+ncVarP_A000276,hg38,19,49016546,,G,T,single,intronic,0,0,dbsnp:rs786204822,22723313,Isolated lutropin deficiency
+ncVarP_A000277,hg38,19,49016546,,G,C,single,intronic,0,0,dbsnp:rs786204822,17761593,Isolated lutropin deficiency
+ncVarP_A000278,hg38,19,54934488,,G,A,single,intronic,6.6E-05,0.005739,dbsnp:rs104895505,16462743,Hydatidiform mole
+ncVarP_A000279,hg38,19,54940930,,G,A,single,intronic,0,0,dbsnp:rs104895504,22909446,Hydatidiform mole
+ncVarP_A000280,hg38,20,62818517,,G,A,single,intronic,0,0,dbsnp:rs606231367,10655510,"Epiphyseal dysplasia, multiple, 3, with myopathy"
+ncVarP_A000281,hg38,21,34880714,,G,T,single,intronic,0,0,dbsnp:rs587776809,10508512,Familial platelet disorder with associated myeloid malignancy
+ncVarP_A000282,hg38,21,43058970,,A,C,single,intronic,0.000308,0.012402,dbsnp:rs375846341,15365998,"Homocystinuria due to CBS deficiency|Homocystinuria, pyridoxine-responsive|Homocystinuria|not provided"
+ncVarP_A000283,hg38,21,43774760,,G,C,single,intronic,0.000198,0.009944,dbsnp:rs147484110,20301321,"Progressive myoclonic epilepsy|Unverricht-Lundborg syndrome|not provided|Inborn genetic diseases|Epilepsy, progressive myoclonic 1A (Unverricht and Lundborg)"
+ncVarP_A000284,hg38,21,46125265,,G,T,single,intronic,0,0,dbsnp:rs748035948,20729548,Ullrich congenital muscular dystrophy 1
+ncVarP_A000285,hg38,22,32493282,,G,T,single,intronic,0,0,dbsnp:rs730880272,19038853,Parkinson disease 15
+ncVarP_A000286,hg38,22,42619946,,G,T,single,intronic,0,0,dbsnp:rs794728011,7668255,Methemoglobinemia type 2
+ncVarP_A000287,hg38,X,17721439,,A,G,single,intronic,0,0,dbsnp:rs786205257,16736028,Nance-Horan syndrome
+ncVarP_A000288,hg38,X,133692368,,G,T,single,intronic,0,0,dbsnp:rs869025182,10814714,Simpson-Golabi-Behmel syndrome
+ncVarP_A000289,hg38,X,133953049,,G,A,single,intronic,0,0,dbsnp:rs869025183,16158429,Simpson-Golabi-Behmel syndrome
+ncVarP_A000290,hg38,X,154182566,,A,C,single,5utr,0,0,dbsnp:rs724159983,12626747,Deuteranopia
+ncVarP_A000291,hg38,X,154367639,,T,C,single,intronic,0,0,dbsnp:rs863223295,9883725,Periventricular nodular heterotopia 1
+ncVarP_A000292,hg38,X,154370872,,G,A,single,intronic,0,0,dbsnp:rs863223296,9883725,Periventricular nodular heterotopia 1
+ncVarP_A000293,hg38,1,17028737,,G,C,single,intronic,0,0,dbsnp:rs397516833,23072324,Gastrointestinal stroma tumor|Paragangliomas 4|Pheochromocytoma|Hereditary Paraganglioma-Pheochromocytoma Syndromes|not provided|Hereditary cancer-predisposing syndrome
+ncVarP_A000294,hg38,1,17033058,,T,A,single,intronic,0,0,dbsnp:rs587781270,23083876,Gastrointestinal stroma tumor|Paragangliomas 4|Pheochromocytoma|Hereditary Paraganglioma-Pheochromocytoma Syndromes|not provided|Hereditary cancer-predisposing syndrome
+ncVarP_A000295,hg38,1,17033059,,G,A,single,intronic,0,0,dbsnp:rs786201063,16912137,Gastrointestinal stroma tumor|Paragangliomas 4|Pheochromocytoma|Hereditary Paraganglioma-Pheochromocytoma Syndromes|Hereditary cancer-predisposing syndrome
+ncVarP_A000296,hg38,1,17053947,,G,A,single,intronic,0,0,dbsnp:rs587782703,19802898,Hereditary cancer-predisposing syndrome
+ncVarP_A000297,hg38,1,17053947,,G,T,single,intronic,0,0,dbsnp:rs587782703,19802898,Gastrointestinal stroma tumor|Paraganglioma and gastric stromal sarcoma|Paragangliomas 4|Pheochromocytoma|Hereditary Paraganglioma-Pheochromocytoma Syndromes|not provided|Hereditary cancer-predisposing syndrome
+ncVarP_A000298,hg38,1,24343026,,G,T,single,intronic,0,0,dbsnp:rs879255244,24360809,Van der Woude syndrome 2
+ncVarP_A000299,hg38,1,25553921,,G,C,single,intronic,1.7E-05,0.002914,dbsnp:rs755104973,15485476,"Hypercholesterolemia, autosomal recessive"
+ncVarP_A000300,hg38,3,37001058,,G,A,single,intronic,0,0,dbsnp:rs267607735,20858721,Lynch syndrome II|Lynch syndrome|not provided
+ncVarP_A000301,hg38,3,69936756,,G,A,single,intronic,NA,NA,dbsnp:rs1553701477,7874167,Waardenburg syndrome type 2A
+ncVarP_A000302,hg38,3,81648851,,G,C,single,intronic,0,0,dbsnp:rs397515344,17662246,"Glycogen storage disease, type IV|Glycogen storage disease IV, congenital neuromuscular"
+ncVarP_A000303,hg38,3,119515865,,A,G,single,intronic,0,0,dbsnp:rs781525096,28604674,Mitochondrial complex I deficiency
+ncVarP_A000304,hg38,3,128481945,,G,T,single,intronic,0,0,dbsnp:rs869320668,21765025,"Dendritic cell, monocyte, B lymphocyte, and natural killer lymphocyte deficiency"
+ncVarP_A000305,hg38,3,129461309,,G,A,single,intronic,8.2E-05,0.006419,dbsnp:rs376595844,20493458,Cranioectodermal dysplasia 1
+ncVarP_A000306,hg38,3,148994280,,G,C,single,intronic,0.000331,0.012853,dbsnp:rs370652040,25272951,not provided|Polyglucosan body myopathy 2
+ncVarP_A000307,hg38,3,180987023,,G,C,single,intronic,0,0,dbsnp:rs137854888,22981120,3-methylglutaconic aciduria type V
+ncVarP_A000308,hg38,4,5793722,,G,T,single,intronic,0,0,dbsnp:rs794726665,23220543,"Chondroectodermal dysplasia|Short rib-polydactyly syndrome, Majewski type|not provided"
+ncVarP_A000309,hg38,4,6291188,,A,G,single,intronic,0.451665,0.147754,dbsnp:rs10010131,17603484,"Diabetes mellitus, noninsulin-dependent, association with|not specified|WFS1-Related Spectrum Disorders|Nonsyndromic Hearing Loss, Dominant"
+ncVarP_A000310,hg38,4,102579043,,A,G,single,intronic,0,0,dbsnp:rs869320688,26279205,"Immunodeficiency, common variable, 12"
+ncVarP_A000311,hg38,4,108024034,,G,T,single,intronic,0,0,dbsnp:rs786200932,23273570,"Hyperinsulinemic hypoglycemia, familial, 4"
+ncVarP_A000312,hg38,4,127898434,,C,G,single,intronic,0,0,dbsnp:rs724159995,25344692,"Microcephaly and chorioretinopathy, autosomal recessive, 2"
+ncVarP_A000313,hg38,4,154569320,,C,T,single,intronic,0,0,dbsnp:rs606231223,12393540,"Afibrinogenemia, congenital"
+ncVarP_A000314,hg38,4,157136891,,G,A,single,intronic,6.7E-05,0.005777,dbsnp:rs281864922,11929858,Hyperekplexia 2
+ncVarP_A000315,hg38,4,183684059,,G,A,single,intronic,5E-05,0.004976,dbsnp:rs397509418,23830518,"not provided|Limb-girdle muscular dystrophy, type 2S"
+ncVarP_A000316,hg38,4,183686751,,A,G,single,intronic,0,0,dbsnp:rs886041053,27707803,"Limb-girdle muscular dystrophy, type 2S"
+ncVarP_A000317,hg38,5,78839434,,T,G,single,intronic,1.6E-05,0.002872,dbsnp:rs431905496,23458163,Mucopolysaccharidosis type VI
+ncVarP_A000318,hg38,5,78839434,,T,G,single,intronic,1.6E-05,0.002872,dbsnp:rs431905496,23458163,Mucopolysaccharidosis type VI
+ncVarP_A000319,hg38,5,83537002,,T,C,single,intronic,0,0,dbsnp:rs80356556,20301747,Wagner syndrome
+ncVarP_A000320,hg38,5,83537002,,T,A,single,intronic,0,0,dbsnp:rs80356556,20301747,Wagner syndrome
+ncVarP_A000321,hg38,5,83537005,,A,T,single,intronic,0,0,dbsnp:rs80356555,20301747,Wagner syndrome
+ncVarP_A000322,hg38,5,83537005,,A,G,single,intronic,0,0,dbsnp:rs80356555,20301747,Wagner syndrome
+ncVarP_A000323,hg38,5,83537006,,G,C,single,intronic,0,0,dbsnp:rs80356554,20301747,Wagner syndrome
+ncVarP_A000324,hg38,5,83537006,,G,A,single,intronic,0,0,dbsnp:rs80356554,20301747,Wagner syndrome
+ncVarP_A000325,hg38,5,83542269,,G,A,single,intronic,0,0,dbsnp:rs80356553,20301747,Wagner syndrome
+ncVarP_A000326,hg38,5,83542270,,T,A,single,intronic,0,0,dbsnp:rs397515437,20301747,Wagner syndrome
+ncVarP_A000327,hg38,5,112707526,,A,G,single,5utr,0,0,dbsnp:rs879253784,27087319,Familial adenomatous polyposis 1
+ncVarP_A000328,hg38,5,128335592,,A,G,single,intronic,0,0,dbsnp:rs587776519,9106527,Congenital contractural arachnodactyly
+ncVarP_A000329,hg38,5,138441091,,G,T,single,intronic,0,0,dbsnp:rs483352924,24388663,"Spastic paraplegia 72, autosomal recessive"
+ncVarP_A000330,hg38,6,6320575,,-,NA,NA,5utr,0.25494,0.250065,dbsnp:rs2815822,21633364,Factor XIII subunit A deficiency
+ncVarP_A000331,hg38,6,32039081,,C,G,single,intronic,0.416486,0.190363,dbsnp:rs6467,25630015,21-hydroxylase deficiency|Inborn genetic diseases
+ncVarP_A000332,hg38,6,33700516,,C,G,single,intronic,9.9E-05,0.007029,dbsnp:rs587777410,24385928,"Mitochondrial complex III deficiency, nuclear type 7"
+ncVarP_A000333,hg38,6,43049665,,C,A,single,intronic,0,0,dbsnp:rs730880263,19225462,Three M syndrome 1
+ncVarP_A000334,hg38,6,50828684,,G,A,single,intronic,0,0,dbsnp:rs80338911,15684060,Char syndrome|Patent ductus arteriosus 2
+ncVarP_A000335,hg38,6,158158267,,T,C,single,intronic,NA,NA,dbsnp:rs1554265452,28916646,"3-methylglutaconic aciduria with deafness, encephalopathy, and Leigh-like syndrome"
+ncVarP_A000336,hg38,6,158986423,,A,G,single,intronic,0.000133,0.008161,dbsnp:rs142800871,26073779,"Kartagener syndrome|Ciliary dyskinesia, primary, 32"
+ncVarP_A000337,hg38,7,5989798,,T,A,single,intronic,0,0,dbsnp:rs267608158,16472587,Hereditary nonpolyposis colorectal cancer type 4|Lynch syndrome
+ncVarP_A000338,hg38,7,37862001,,C,T,single,intronic,0.037394,0.131525,dbsnp:rs117149381,17360648,"Ciliary dyskinesia, primary, 6|not specified"
+ncVarP_A000339,hg38,7,56104221,,G,A,single,intronic,6.7E-05,0.005791,dbsnp:rs750014782,25662902,"Parkinson disease 22, autosomal dominant"
+ncVarP_A000340,hg38,7,107660756,,T,C,single,5utr,0,0,dbsnp:rs60284988,17503324,Enlarged vestibular aqueduct|Pendred's syndrome|not specified|not provided|SLC26A4-Related Disorders
+ncVarP_A000341,hg38,7,117509146,,A,G,single,intronic,6.6E-05,0.005754,dbsnp:rs387906374,7522211,Cystic fibrosis
+ncVarP_A000342,hg38,7,117627774,,A,G,single,intronic,0,0,dbsnp:rs387906362,1371265,Cystic fibrosis
+ncVarP_A000343,hg38,7,141615468,,C,G,single,intronic,0.000231,0.010741,dbsnp:rs766413410,22415731,"Cataract and cardiomyopathy|Cataract, autosomal recessive congenital 5|Inborn genetic diseases"
+ncVarP_A000344,hg38,7,156791255,,C,G,single,intronic,0,0,dbsnp:rs606231151,17152067,"Polydactyly, preaxial II|Triphalangeal thumb"
+ncVarP_A000345,hg38,7,156791472,,G,A,single,intronic,0,0,dbsnp:rs606231147,19847792,"Tibia, hypoplasia or aplasia of, with polydactyly"
+ncVarP_A000346,hg38,7,156791474,,C,T,single,intronic,0,0,dbsnp:rs587779752,24777739,"Polydactyly, preaxial II|Tibia, hypoplasia or aplasia of, with polydactyly|Triphalangeal thumb"
+ncVarP_A000347,hg38,7,156791542,,T,G,single,intronic,0,0,dbsnp:rs606231231,20569257,"Polydactyly, preaxial II"
+ncVarP_A000348,hg38,7,156791547,,T,C,single,intronic,0,0,dbsnp:rs606231149,12837695,"Polydactyly, preaxial II|Triphalangeal thumb"
+ncVarP_A000349,hg38,7,156791571,,A,T,single,intronic,0,0,dbsnp:rs606231148,12837695,"Polydactyly, preaxial II"
+ncVarP_A000350,hg38,7,156791579,,G,A,single,intronic,0,0,dbsnp:rs606231230,20569257,"Polydactyly, preaxial II"
+ncVarP_A000351,hg38,7,156791581,,T,C,single,intronic,0,0,dbsnp:rs606231152,18463159,"Polydactyly, preaxial II|Triphalangeal thumb"
+ncVarP_A000352,hg38,7,156791771,,C,G,single,intronic,0,0,dbsnp:rs606231146,12837695,"Polydactyly, preaxial II"
+ncVarP_A000353,hg38,7,157367488,,G,A,single,intronic,0,0,dbsnp:rs869320702,26205529,"Limb-girdle muscular dystrophy, type 1E"
+ncVarP_A000354,hg38,7,158914230,,T,A,single,intronic,5.7E-05,0.005321,dbsnp:rs587777066,23910462,Short-rib thoracic dysplasia 8 with or without polydactyly
+ncVarP_A000355,hg38,8,11564613,,G,T,single,3utr,0,0,dbsnp:rs886037621,19667185,"Maturity-onset diabetes of the young, type 11"
+ncVarP_A000356,hg38,8,18059568,,A,G,single,intronic,0,0,dbsnp:rs397509415,23707712,Farber disease
+ncVarP_A000357,hg38,8,22130707,,T,C,single,5utr,0,0,dbsnp:rs387906382,19897589,Hypotrichosis 4
+ncVarP_A000358,hg38,8,38245955,,C,G,single,intronic,0,0,dbsnp:rs886037659,24482476,"Spastic paraplegia 54, autosomal recessive"
+ncVarP_A000359,hg38,8,39017211,,A,G,single,intronic,0,0,dbsnp:rs786205086,19409519,Cone-rod dystrophy 9
+ncVarP_A000360,hg38,8,41708992,,G,A,single,intronic,0,0,dbsnp:rs786205243,17327413,"Spherocytosis type 1|Spherocytosis, type 1, autosomal recessive"
+ncVarP_A000361,hg38,8,41797646,,T,C,single,5utr,0.068189,0.171594,dbsnp:rs77173848,8640229,"Spherocytosis, type 1, autosomal recessive"
+ncVarP_A000362,hg38,8,60801598,,G,C,single,intronic,0,0,dbsnp:rs387906271,18834967,CHARGE association|Kallmann syndrome 5
+ncVarP_A000363,hg38,8,93755871,,G,A,single,intronic,0,0,dbsnp:rs786200868,19058225,COACH syndrome
+ncVarP_A000364,hg38,8,101493333,,G,T,single,intronic,NA,NA,dbsnp:rs1554579878,29499165,"Corneal dystrophy|CORNEAL DYSTROPHY, POSTERIOR POLYMORPHOUS, 4"
+ncVarP_A000365,hg38,9,34637546,,G,T,single,intronic,0,0,dbsnp:rs796065352,26078401,"Distal spinal muscular atrophy, autosomal recessive 2"
+ncVarP_A000366,hg38,9,35090061,,G,A,single,intronic,5E-05,0.004996,dbsnp:rs368953604,22683086,Hyperphosphatasia with mental retardation syndrome 2
+ncVarP_A000367,hg38,9,78240369,,G,A,single,intronic,0,0,dbsnp:rs1057517693,27588451,Cone-rod dystrophy and hearing loss
+ncVarP_A000368,hg38,9,78253282,,G,A,single,intronic,6.5E-05,0.00568,dbsnp:rs745750156,27627988,Cone-rod dystrophy and hearing loss
+ncVarP_A000369,hg38,9,89338609,,G,A,single,intronic,0,0,dbsnp:rs730880269,16228000,"Thyroid hormone metabolism, abnormal"
+ncVarP_A000370,hg38,9,95172033,,A,T,single,intronic,0.000478,0.015448,dbsnp:rs104886456,10666230,"Fanconi anemia|Fanconi anemia, complementation group C|not provided|Hereditary cancer-predisposing syndrome"
+ncVarP_A000371,hg38,9,98768253,,C,G,single,intronic,3.3E-05,0.00408,dbsnp:rs397514257,23793029,not provided|Nephronophthisis 16
+ncVarP_A000372,hg38,9,108899816,,T,C,single,intronic,0.001305,0.025506,dbsnp:rs111033171,12116234,Familial dysautonomia|not provided
+ncVarP_A000373,hg38,9,113391634,,C,T,single,intronic,1.7E-05,0.002912,dbsnp:rs749066913,15303011,Porphobilinogen synthase deficiency
+ncVarP_A000374,hg38,9,120419975,,A,G,single,intronic,4.9E-05,0.004972,dbsnp:rs387906274,20301772,Primary autosomal recessive microcephaly 3
+ncVarP_A000375,hg38,9,128522658,,A,G,single,intronic,0,0,dbsnp:rs386833693,18204449,Lethal arthrogryposis with anterior horn cell disease|Lethal congenital contracture syndrome 1
+ncVarP_A000376,hg38,9,134834960,,T,A,single,intronic,0.004132,0.045263,dbsnp:rs183495554,9042913,"Ehlers-Danlos syndrome, type 2|Ehlers-Danlos syndrome, classic type"
+ncVarP_A000377,hg38,10,27100460,,G,A,single,5utr,0,0,dbsnp:rs863223318,21211618,Thrombocytopenia 2
+ncVarP_A000378,hg38,10,71799634,,G,A,single,intronic,0,0,dbsnp:rs727502931,11138009,"Usher syndrome, type 1D"
+ncVarP_A000379,hg38,10,87863608,,G,T,single,5utr,0,0,dbsnp:rs587776675,12844284,Cowden syndrome 1
+ncVarP_A000380,hg38,10,87863705,,G,A,single,5utr,0,0,dbsnp:rs587776674,17847000,PTEN hamartoma tumor syndrome|Cowden syndrome 1|not specified
+ncVarP_A000381,hg38,10,93620620,,T,A,single,intronic,0,0,dbsnp:rs786200909,19887631,Achromatopsia 5
+ncVarP_A000382,hg38,10,98435267,,G,A,single,intronic,0,0,dbsnp:rs281865077,20301464,Hermansky-Pudlak syndrome 1
+ncVarP_A000383,hg38,10,102835249,,G,T,single,intronic,0,0,dbsnp:rs786205061,9435441,"Complete combined 17-alpha-hydroxylase/17,20-lyase deficiency"
+ncVarP_A000384,hg38,10,121517316,,A,G,single,intronic,0,0,dbsnp:rs879253721,15286168,Pfeiffer syndrome|Crouzon syndrome
+ncVarP_A000385,hg38,10,121517464,,G,A,single,intronic,0,0,dbsnp:rs879253719,27481450,Pfeiffer syndrome
+ncVarP_A000386,hg38,10,125816702,,T,C,single,5utr,0,0,dbsnp:rs397515348,12060112,Congenital erythropoietic porphyria
+ncVarP_A000387,hg38,10,125816708,,G,A,single,5utr,0,0,dbsnp:rs397515349,12060112,Congenital erythropoietic porphyria
+ncVarP_A000388,hg38,10,125816718,,C,A,single,5utr,0,0,dbsnp:rs397515350,11254675,Congenital erythropoietic porphyria
+ncVarP_A000389,hg38,10,125816722,,C,A,single,5utr,0,0,dbsnp:rs397515351,12060112,Congenital erythropoietic porphyria
+ncVarP_A000390,hg38,10,133369901,,G,C,single,intronic,0,0,dbsnp:rs786204002,25125611,Mitochondrial short-chain enoyl-coa hydratase 1 deficiency
+ncVarP_A000391,hg38,11,299504,,C,T,single,5utr,0,0,dbsnp:rs587776916,23674381,Osteogenesis imperfecta type 5
+ncVarP_A000392,hg38,11,680959,,A,C,single,intronic,0,0,dbsnp:rs886040972,26048982,"Dyskinesia, seizures, and intellectual developmental disorder"
+ncVarP_A000393,hg38,11,2160544,,G,A,single,intronic,0,0,dbsnp:rs886041083,26101329,Permanent neonatal diabetes mellitus
+ncVarP_A000394,hg38,11,5225729,,C,A,single,intronic,6.6E-05,0.005744,dbsnp:rs33913413,2458145,Beta-plus-thalassemia|Beta thalassemia intermedia|not provided
+ncVarP_A000395,hg38,11,5225832,,C,G,single,intronic,0,0,dbsnp:rs34690599,20301599,Beta-plus-thalassemia|beta Thalassemia|not specified|not provided
+ncVarP_A000396,hg38,11,5225923,,C,T,single,intronic,0,0,dbsnp:rs34451549,20301599,beta^0^ Thalassemia|beta Thalassemia|Beta thalassemia major|not specified
+ncVarP_A000397,hg38,11,5226820,,G,A,single,intronic,0.000381,0.013788,dbsnp:rs35004220,20301599,Beta-plus-thalassemia|beta Thalassemia|Beta thalassemia major|not specified
+ncVarP_A000398,hg38,11,5226924,,T,C,single,intronic,0.000297,0.012177,dbsnp:rs35724775,20301599,Beta-plus-thalassemia|beta Thalassemia|not specified|not provided
+ncVarP_A000399,hg38,11,5226925,,G,A,single,intronic,0.001434,0.026735,dbsnp:rs33915217,23234478,Beta-plus-thalassemia|beta Thalassemia
+ncVarP_A000400,hg38,11,5226925,,G,T,single,intronic,0.001434,0.026735,dbsnp:rs33915217,15278762,Beta-plus-thalassemia|Beta thalassemia major|not specified|not provided
+ncVarP_A000401,hg38,11,5226925,,G,C,single,intronic,0.001434,0.026735,dbsnp:rs33915217,20301599,Beta-plus-thalassemia|beta Thalassemia|not specified|not provided
+ncVarP_A000402,hg38,11,5227099,,A,G,single,5utr,0,0,dbsnp:rs33931746,20301599,Beta-plus-thalassemia|beta Thalassemia|not provided
+ncVarP_A000403,hg38,11,5227099,,A,C,single,5utr,0,0,dbsnp:rs33931746,6308558,Beta-plus-thalassemia|beta Thalassemia|not provided
+ncVarP_A000404,hg38,11,5227100,,A,G,single,5utr,0.000798,0.019964,dbsnp:rs34598529,2458145,Beta-plus-thalassemia|beta Thalassemia|Beta thalassemia intermedia
+ncVarP_A000405,hg38,11,5227101,,T,A,single,5utr,0,0,dbsnp:rs33980857,1487424,Beta-plus-thalassemia|beta Thalassemia|not provided
+ncVarP_A000406,hg38,11,5227102,,A,G,single,5utr,0,0,dbsnp:rs33981098,26029792,Beta-plus-thalassemia|beta Thalassemia|not provided
+ncVarP_A000407,hg38,11,5227103,,C,A,single,5utr,0.000399,0.014124,dbsnp:rs34500389,1729892,Beta-plus-thalassemia
+ncVarP_A000408,hg38,11,5227157,,C,G,single,5utr,0,0,dbsnp:rs33994806,20301599,Beta-plus-thalassemia|beta Thalassemia|not provided
+ncVarP_A000409,hg38,11,5227158,,C,G,single,5utr,0.000399,0.014124,dbsnp:rs33941377,2375912,Beta-plus-thalassemia|beta Thalassemia|Beta thalassemia intermedia|not provided
+ncVarP_A000410,hg38,11,5227159,,C,T,single,5utr,0.000399,0.014124,dbsnp:rs33944208,6086605,Beta-plus-thalassemia|beta Thalassemia|Beta thalassemia intermedia|not provided
+ncVarP_A000411,hg38,11,5234514,,A,G,single,5utr,0,0,dbsnp:rs35518301,15921167,Delta-plus-thalassemia
+ncVarP_A000412,hg38,11,5234559,,A,T,single,5utr,0,0,dbsnp:rs35661168,12402333,delta Thalassemia
+ncVarP_A000413,hg38,11,5234560,,T,C,single,5utr,0.001197,0.024439,dbsnp:rs34975911,1515647,delta Thalassemia
+ncVarP_A000414,hg38,11,5249971,,C,T,single,5utr,0,0,dbsnp:rs281860601,1698280,Fetal hemoglobin quantitative trait locus 1
+ncVarP_A000415,hg38,11,5249974,,G,A,single,5utr,0,0,dbsnp:rs35378915,1379347,Fetal hemoglobin quantitative trait locus 1|Sardinian HPFH|Greek HPFH
+ncVarP_A000416,hg38,11,5250052,,C,G,single,5utr,0,0,dbsnp:rs35321913,2224140,Fetal hemoglobin quantitative trait locus 1
+ncVarP_A000417,hg38,11,5254895,,C,A,single,5utr,0,0,dbsnp:rs34809449,10335983,Fetal hemoglobin quantitative trait locus 1
+ncVarP_A000418,hg38,11,5254895,,C,T,single,5utr,0,0,dbsnp:rs34809449,1698280,Fetal hemoglobin quantitative trait locus 1
+ncVarP_A000419,hg38,11,5254956,,T,C,single,5utr,0,0,dbsnp:rs63750654,7687855,Fetal hemoglobin quantitative trait locus 1
+ncVarP_A000420,hg38,11,5254983,,C,G,single,5utr,0,0,dbsnp:rs35617911,6208955,Fetal hemoglobin quantitative trait locus 1
+ncVarP_A000421,hg38,11,6616513,,A,G,single,intronic,5.2E-05,0.005086,dbsnp:rs755445790,17959406,Ceroid lipofuscinosis neuronal 2|not specified
+ncVarP_A000422,hg38,11,17397055,,G,A,single,intronic,0.000362,0.013457,dbsnp:rs151344623,8923011,Persistent hyperinsulinemic hypoglycemia of infancy|Familial hyperinsulinism|not provided
+ncVarP_A000423,hg38,11,18310943,,A,G,single,intronic,0.000233,0.01078,dbsnp:rs200449378,28296950,Hermansky-Pudlak syndrome 5
+ncVarP_A000424,hg38,11,31664397,,C,A,single,intronic,0,0,dbsnp:rs606231388,24290376,Aniridia 1
+ncVarP_A000425,hg38,11,31806397,,G,C,single,intronic,0,0,dbsnp:rs587776572,15629294,Foveal hypoplasia and presenile cataract syndrome
+ncVarP_A000426,hg38,11,32391967,,G,A,single,intronic,0,0,dbsnp:rs587776576,23515051,Drash syndrome|Frasier syndrome|Diffuse mesangial sclerosis|Hereditary nephrotic syndrome
+ncVarP_A000427,hg38,11,32391968,,C,T,single,intronic,0,0,dbsnp:rs587776577,23515051,Frasier syndrome|Diffuse mesangial sclerosis|Hereditary nephrotic syndrome|not provided
+ncVarP_A000428,hg38,11,46739505,,G,A,single,3utr,0.007163,0.059414,dbsnp:rs1799963,20301327,"VENOUS THROMBOSIS|Ischemic stroke, susceptibility to|Prothrombin deficiency, congenital|Pregnancy loss, recurrent, susceptibility to, 2"
+ncVarP_A000429,hg38,11,47343281,,G,A,single,intronic,8.4E-05,0.006495,dbsnp:rs587776699,18337725,Familial hypertrophic cardiomyopathy 4|not specified|Hypertrophic cardiomyopathy
+ncVarP_A000430,hg38,11,47448165,,C,A,single,intronic,0.201415,0.245233,dbsnp:rs45547231,16931511,"Myasthenic syndrome, congenital, 11, associated with acetylcholine receptor deficiency"
+ncVarP_A000431,hg38,11,62691424,,C,G,single,intronic,0,0,dbsnp:rs786205073,20301391,Congenital generalized lipodystrophy type 2
+ncVarP_A000432,hg38,11,62692371,,G,A,single,intronic,0,0,dbsnp:rs786205072,20301391,Congenital generalized lipodystrophy type 2
+ncVarP_A000433,hg38,11,65206824,,G,A,single,intronic,0.000223,0.010561,dbsnp:rs375817528,27153400,"Spastic paraplegia 76, autosomal recessive"
+ncVarP_A000434,hg38,11,65547915,,G,A,single,intronic,0,0,dbsnp:rs1188540819,27068007,GELEOPHYSIC DYSPLASIA 3
+ncVarP_A000435,hg38,11,68041392,,A,T,single,intronic,0.000253,0.011236,dbsnp:rs751881962,10942435,Osteopetrosis autosomal recessive 1
+ncVarP_A000436,hg38,11,68390053,,G,A,single,intronic,NA,NA,dbsnp:rs1554967176,20034086,Osteoporosis with pseudoglioma
+ncVarP_A000437,hg38,11,78114262,,A,G,single,intronic,0,0,dbsnp:rs1470636347,15235028,Congenital disorder of glycosylation type 1H
+ncVarP_A000438,hg38,11,108235839,,G,A,single,intronic,0,0,dbsnp:rs796051858,15054841,Ataxia-telangiectasia syndrome|Ataxia-telangiectasia variant|not provided|Hereditary cancer-predisposing syndrome
+ncVarP_A000439,hg38,11,112228271,,A,T,single,intronic,0,0,dbsnp:rs794726657,19280650,6-pyruvoyl-tetrahydropterin synthase deficiency
+ncVarP_A000440,hg38,11,118340370,,G,A,single,intronic,1.7E-05,0.002873,dbsnp:rs730880296,21926461,Immunodeficiency 19
+ncVarP_A000441,hg38,11,119101490,,G,A,single,intronic,1.7E-05,0.002888,dbsnp:rs397515322,22492991,Congenital disorder of glycosylation type 1J
+ncVarP_A000442,hg38,11,134216922,,A,G,single,intronic,NA,NA,dbsnp:rs1555143325,27737959,"MICROCEPHALY 22, PRIMARY, AUTOSOMAL RECESSIVE"
+ncVarP_A000443,hg38,12,48980693,,A,G,single,intronic,0,0,dbsnp:rs387907354,23499309,"Osteogenesis imperfecta, type xv"
+ncVarP_A000444,hg38,12,56355703,,G,C,single,intronic,0,0,dbsnp:rs281874770,23391734,Immunodeficiency 44
+ncVarP_A000445,hg38,12,88101183,,A,G,single,intronic,0,0,dbsnp:rs281865192,23344081,Joubert syndrome|Leber congenital amaurosis 10|Meckel-Gruber syndrome|Meckel syndrome type 4|Senior-Loken syndrome 6|Joubert syndrome 5|Nephronophthisis|not provided
+ncVarP_A000446,hg38,12,101757566,,T,G,single,intronic,9.9E-05,0.007046,dbsnp:rs34788341,19617216,"I cell disease|Pseudo-Hurler polydystrophy|Mucopolysaccharidosis, MPS-III-A"
+ncVarP_A000447,hg38,12,102843782,,C,T,single,intronic,8.3E-05,0.006425,dbsnp:rs62507344,23357515,Phenylketonuria|not provided
+ncVarP_A000448,hg38,12,102843790,,G,A,single,intronic,0.000545,0.016501,dbsnp:rs5030855,23357515,Phenylketonuria|not provided
+ncVarP_A000449,hg38,12,102844333,,A,G,single,intronic,0,0,dbsnp:rs62508689,8088845,"Hyperphenylalaninemia, non-pku|not specified|not provided"
+ncVarP_A000450,hg38,12,119832768,,A,T,single,intronic,0,0,dbsnp:rs886037895,27519304,"Microcephaly 17, primary, autosomal recessive"
+ncVarP_A000451,hg38,12,132643404,,A,G,single,intronic,0,0,dbsnp:rs398122515,23230001,"Facial dysmorphism, immunodeficiency, livedo, and short stature"
+ncVarP_A000452,hg38,13,31247104,,G,A,single,intronic,6.6E-05,0.005746,dbsnp:rs80338850,20301637,Peters plus syndrome
+ncVarP_A000453,hg38,13,39699477,,A,G,single,intronic,0,0,dbsnp:rs730882236,23606727,Congenital disorder of glycosylation type 2L|Shaheen syndrome|Intellectual disability|Hyphidrosis
+ncVarP_A000454,hg38,14,65724328,,G,T,single,intronic,NA,NA,dbsnp:rs1555388034,29304374,CONGENITAL DISORDER OF GLYCOSYLATION WITH DEFECTIVE FUCOSYLATION
+ncVarP_A000455,hg38,14,74486324,,G,A,single,intronic,0.000171,0.009249,dbsnp:rs80358268,11567215,Niemann-Pick disease type C2
+ncVarP_A000456,hg38,14,77320429,,G,C,single,intronic,0,0,dbsnp:rs587777816,19138766,"Congenital muscular dystrophy-dystroglycanopathy with mental retardation, type B2"
+ncVarP_A000457,hg38,14,81092611,,G,C,single,intronic,0,0,dbsnp:rs786205080,9589691,"Hypothyroidism, congenital, nongoitrous, 1"
+ncVarP_A000458,hg38,14,88843851,,G,A,single,intronic,3.1E-05,0.003963,dbsnp:rs587777808,16308660,Bardet-Biedl syndrome 8
+ncVarP_A000459,hg38,15,42731206,,G,A,single,intronic,0.000576,0.016968,dbsnp:rs113313967,16098079,"Congenital dyserythropoietic anemia, type I"
+ncVarP_A000460,hg38,15,48226575,,A,G,single,intronic,1.7E-05,0.00289,dbsnp:rs774515747,19513753,"Bartter syndrome, type 1, antenatal"
+ncVarP_A000461,hg38,15,48446701,,G,A,single,intronic,0,0,dbsnp:rs193922219,21542060,Marfan syndrome|Ischemic stroke|Ectopia lentis|not provided|Arachnodactyly|Cutaneous melanoma|Ischemic stroke|Aortic root dilatation|Dissecting aortic dilatation|Melanoma|Severe Myopia|Ectopia lentis
+ncVarP_A000462,hg38,15,52153937,,A,G,single,intronic,0,0,dbsnp:rs766004901,27523599,Intellectual developmental disorder with cardiac arrhythmia
+ncVarP_A000463,hg38,15,57234110,,G,C,single,intronic,0,0,dbsnp:rs886037640,23354436,Craniosynostosis 3
+ncVarP_A000464,hg38,15,68211258,,G,T,single,intronic,0,0,dbsnp:rs786205066,15996215,Ceroid lipofuscinosis neuronal 6
+ncVarP_A000465,hg38,15,72349266,,G,A,single,intronic,5E-05,0.004996,dbsnp:rs770932296,9272736,"Tay-Sachs disease|Gm2-gangliosidosis, chronic"
+ncVarP_A000466,hg38,15,91004872,,G,C,single,intronic,3.3E-05,0.004059,dbsnp:rs398122407,22753090,Arthrogryposis renal dysfunction cholestasis syndrome|not specified|not provided|Inborn genetic diseases
+ncVarP_A000467,hg38,16,1772656,,G,A,single,intronic,1.9E-05,0.003069,dbsnp:rs563189672,28777931,COMBINED OXIDATIVE PHOSPHORYLATION DEFICIENCY 32
+ncVarP_A000468,hg38,16,4798564,,G,C,single,intronic,9.8E-05,0.006993,dbsnp:rs749657986,22424600,Kohlschutter's syndrome
+ncVarP_A000469,hg38,16,14627189,,A,G,single,intronic,2.8E-05,0.003734,dbsnp:rs751381953,25848748,"Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4"
+ncVarP_A000470,hg38,16,17138534,,C,T,single,intronic,0.003364,0.040874,dbsnp:rs201818754,24581741,Desbuquois dysplasia 2
+ncVarP_A000471,hg38,16,23445968,,A,G,single,intronic,NA,NA,dbsnp:rs1555496968,19577670,COG7 congenital disorder of glycosylation
+ncVarP_A000472,hg38,16,23452822,,A,C,single,intronic,NA,NA,dbsnp:rs1555497568,17395513,COG7 congenital disorder of glycosylation
+ncVarP_A000473,hg38,16,31484657,,C,A,single,intronic,0.000116,0.007616,dbsnp:rs398122801,21165652,Familial renal glucosuria
+ncVarP_A000474,hg38,16,46693187,,G,A,single,intronic,0.000398,0.014104,dbsnp:rs572314014,22333897,Meier-Gorlin syndrome 3
+ncVarP_A000475,hg38,16,57656620,,G,C,single,intronic,0,0,dbsnp:rs587776623,15044805,"Polymicrogyria, bilateral frontoparietal"
+ncVarP_A000476,hg38,16,67436156,,C,T,single,intronic,0.000526,0.016206,dbsnp:rs376023420,7670488,Apparent mineralocorticoid excess
+ncVarP_A000477,hg38,16,67942609,,T,C,single,intronic,0,0,dbsnp:rs794726664,8755645,Fish-eye disease
+ncVarP_A000478,hg38,16,71576031,,A,G,single,intronic,0,0,dbsnp:rs587776512,1357662,Tyrosinemia type 2
+ncVarP_A000479,hg38,16,89651659,,G,A,single,intronic,1.7E-05,0.002929,dbsnp:rs398122918,23023333,Pontocerebellar hypoplasia type 8
+ncVarP_A000480,hg38,17,562498,,G,A,single,intronic,0,0,dbsnp:rs587777466,24577744,"Pontocerebellar hypoplasia, type 2e"
+ncVarP_A000481,hg38,17,3659855,,C,G,single,intronic,0,0,dbsnp:rs113994210,10625078,"Cystinosis, ocular nonnephropathic"
+ncVarP_A000482,hg38,17,4901641,,G,A,single,intronic,0,0,dbsnp:rs879255563,16087917,"Myasthenic syndrome, congenital, associated with acetylcholine receptor deficiency"
+ncVarP_A000483,hg38,17,6610163,,C,A,single,intronic,0,0,dbsnp:rs886038201,26643951,Orofaciodigital syndrome XV
+ncVarP_A000484,hg38,17,8173444,,C,T,single,reported_as_part_of_a_ncRNA,0.004049,0.044811,dbsnp:rs201787275,27571260,"Leukoencephalopathy, brain calcifications, and cysts"
+ncVarP_A000485,hg38,17,8173448,,C,G,single,3utr,0.003659,0.042641,dbsnp:rs75008470,27571260,"Leukoencephalopathy, brain calcifications, and cysts"
+ncVarP_A000486,hg38,17,8175756,,G,A,single,intronic,0,0,dbsnp:rs1131692180,26123494,Meckel syndrome 13
+ncVarP_A000487,hg38,17,28402322,,G,A,single,intronic,0,0,dbsnp:rs80338775,20301716,Congenital defect of folate absorption
+ncVarP_A000488,hg38,17,31221842,,A,G,single,intronic,0,0,dbsnp:rs267606602,9639526,"Juvenile myelomonocytic leukemia|Neurofibromatosis, type 1"
+ncVarP_A000489,hg38,17,31336328,,A,G,single,intronic,0,0,dbsnp:rs267606604,24789688,"Neurofibromatosis, familial spinal|Neurofibromatosis, type 1|Hereditary cancer-predisposing syndrome"
+ncVarP_A000490,hg38,17,44375719,,C,G,single,intronic,1.7E-05,0.002908,dbsnp:rs763330792,1317725,Glanzmann thrombasthenia
+ncVarP_A000491,hg38,17,63917755,,G,C,single,intronic,0,0,dbsnp:rs863223308,10689634,Isolated growth hormone deficiency type 1B
+ncVarP_A000492,hg38,17,63917989,,G,A,single,intronic,0,0,dbsnp:rs863223306,9175738,Autosomal dominant isolated somatotropin deficiency
+ncVarP_A000493,hg38,17,63918012,,G,A,single,intronic,0,0,dbsnp:rs863223307,10469016,Autosomal dominant isolated somatotropin deficiency
+ncVarP_A000494,hg38,17,68528994,,A,G,single,intronic,0,0,dbsnp:rs281864799,10973256,"Carney complex, type 1"
+ncVarP_A000495,hg38,17,68543723,,A,G,single,intronic,0,0,dbsnp:rs587777530,23468644,Enamel-renal syndrome|Amelogenesis imperfecta and gingival fibromatosis syndrome
+ncVarP_A000496,hg38,17,77320193,,G,C,single,5utr,0,0,dbsnp:rs80338760,16186812,"Amyotrophy, hereditary neuralgic"
+ncVarP_A000497,hg38,17,80104542,,T,G,single,5utr,0.007139,0.059317,dbsnp:rs386834236,25673129,"Glycogen storage disease, type II|Muscular Diseases|Glycogen storage disease II, adult form|Glycogen storage disease|not provided|Inborn genetic diseases"
+ncVarP_A000498,hg38,17,80182795,,G,A,single,intronic,0,0,dbsnp:rs587777763,22521418,Psoriasis susceptibility 2
+ncVarP_A000499,hg38,17,82893535,,C,G,single,intronic,0,0,dbsnp:rs886041084,27666374,"Encephalopathy, progressive, early-onset, with brain atrophy and thin corpus callosum"
+ncVarP_A000500,hg38,18,23001782,,T,G,single,intronic,0,0,dbsnp:rs587776883,21998596,Seckel syndrome 2
+ncVarP_A000501,hg38,18,57571588,,T,C,single,intronic,0.191567,0.243075,dbsnp:rs2272783,28093505,Erythropoietic protoporphyria|Jaundice|Erythema
+ncVarP_A000502,hg38,18,62113129,,G,A,single,intronic,7.4E-05,0.006088,dbsnp:rs369486176,26394714,Multiple congenital anomalies-hypotonia-seizures syndrome 1
+ncVarP_A000503,hg38,18,70135176,,A,G,single,intronic,0,0,dbsnp:rs864321620,26608784,"Microcephaly, short stature, and polymicrogyria with or without seizures|Congenital microcephaly"
+ncVarP_A000504,hg38,18,79710825,,C,T,single,intronic,0,0,dbsnp:rs113994102,20301787,"Congenital Cataracts, Facial Dysmorphism, and Neuropathy"
+ncVarP_A000505,hg38,19,1105814,,G,A,single,intronic,7.5E-05,0.006105,dbsnp:rs775146234,24706940,Spondylometaphyseal dysplasia Sedaghatian type
+ncVarP_A000506,hg38,19,6361944,,A,G,single,intronic,0,0,dbsnp:rs398123035,23541340,Perrault syndrome 3|Autosomal recessive hearing impairment with normal menstrual cycles
+ncVarP_A000507,hg38,19,7456408,,G,A,single,intronic,0,0,dbsnp:rs1064793002,28132693,Retinitis pigmentosa 78
+ncVarP_A000508,hg38,19,11021722,,C,G,single,intronic,0,0,dbsnp:rs587777463,24658002,Rhabdoid tumor predisposition syndrome 2
+ncVarP_A000509,hg38,19,11105602,,T,C,single,intronic,0.002995,0.038584,dbsnp:rs200238879,9222758,Familial hypercholesterolemia
+ncVarP_A000510,hg38,19,11120523,,G,A,single,intronic,0.000154,0.008773,dbsnp:rs145787161,20828696,Familial hypercholesterolemia
+ncVarP_A000511,hg38,19,11120608,,C,G,single,intronic,0,0,dbsnp:rs587776886,20703241,Familial hypercholesterolemia
+ncVarP_A000512,hg38,19,35033827,,G,A,single,intronic,0,0,dbsnp:rs267607028,18464934,Brugada syndrome 5|not provided
+ncVarP_A000513,hg38,19,35126265,,G,T,single,intronic,0,0,dbsnp:rs1064797095,28318499,"Arthrogryposis multiplex congenita, neurogenic, with myelin defect"
+ncVarP_A000514,hg38,19,35126848,,G,C,single,intronic,0,0,dbsnp:rs1064797093,28318499,"Arthrogryposis multiplex congenita, neurogenic, with myelin defect"
+ncVarP_A000515,hg38,19,43744768,,A,G,single,intronic,0,0,dbsnp:rs869312742,27018474,Abnormality of cardiovascular system morphology|Abnormal facial shape|Global developmental delay|Brainstem dysplasia|Abnormality of cardiovascular system morphology|Heart and brain malformation syndrome
+ncVarP_A000516,hg38,19,45553912,,G,C,single,intronic,0,0,dbsnp:rs80356523,11668429,3-Methylglutaconic aciduria type 3
+ncVarP_A000517,hg38,19,48297995,,G,A,single,intronic,0.000168,0.009158,dbsnp:rs201133219,23261302,"Ciliary dyskinesia|Ciliary dyskinesia, primary, 20"
+ncVarP_A000518,hg38,19,48965344,,C,T,single,5utr,0,0,dbsnp:rs398124637,23421845,Hyperferritinemia cataract syndrome
+ncVarP_A000519,hg38,19,54123563,,A,G,single,intronic,0,0,dbsnp:rs587776590,17325180,Retinitis pigmentosa 11
+ncVarP_A000520,hg38,19,54130024,,C,G,single,intronic,0,0,dbsnp:rs587776591,19618371,Retinitis pigmentosa 11
+ncVarP_A000521,hg38,20,18057908,,T,G,single,5utr,0,0,dbsnp:rs869320630,26749309,Posterior polymorphous corneal dystrophy 1
+ncVarP_A000522,hg38,20,18057941,,T,C,single,5utr,0,0,dbsnp:rs869320629,26749309,Posterior polymorphous corneal dystrophy 1
+ncVarP_A000523,hg38,20,23049655,,G,T,single,5utr,0.000842,0.020502,dbsnp:rs16984852,23332921,Thrombophilia due to thrombomodulin defect
+ncVarP_A000524,hg38,20,44625568,,G,A,single,intronic,0.000149,0.008616,dbsnp:rs761242509,22968453,Severe combined immunodeficiency due to ADA deficiency|not provided
+ncVarP_A000525,hg38,20,45893314,,A,G,single,intronic,0,0,dbsnp:rs786200859,28603679,"Combined deficiency of sialidase AND beta galactosidase|Galactosialidosis, adult"
+ncVarP_A000526,hg38,20,50945767,,T,A,single,intronic,0,0,dbsnp:rs587777115,16641202,Congenital disorder of glycosylation type 1E
+ncVarP_A000527,hg38,20,63689870,,G,A,single,intronic,3.6E-05,0.004254,dbsnp:rs398123050,23591994,"Dyskeratosis congenita, autosomal recessive, 5"
+ncVarP_A000528,hg38,20,63695558,,T,C,single,intronic,3.4E-05,0.004119,dbsnp:rs587777037,28507545,"Dyskeratosis congenita, autosomal recessive, 5"
+ncVarP_A000529,hg38,21,33582064,,A,G,single,intronic,9.9E-05,0.00703,dbsnp:rs779149681,28630177,"Microcephaly-micromelia syndrome|MICROCEPHALY, SHORT STATURE, AND LIMB ABNORMALITIES"
+ncVarP_A000530,hg38,21,33583688,,A,G,single,intronic,0,0,dbsnp:rs1135401960,28191891,"MICROCEPHALY, SHORT STATURE, AND LIMB ABNORMALITIES"
+ncVarP_A000531,hg38,21,42485807,,C,A,single,intronic,0,0,dbsnp:rs587777058,23993197,Kartagener syndrome|Primary ciliary dyskinesia 24
+ncVarP_A000532,hg38,21,44330349,,A,T,single,intronic,0,0,dbsnp:rs1131690800,26974433,Spondylometaphyseal dysplasia axial
+ncVarP_A000533,hg38,22,20061684,,G,A,single,intronic,0.000638,0.017852,dbsnp:rs372949028,29369572,Cardiac arrhythmia|Intellectual functioning disability|Seizures|Episodic flaccid weakness|Acute rhabdomyolysis|TANGO2-Related Metabolic Encephalopathy and Arrhythmias
+ncVarP_A000534,hg38,22,20985828,,G,A,single,intronic,8.3E-05,0.006433,dbsnp:rs587777176,24362817,Schwannomatosis 2
+ncVarP_A000535,hg38,22,29636877,,G,T,single,intronic,0,0,dbsnp:rs587776562,8379998,"Neurofibromatosis, type 2"
+ncVarP_A000536,hg38,22,30613044,,T,G,single,intronic,0,0,dbsnp:rs606231119,14632784,Transcolabamin II deficiency
+ncVarP_A000537,hg38,22,30615125,,A,T,single,intronic,0,0,dbsnp:rs372866837,19373259,Transcolabamin II deficiency
+ncVarP_A000538,hg38,22,42628144,,G,C,single,intronic,0.000264,0.011483,dbsnp:rs200872504,7718898,Methemoglobinemia type 2
+ncVarP_A000539,hg38,X,13716530,,T,C,single,intronic,0,0,dbsnp:rs587776753,12919139,Spondyloepiphyseal dysplasia tarda
+ncVarP_A000540,hg38,X,13719866,,G,A,single,intronic,0,0,dbsnp:rs587776752,11326333,Spondyloepiphyseal dysplasia tarda
+ncVarP_A000541,hg38,X,13744405,,T,G,single,intronic,0,0,dbsnp:rs312262833,20301367,Oral-facial-digital syndrome
+ncVarP_A000542,hg38,X,13750239,,A,G,single,intronic,0,0,dbsnp:rs730880283,22619378,Retinitis Pigmentosa 23
+ncVarP_A000543,hg38,X,15845898,,G,A,single,intronic,0,0,dbsnp:rs587776739,17617514,Pettigrew syndrome
+ncVarP_A000544,hg38,X,21972576,,G,A,single,intronic,0,0,dbsnp:rs397515381,23805436,Snyder Robinson syndrome
+ncVarP_A000545,hg38,X,24726579,,A,G,single,intronic,0,0,dbsnp:rs869312979,27019227,"Pigmentary disorder, reticulate, with systemic manifestations, X-linked"
+ncVarP_A000546,hg38,X,31261301,,A,G,single,intronic,0,0,dbsnp:rs587776747,12754707,Becker muscular dystrophy
+ncVarP_A000547,hg38,X,38300884,,G,A,single,intronic,0,0,dbsnp:rs1410177435,17405150,Retinitis pigmentosa 15
+ncVarP_A000548,hg38,X,40589122,,T,A,single,intronic,0,0,dbsnp:rs1057519331,26467484,"Mental retardation, X-linked, syndromic, Hedera type"
+ncVarP_A000549,hg38,X,48824894,,A,T,single,3utr,0,0,dbsnp:rs398122390,20181727,"Chondrodysplasia with platyspondyly, distinctive brachydactyly, hydrocephaly, and microphthalmia"
+ncVarP_A000550,hg38,X,70450784,,G,C,single,intronic,0,0,dbsnp:rs587777360,24721225,X-Linked mental retardation 90
+ncVarP_A000551,hg38,X,71544561,,T,G,single,intronic,0,0,dbsnp:rs943295842,28584052,"MENTAL RETARDATION, X-LINKED 106"
+ncVarP_A000552,hg38,X,72572052,,G,A,single,intronic,0,0,dbsnp:rs398122888,22889856,Cornelia de Lange syndrome 5
+ncVarP_A000553,hg38,X,80025598,,T,A,single,intronic,0.000321,0.012655,dbsnp:rs200060292,22784330,Abruzzo Erickson syndrome|not provided
+ncVarP_A000554,hg38,X,101346683,,A,C,single,intronic,0,0,dbsnp:rs869320666,15710860,Mohr-Tranebjaerg syndrome
+ncVarP_A000555,hg38,X,101353865,,G,A,single,intronic,0,0,dbsnp:rs864321659,8013627,X-linked agammaglobulinemia with growth hormone deficiency
+ncVarP_A000556,hg38,X,101399747,,G,A,single,intronic,0,0,dbsnp:rs199473684,28430823,"Fabry disease|Fabry disease, cardiac variant"
+ncVarP_A000557,hg38,X,124346784,,G,C,single,intronic,0,0,dbsnp:rs587777612,23280491,"Lymphoproliferative syndrome 1, X-linked"
+ncVarP_A000558,hg38,X,129841774,,G,C,single,intronic,0,0,dbsnp:rs606231183,17436253,"Mental retardation, X-linked, syndromic, Raymond type"
+ncVarP_A000559,hg38,X,136208453,,A,G,single,intronic,NA,NA,dbsnp:rs1556639352,26933038,Uruguay faciocardiomusculoskeletal syndrome
+ncVarP_A000560,hg38,X,139541073,,A,G,single,intronic,0,0,dbsnp:rs398122990,19815722,Hereditary factor IX deficiency disease
+ncVarP_A000561,hg38,X,150659654,,A,G,single,intronic,0,0,dbsnp:rs397518445,10790201,Severe X-linked myotubular myopathy|not provided
+ncVarP_A000562,hg38,X,151403604,,A,T,single,intronic,0,0,dbsnp:rs878854352,23315026,"Myopathy, X-linked, with excessive autophagy"
+ncVarP_A000563,hg38,X,151403604,,A,C,single,intronic,0,0,dbsnp:rs878854352,23315026,"Myopathy, X-linked, with excessive autophagy"
+ncVarP_A000564,hg38,X,151403744,,A,G,single,intronic,0,0,dbsnp:rs797044909,23315026,"Myopathy, X-linked, with excessive autophagy|Inborn genetic diseases"
+ncVarP_A000565,hg38,X,151404909,,T,G,single,intronic,0,0,dbsnp:rs878854353,23315026,"Myopathy, X-linked, with excessive autophagy"
+ncVarP_A000566,hg38,X,151404910,,T,G,single,intronic,0,0,dbsnp:rs878854356,25817839,"Myopathy, X-linked, with excessive autophagy"
+ncVarP_A000567,hg38,X,151405064,,A,G,single,3utr,0,0,dbsnp:rs878854355,23315026,"Myopathy, X-linked, with excessive autophagy"
+ncVarP_A000568,hg38,X,153865838,,A,C,single,intronic,0,0,dbsnp:rs879253713,1303258,X-linked hydrocephalus syndrome
+ncVarP_A000569,hg38,X,153867795,,G,A,single,intronic,0,0,dbsnp:rs879253716,15148591,"Hydrocephalus, X-linked, with hirschsprung disease"
+ncVarP_A000570,hg38,X,154367741,,C,G,single,intronic,0,0,dbsnp:rs398123622,9883725,Periventricular nodular heterotopia 1|not specified
+ncVarP_A000571,hg38,X,154991304,,G,A,single,intronic,0,0,dbsnp:rs387906429,2833855,Hereditary factor VIII deficiency disease
+ncVarP_A000572,hg38,9,35657948,,A,G,single,reported_as_part_of_a_ncRNA,0.000931,0.021551,dbsnp:rs199476103,12107819,cartilage_hair_hypoplasia 
+ncVarP_A000573,hg38,8,127091692,,G,A,single,reported_as_part_of_a_ncRNA,0.49998,0.003195,dbsnp:rs1456315,20874843,hereditary_prostate_cancer
+ncVarP_A000574,hg38,7,129774757,,G,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs587776522,19363479,Hearing loss
+ncVarP_A000575,hg38,MT,5650,,g,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs121434457,16476954,Myotonic dystrophy-like myopathy
+ncVarP_A000576,hg38,MT,5591,,G,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs121434458,14569122,Mitochondrial myopathy 
+ncVarP_A000577,hg38,MT,10438,,A,G,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs121434456,15286228,"Encephalomyopathy, mitochondrial"
+ncVarP_A000578,hg38,MT,10450,,A,G,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs387906731,19809478,"Encephalomyopathy, mitochondrial"
+ncVarP_A000579,hg38,MT,5703,,G,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs199476130,8254046,"Ophthalmoplegia, isolated"
+ncVarP_A000580,hg38,MT,5728,,A,G,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs199476132,7980504,"Mitochondrial complex I deficiency, mitochondrial type 2"
+ncVarP_A000581,hg38,MT,7526,,A,G,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs121434454,16059939,"Mitochondrial myopathy, isolated"
+ncVarP_A000582,hg38,MT,5184,,A,G,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs200077222,8829635,MELAS syndrome
+ncVarP_A000583,hg38,MT,5816,,A,G,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs387906732,17724295,"Dystonia, mitochondrial"
+ncVarP_A000584,hg38,MT,14709,,T,C,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs121434453,7726154,"Diabetes and Deafness, maternally inherited"
+ncVarP_A000585,hg38,MT,14674,,T,C,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs387906421,19720722,"Mitochondrial myopathy, infantile, transient"
+ncVarP_A000586,hg38,MT,14674,,T,G,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs387906421,21194154,"Mitochondrial myopathy, infantile, transient"
+ncVarP_A000587,hg38,MT,14692,,A,G,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs879192165,27519417,"Diabetes and Deafness, maternally inherited"
+ncVarP_A000588,hg38,MT,4369,,-,A,insertion,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs199476140,10996779,Myopathy
+ncVarP_A000589,hg38,MT,4336,,A,G,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs41456348,11424923,Sensorineural deafness and migraine
+ncVarP_A000590,hg38,MT,4332,,G,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs199476141,11171912,MELAS syndrome
+ncVarP_A000591,hg38,MT,9997,,T,C,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs121434475,8079988,"Cardiomyopathy, hypertrophic"
+ncVarP_A000592,hg38,MT,10010,,T,C,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs121434476,11971101,Exercise intolerance
+ncVarP_A000593,hg38,MT,10044,,A,G,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs41362547,8888049,Sudden death
+ncVarP_A000594,hg38,MT,12192,,G,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs3134560,11038324,"Cardiomyopathy, idiopathic dilated, mitochondrial"
+ncVarP_A000595,hg38,MT,12183,,G,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs121434473,12682337,Pigmentary reinopathy and sensorineural deafness
+ncVarP_A000596,hg38,MT,12147,,G,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs121434474,14967777,MERRF/MELAS overlap syndrome
+ncVarP_A000597,hg38,MT,12201,,T,C,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs387906733,21931169,"Deafness, nonsyndromic sensorineural, mitochondrial"
+ncVarP_A000598,hg38,MT,12315,,G,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs121434462,8923013,"Encephalomyopathy, mitochondrial"
+ncVarP_A000599,hg38,MT,12320,,A,G,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs121434463,9012410,"Myopathy, mitochondrial"
+ncVarP_A000600,hg38,MT,12297,,T,C,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs121434464,11313776,"Cardiomyopathy,mitochondrial"
+ncVarP_A000601,hg38,MT,8344,,A,G,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs118192098,2112427,MERRF syndrome
+ncVarP_A000602,hg38,MT,8356,,T,C,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs118192099,8069654,MERRF syndrome
+ncVarP_A000603,hg38,MT,8363,,G,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs118192100,8651277,"Cardiomyopathy, deafness"
+ncVarP_A000604,hg38,MT,8313,,G,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs118192101,9380435,Mitochondrial neurogastrointestinal encephalomyopathy syndrome
+ncVarP_A000605,hg38,MT,8296,,A,G,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs118192102,9571188,"Diabetes and Deafness, maternally inherited"
+ncVarP_A000606,hg38,MT,8342,,G,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs118192103,10220860,Progressive external opthalmoplegia with myoclonus
+ncVarP_A000607,hg38,MT,8316,,G,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs118192104,14681892,MERRF syndrome
+ncVarP_A000608,hg38,MT,4409,,T,C,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs118203884,9633749,"Myopathy, mitochondrial"
+ncVarP_A000609,hg38,MT,583,,G,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs118203885,1171391,MELAS syndrome
+ncVarP_A000610,hg38,MT,611,,G,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs118203886,15184630,MERRF syndrome
+ncVarP_A000611,hg38,MT,622,,G,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs118203887,16769874,"Myopathy, mitochondrial, late-onset"
+ncVarP_A000612,hg38,MT,616,,T,G,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs387906420,20142618,"Epilepsy, mitochondrial"
+ncVarP_A000613,hg38,MT,586,,G,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs387906734,21060018,"Encephalomyopathy, mitochondrial"
+ncVarP_A000614,hg38,MT,608,,A,G,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs387906735,11231339,"Nephropathy, tubulointersitial"
+ncVarP_A000615,hg38,MT,15990,,G,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs199474699,7689388,Myopathy
+ncVarP_A000616,hg38,MT,15965,,T,C,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs199474700,10369889,Parkinson disease susceptibility
+ncVarP_A000617,hg38,MT,15967,,G,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs199474701,19273760,MERFF syndrome
+ncVarP_A000618,hg38,MT,7512,,T,C,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs199474817,7669057,MERRF/MELAS overlap syndrome
+ncVarP_A000619,hg38,MT,7445,,A,G,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs199474818,7987332,"Keratoderma, palmoplantar, with deafness"
+ncVarP_A000620,hg38,MT,7510,,T,C,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs199474820,11175301,"Deafness, nonsyndromic sensorineural, mitochondrial"
+ncVarP_A000621,hg38,MT,7511,,T,C,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs199474821,12461693,"Deafness, nonsyndromic sensorineural, mitochondrial"
+ncVarP_A000622,hg38,MT,7445,,A,C,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs199474818,17659260,"Deafness, nonsyndromic sensorineural, mitochondrial"
+ncVarP_A000623,hg38,MT,7497,,G,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs387906419,14605505,"Exercise intolerance, muscle pain and lactic acidemia"
+ncVarP_A000624,hg38,MT,7505,,T,C,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs724159989,20153673,"Deafness, nonsyndromic sensorineural, mitochondrial"
+ncVarP_A000625,hg38,MT,12258,,C,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs118203888,9792552,"Cerebellar ataxia, cataract amd diabetes mellitus"
+ncVarP_A000626,hg38,MT,12207,,G,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs118203889,16950817,MERRF/MELAS overlap syndrome
+ncVarP_A000627,hg38,MT,15950,,G,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs118203890,10369889,Parkinson disease susceptibility
+ncVarP_A000628,hg38,MT,5549,,G,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs199474671,7695240,"Encephalomyopathy, mitochondrial"
+ncVarP_A000629,hg38,MT,5537,,-,T,insertion,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs199474672,9266739,"Encephalomyopathy, mitochondrial"
+ncVarP_A000630,hg38,MT,5521,,G,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs199474673,9673981,"Myopathy, mitochondrial"
+ncVarP_A000631,hg38,MT,5532,,G,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs199474674,15054399,"Neurogastrointestinal syndrome, mitochondrial"
+ncVarP_A000632,hg38,MT,5545,,C,T,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs387906418,18337306,"Encephalomyopathy, mitochondrial"
+ncVarP_A000633,hg38,MT,5556,,G,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs387906736,19809478,"Encephalomyopathy, mitochondrial"
+ncVarP_A000634,hg38,MT,5874,,A,G,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs118203891,11071502,"Exercise intolerance and complex III deficiency, somatic"
+ncVarP_A000635,hg38,MT,5888,,T,-,deletion,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs118203892,11756614,"Chronic progressive external opthalmoplegia with myopathy, somatic"
+ncVarP_A000636,hg38,MT,5877,,G,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs118203893,11594340,"Chronic progressive external opthalmoplegia with myopathy, somatic"
+ncVarP_A000637,hg38,MT,5843,,A,G,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs118203894,14598342,Focal segmental glomerulosclerosis and dilated cardiomyopathy
+ncVarP_A000638,hg38,MT,1606,,G,A,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs199476143,9450773,"Ataxia, progressive seizures, mental detoriation and hearing loss"
+ncVarP_A000639,hg38,MT,1624,,C,T,single,reported_as_part_of_a_ncRNA,0,0,dbsnp:rs199476144,11799391,Neonatal death
