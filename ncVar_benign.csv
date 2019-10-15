@@ -12,7 +12,7 @@ ncVarB_A000010,hg38,8,24425960,A,A/C,substitution,intronic,0.315273,0.241329,rs4
 ncVarB_A000011,hg38,15,93986922,T,A/C/G/T,substitution,intronic,0.387074,0.209071,rs973410
 ncVarB_A000012,hg38,6,112693896,C,C/T,substitution,intronic,0.385168,0.210309,rs7751257
 ncVarB_A000013,hg38,8,22319730,A,A/G/T,substitution,intronic,0.451608,0.147832,rs9792182
-ncVarB_A000014,hg38,20,1561585,A,A/G,substitution,reported_as_part_of_an_ncrna  ,0.314057,0.241654,rs2422615
+ncVarB_A000014,hg38,20,1561585,A,A/G,substitution,ncRNA,0.314057,0.241654,rs2422615
 ncVarB_A000015,hg38,3,3407735,G,A/G,substitution,intronic,0.460925,0.134204,rs9881415
 ncVarB_A000016,hg38,14,41838595,G,A/G,substitution,intronic,0.304937,0.243889,rs17112292
 ncVarB_A000017,hg38,15,39294919,C,A/C/G,substitution,intronic,0.497211,0.037236,rs2196973
@@ -33,7 +33,7 @@ ncVarB_A000031,hg38,14,45129550,G,C/T,substitution,intronic,0.321292,0.23962,rs3
 ncVarB_A000032,hg38,10,63959619,C,C/T,substitution,intronic,0.484771,0.085921,rs2253115
 ncVarB_A000033,hg38,4,165389875,T,A/T,substitution,intronic,0.397633,0.201754,rs1438109
 ncVarB_A000034,hg38,10,3157962,G,C/G,substitution,intronic,0.475259,0.108435,rs9423705
-ncVarB_A000035,hg38,21,13069178,G,A/G/T,substitution,reported_as_part_of_an_ncrna  ,0.32,0.24,rs10432812
+ncVarB_A000035,hg38,21,13069178,G,A/G/T,substitution,ncRNA,0.32,0.24,rs10432812
 ncVarB_A000036,hg38,9,98434127,C,A/C,substitution,intronic,0.479984,0.098017,rs4743225
 ncVarB_A000037,hg38,14,91045260,T,-/T,deletion,intronic,0.326976,0.237854,rs557182210
 ncVarB_A000038,hg38,8,101935439,A,A/C,substitution,intronic,0.469937,0.118861,rs13278642
@@ -67,7 +67,7 @@ ncVarB_A000065,hg38,21,18025809,C,A/C,substitution,intronic,0.405776,0.195535,rs
 ncVarB_A000066,hg38,7,93563929,C,C/T,substitution,intronic,0.376989,0.215346,rs10464483
 ncVarB_A000067,hg38,6,31503351,C,A/C,substitution,intronic,0.449599,0.150533,rs2855810
 ncVarB_A000068,hg38,11,19542040,AGTT,-/AGTT,deletion,intronic,0.322483,0.239262,rs140990680
-ncVarB_A000069,hg38,18,66502946,G,A/G,substitution,reported_as_part_of_an_ncrna  ,0.361263,0.223876,rs8097526
+ncVarB_A000069,hg38,18,66502946,G,A/G,substitution,ncRNA,0.361263,0.223876,rs8097526
 ncVarB_A000070,hg38,19,28466146,G,A/G,substitution,intronic,0.469642,0.119404,rs1005328
 ncVarB_A000071,hg38,4,189938227,G,A/G,substitution,intronic,0.401037,0.199218,rs13123631
 ncVarB_A000072,hg38,5,76702054,C,C/T,substitution,intronic,0.407502,0.194147,rs13181615
@@ -90,7 +90,7 @@ ncVarB_A000088,hg38,10,13298966,C,C/T,substitution,intronic,0.478685,0.10101,rs7
 ncVarB_A000089,hg38,10,29470245,G,-/G,deletion,intronic,0.476971,0.104805,rs3215848
 ncVarB_A000090,hg38,X,40355689,G,C/T,substitution,intronic,0.43615,0.166878,rs3008929
 ncVarB_A000091,hg38,11,107241194,A,A/G,substitution,intronic,0.499999,0.000799,rs1844745
-ncVarB_A000092,hg38,2,18269317,G,A/G,substitution,reported_as_part_of_an_ncrna  ,0.338069,0.233974,rs6706150
+ncVarB_A000092,hg38,2,18269317,G,A/G,substitution,ncRNA,0.338069,0.233974,rs6706150
 ncVarB_A000093,hg38,18,26301294,T,A/C,substitution,intronic,0.495634,0.046521,rs1677011
 ncVarB_A000094,hg38,12,3258610,-,-/CCT,insertion,intronic,0.419936,0.183362,rs113420741
 ncVarB_A000095,hg38,4,5089779,C,C/G,substitution,intronic,0.42,0.183303,rs79153651
@@ -133,7 +133,7 @@ ncVarB_A000131,hg38,19,43010938,G,G/T,substitution,intronic,0.490727,0.067457,rs
 ncVarB_A000132,hg38,3,60319386,A,A/G,substitution,intronic,0.489376,0.072105,rs186154
 ncVarB_A000133,hg38,5,7347235,A,A/G/T,substitution,intronic,0.473909,0.111197,rs11134222
 ncVarB_A000134,hg38,18,11086759,-,-/TT,insertion,intronic,0.444629,0.156906,rs576645981
-ncVarB_A000135,hg38,17,63863305,C,A/C,substitution,reported_as_part_of_an_ncrna  ,0.397271,0.202018,rs139735602
+ncVarB_A000135,hg38,17,63863305,C,A/C,substitution,ncRNA,0.397271,0.202018,rs139735602
 ncVarB_A000136,hg38,19,5305834,G,G/T,substitution,intronic,0.307919,0.243198,rs7255855
 ncVarB_A000137,hg38,16,12522311,G,A/G,substitution,intronic,0.407158,0.194426,rs6498314
 ncVarB_A000138,hg38,4,112836385,G,C/G,substitution,intronic,0.42666,0.176893,rs7665345
@@ -192,7 +192,7 @@ ncVarB_A000190,hg38,4,6052570,G,A/G,substitution,intronic,0.400682,0.199487,rs68
 ncVarB_A000191,hg38,8,132933953,T,C/T,substitution,intronic,0.492533,0.060644,rs4361742
 ncVarB_A000192,hg38,15,52157898,-,-/A/AA,insertion,intronic,0.312593,0.242037,rs537806734
 ncVarB_A000193,hg38,6,5403692,C,A/G,substitution,intronic,0.453939,0.144598,rs2432778
-ncVarB_A000194,hg38,21,34353926,G,A/G/T,substitution,reported_as_part_of_an_ncrna  ,0.365394,0.221775,rs723548
+ncVarB_A000194,hg38,21,34353926,G,A/G/T,substitution,ncRNA,0.365394,0.221775,rs723548
 ncVarB_A000195,hg38,5,121324796,T,-/T,deletion,intronic,0.495587,0.046766,rs201387073
 ncVarB_A000196,hg38,1,17074598,G,C/T,substitution,intronic,0.498589,0.02652,rs2295053
 ncVarB_A000197,hg38,3,130092479,G,A/G,substitution,intronic,0.417845,0.185278,rs11718709
@@ -314,7 +314,7 @@ ncVarB_A000312,hg38,5,77761033,T,A/G/T,substitution,intronic,0.470327,0.118136,r
 ncVarB_A000313,hg38,16,7580595,C,C/T,substitution,intronic,0.471958,0.115042,rs12921400
 ncVarB_A000314,hg38,9,87528346,A,A/G,substitution,intronic,0.386504,0.209444,rs11141864
 ncVarB_A000315,hg38,17,29852047,A,A/G,substitution,intronic,0.497855,0.032677,rs9900730
-ncVarB_A000316,hg38,5,55937847,C,A/G,substitution,reported_as_part_of_an_ncrna  ,0.3318,0.236239,rs16884659
+ncVarB_A000316,hg38,5,55937847,C,A/G,substitution,ncRNA,0.3318,0.236239,rs16884659
 ncVarB_A000317,hg38,7,18888699,G,A/G/T,substitution,intronic,0.32627,0.238082,rs71524256
 ncVarB_A000318,hg38,20,58413306,G,A/G,substitution,intronic,0.397452,0.201886,rs62205699
 ncVarB_A000319,hg38,5,164792343,G,A/G,substitution,intronic,0.480144,0.097642,rs13163455
@@ -467,7 +467,7 @@ ncVarB_A000465,hg38,10,19939179,G,A/G/T,substitution,intronic,0.423191,0.186408,
 ncVarB_A000466,hg38,4,76034040,T,A/C/T,substitution,intronic,0.426813,0.17674,rs4356932
 ncVarB_A000467,hg38,6,158754447,T,A/C/T,substitution,intronic,0.499996,0.001398,rs3127227
 ncVarB_A000468,hg38,8,103124800,A,A/C/T,substitution,intronic,0.304688,0.243945,rs2249254
-ncVarB_A000469,hg38,18,5955932,G,C/T,substitution,reported_as_part_of_an_ncrna  ,0.473081,0.112848,rs2298534
+ncVarB_A000469,hg38,18,5955932,G,C/T,substitution,ncRNA,0.473081,0.112848,rs2298534
 ncVarB_A000470,hg38,8,4312392,AC,-/AC,deletion,intronic,0.350546,0.22889,rs72262767
 ncVarB_A000471,hg38,X,124100883,A,-/A,deletion,3utr,0.389354,0.207558,rs67492414
 ncVarB_A000472,hg38,7,78564879,G,A/C/G/T,substitution,intronic,0.37138,0.218556,rs148382527
@@ -494,7 +494,7 @@ ncVarB_A000492,hg38,X,8145319,A,A/G,substitution,intronic,0.4032,0.197559,rs5978
 ncVarB_A000493,hg38,4,184125706,T,C/T,substitution,intronic,0.440609,0.161766,rs4370183
 ncVarB_A000494,hg38,6,46169368,TGATATCTTCCTAAGC,-/TGATATCTTCCTAAGC,deletion,intronic,0.493793,0.055364,rs66717967
 ncVarB_A000495,hg38,12,102662312,A,A/G,substitution,intronic,0.406986,0.194565,rs12825173
-ncVarB_A000496,hg38,5,128640173,T,A/T,substitution,reported_as_part_of_an_ncrna  ,0.384401,0.210799,rs56413030
+ncVarB_A000496,hg38,5,128640173,T,A/T,substitution,ncRNA,0.384401,0.210799,rs56413030
 ncVarB_A000497,hg38,16,82885724,T,C/T,substitution,intronic,0.320335,0.239902,rs4783292
 ncVarB_A000498,hg38,10,75374743,G,A/G/T,substitution,intronic,0.433236,0.170072,rs1259597
 ncVarB_A000499,hg38,5,166909277,C,C/G/T,substitution,intronic,0.485255,0.084587,rs13187697
@@ -584,7 +584,7 @@ ncVarB_A000582,hg38,20,4224703,A,A/G,substitution,intronic,0.417034,0.18601,rs70
 ncVarB_A000583,hg38,6,140732117,TATTTTTATTCAGAATAATAAATATGAAA,lengthTooLong,insertion,intronic,0.495368,0.0479,rs143416826
 ncVarB_A000584,hg38,3,14555385,GGGGGC,-/GGGGGC,deletion,intronic,0.349233,0.229462,rs151155935
 ncVarB_A000585,hg38,14,89842635,TG,-/TG,deletion,intronic,0.470327,0.118136,rs527347111
-ncVarB_A000586,hg38,9,120366784,T,A/T,substitution,reported_as_part_of_an_ncrna  ,0.435119,0.16802,rs4837762
+ncVarB_A000586,hg38,9,120366784,T,A/T,substitution,ncRNA,0.435119,0.16802,rs4837762
 ncVarB_A000587,hg38,11,11426301,A,A/G/T,substitution,intronic,0.451483,0.148002,rs6484900
 ncVarB_A000588,hg38,4,185359649,T,A/G,substitution,intronic,0.490287,0.069008,rs1812114
 ncVarB_A000589,hg38,5,2098189,A,A/G,substitution,intronic,0.38934,0.207568,rs56154225
@@ -609,7 +609,7 @@ ncVarB_A000607,hg38,19,36944862,A,A/G/T,substitution,intronic,0.498437,0.027912,
 ncVarB_A000608,hg38,16,17873348,-,-/T,insertion,intronic,0.474142,0.110727,rs538839987
 ncVarB_A000609,hg38,7,110513541,G,A/C/G/T,substitution,intronic,0.499437,0.016764,rs1532973
 ncVarB_A000610,hg38,1,19621478,A,C/T,substitution,intronic,0.422944,0.180528,rs1320978
-ncVarB_A000611,hg38,10,92419590,G,A/C,substitution,reported_as_part_of_an_ncrna  ,0.436692,0.166271,rs967878
+ncVarB_A000611,hg38,10,92419590,G,A/C,substitution,ncRNA,0.436692,0.166271,rs967878
 ncVarB_A000612,hg38,11,99461504,A,A/G,substitution,intronic,0.377582,0.214995,rs10893373
 ncVarB_A000613,hg38,5,24579803,C,C/T,substitution,intronic,0.412416,0.190055,rs10079036
 ncVarB_A000614,hg38,11,94624892,T,-/T,deletion,intronic,0.419616,0.183658,rs34622028
@@ -672,7 +672,7 @@ ncVarB_A000670,hg38,4,110004214,-,-/CA,insertion,intronic,0.352287,0.228117,rs20
 ncVarB_A000671,hg38,19,53653690,G,A/G,substitution,intronic,0.338069,0.233974,rs11878428
 ncVarB_A000672,hg38,13,24440437,A,-/A,deletion,intronic,0.399968,0.200024,rs71070698
 ncVarB_A000673,hg38,11,13823934,G,A/G,substitution,intronic,0.483199,0.0901,rs10832123
-ncVarB_A000674,hg38,4,189707537,G,A/G,substitution,reported_as_part_of_an_ncrna  ,0.492188,0.06201,rs2260558
+ncVarB_A000674,hg38,4,189707537,G,A/G,substitution,ncRNA,0.492188,0.06201,rs2260558
 ncVarB_A000675,hg38,3,85543347,A,A/C/G/T,substitution,intronic,0.499396,0.017362,rs2326317
 ncVarB_A000676,hg38,8,78280260,T,A/C/T,substitution,intronic,0.470132,0.118498,rs7014507
 ncVarB_A000677,hg38,5,156028056,T,C/T,substitution,intronic,0.471768,0.115407,rs3097812
@@ -769,7 +769,7 @@ ncVarB_A000767,hg38,5,15602534,T,C/T,substitution,intronic,0.401392,0.198948,rs1
 ncVarB_A000768,hg38,17,20127646,A,A/T,substitution,intronic,0.302686,0.244385,rs1812934
 ncVarB_A000769,hg38,11,84030102,G,A/G,substitution,intronic,0.479014,0.100263,rs10792706
 ncVarB_A000770,hg38,19,11053220,T,A/G,substitution,intronic,0.483923,0.088203,rs1529728
-ncVarB_A000771,hg38,9,14615034,A,A/G,substitution,reported_as_part_of_an_ncrna  ,0.384976,0.210431,rs10961619
+ncVarB_A000771,hg38,9,14615034,A,A/G,substitution,ncRNA,0.384976,0.210431,rs10961619
 ncVarB_A000772,hg38,6,35379340,G,A/G,substitution,intronic,0.365853,0.221536,rs7754871
 ncVarB_A000773,hg38,20,17438525,G,A/G,substitution,intronic,0.482831,0.091047,rs6044814
 ncVarB_A000774,hg38,7,20720816,G,A/G,substitution,intronic,0.496746,0.040204,rs12534504
@@ -878,7 +878,7 @@ ncVarB_A000876,hg38,Y,19499380,C,C/G,substitution,intronic,0.334676,0.235223,rs1
 ncVarB_A000877,hg38,6,158466482,G,A/G/T,substitution,intronic,0.498277,0.029302,rs597765
 ncVarB_A000878,hg38,17,72675857,T,G/T,substitution,intronic,0.326976,0.237854,rs71377872
 ncVarB_A000879,hg38,4,112977574,T,A/T,substitution,intronic,0.474453,0.110094,rs7678761
-ncVarB_A000880,hg38,6,92979865,T,C/T,substitution,reported_as_part_of_an_ncrna  ,0.437542,0.165312,rs796716
+ncVarB_A000880,hg38,6,92979865,T,C/T,substitution,ncRNA,0.437542,0.165312,rs796716
 ncVarB_A000881,hg38,11,71421747,C,A/C,substitution,intronic,0.35207,0.228214,rs11233606
 ncVarB_A000882,hg38,22,34131069,C,C/T,substitution,intronic,0.364817,0.222075,rs130669
 ncVarB_A000883,hg38,9,128824960,G,C/G/T,substitution,intronic,0.438145,0.164626,rs2293968
@@ -1030,7 +1030,7 @@ ncVarB_A001028,hg38,15,93633963,A,A/G,substitution,intronic,0.466308,0.125343,rs
 ncVarB_A001029,hg38,2,1321885,T,C/T,substitution,intronic,0.465996,0.12588,rs377114723
 ncVarB_A001030,hg38,8,24172822,A,A/C/T,substitution,intronic,0.484545,0.086536,rs288377
 ncVarB_A001031,hg38,9,69073559,T,A/G/T,substitution,intronic,0.440884,0.161442,rs11145043
-ncVarB_A001032,hg38,19,47939542,G,A/C/G,substitution,reported_as_part_of_an_ncrna  ,0.318656,0.240388,rs62130020
+ncVarB_A001032,hg38,19,47939542,G,A/C/G,substitution,ncRNA,0.318656,0.240388,rs62130020
 ncVarB_A001033,hg38,9,75140552,C,C/T,substitution,intronic,0.44546,0.155869,rs2273770
 ncVarB_A001034,hg38,7,30832975,A,A/G,substitution,intronic,0.320814,0.239761,rs73091472
 ncVarB_A001035,hg38,19,43500413,A,A/G,substitution,intronic,0.356169,0.226336,rs2682553
@@ -1099,7 +1099,7 @@ ncVarB_A001097,hg38,4,16607641,A,-/A,deletion,intronic,0.490563,0.068039,rs35843
 ncVarB_A001098,hg38,17,48901959,ATATAT,-/ATATAT,deletion,intronic,0.495855,0.045338,rs544879028
 ncVarB_A001099,hg38,8,3884722,G,G/T,substitution,intronic,0.499218,0.019753,rs11786301
 ncVarB_A001100,hg38,5,179561224,AAA,-/AAA,deletion,intronic,0.320814,0.239761,rs34136449
-ncVarB_A001101,hg38,5,76712740,AAAA,-/AAAA,deletion,reported_as_part_of_an_ncrna  ,0.359787,0.224604,rs70982630
+ncVarB_A001101,hg38,5,76712740,AAAA,-/AAAA,deletion,ncRNA,0.359787,0.224604,rs70982630
 ncVarB_A001102,hg38,5,122854515,A,-/A,deletion,intronic,0.332106,0.236133,rs200688573
 ncVarB_A001103,hg38,2,7077691,C,C/T,substitution,intronic,0.45574,0.142025,rs1901765
 ncVarB_A001104,hg38,10,107389090,T,A/G/T,substitution,intronic,0.497907,0.03228,rs1416411
@@ -1143,7 +1143,7 @@ ncVarB_A001141,hg38,X,115898782,A,A/T,substitution,intronic,0.33463,0.23524,rs11
 ncVarB_A001142,hg38,16,75158905,T,-/T,deletion,intronic,0.412082,0.190341,rs559554816
 ncVarB_A001143,hg38,3,124143677,T,G/T,substitution,intronic,0.430285,0.173197,rs1920612
 ncVarB_A001144,hg38,18,56988348,T,A/G,substitution,intronic,0.497091,0.038028,rs1539908
-ncVarB_A001145,hg38,3,856452,A,A/C,substitution,reported_as_part_of_an_ncrna  ,0.485187,0.084778,rs12490507
+ncVarB_A001145,hg38,3,856452,A,A/C,substitution,ncRNA,0.485187,0.084778,rs12490507
 ncVarB_A001146,hg38,5,81563295,C,A/C,substitution,intronic,0.496968,0.038819,rs7717663
 ncVarB_A001147,hg38,20,18644240,T,A/T,substitution,intronic,0.340559,0.233022,rs55810662
 ncVarB_A001148,hg38,6,67900855,C,C/T,substitution,intronic,0.4661,0.125701,rs9445935
@@ -1264,7 +1264,7 @@ ncVarB_A001262,hg38,13,29368042,A,A/C/G,substitution,intronic,0.447938,0.152711,
 ncVarB_A001263,hg38,8,14276954,T,C/T,substitution,intronic,0.418974,0.184249,rs56082469
 ncVarB_A001264,hg38,13,40978946,AT,C/T,substitution,intronic,0.499717,0.011901,rs879123117
 ncVarB_A001265,hg38,13,61422657,T,A/T,substitution,intronic,0.427575,0.175975,rs4277248
-ncVarB_A001266,hg38,14,101354592,A,A/C/T,substitution,reported_as_part_of_an_ncrna  ,0.522819,0.162908,rs10143398
+ncVarB_A001266,hg38,14,101354592,A,A/C/T,substitution,ncRNA,0.522819,0.162908,rs10143398
 ncVarB_A001267,hg38,12,11235558,C,C/T,substitution,intronic,0.304688,0.243945,rs7297800
 ncVarB_A001268,hg38,5,142334267,A,A/T,substitution,intronic,0.472429,0.114129,rs11743306
 ncVarB_A001269,hg38,10,66635811,C,C/G,substitution,intronic,0.441295,0.160954,rs7893164
@@ -1322,7 +1322,7 @@ ncVarB_A001320,hg38,3,2362644,C,C/T,substitution,intronic,0.378765,0.214288,rs18
 ncVarB_A001321,hg38,3,136525509,T,C/T,substitution,intronic,0.411746,0.190626,rs9757761
 ncVarB_A001322,hg38,4,150684181,T,A/C/T,substitution,intronic,0.477175,0.104362,rs12505967
 ncVarB_A001323,hg38,8,67471883,A,A/T,substitution,intronic,0.497722,0.033669,rs7822207
-ncVarB_A001324,hg38,11,118692994,-,-/A,insertion,reported_as_part_of_an_ncrna  ,0.426813,0.17674,rs11455968
+ncVarB_A001324,hg38,11,118692994,-,-/A,insertion,ncRNA,0.426813,0.17674,rs11455968
 ncVarB_A001325,hg38,Y,11175198,T,G/T,substitution,intronic,0.48,0.09798,rs79005323
 ncVarB_A001326,hg38,6,133385351,A,A/C/T,substitution,intronic,0.345704,0.230956,rs212816
 ncVarB_A001327,hg38,16,24898875,A,A/G,substitution,intronic,0.364609,0.222182,rs274092
@@ -1361,7 +1361,7 @@ ncVarB_A001359,hg38,15,27209333,C,C/T,substitution,intronic,0.423881,0.179625,rs
 ncVarB_A001360,hg38,6,146295790,A,A/G,substitution,intronic,0.35207,0.228214,rs4479958
 ncVarB_A001361,hg38,4,132641762,C,A/G/T,substitution,intronic,0.382473,0.212016,rs725304
 ncVarB_A001362,hg38,16,61876801,C,C/T,substitution,intronic,0.447162,0.153712,rs8044468
-ncVarB_A001363,hg38,12,89540153,G,A/G/T,substitution,reported_as_part_of_an_ncrna  ,0.329084,0.237162,rs3741899
+ncVarB_A001363,hg38,12,89540153,G,A/G/T,substitution,ncRNA,0.329084,0.237162,rs3741899
 ncVarB_A001364,hg38,22,32792549,C,C/T,substitution,intronic,0.324619,0.238604,rs130559
 ncVarB_A001365,hg38,6,25913780,-,lengthTooLong,insertion,intronic,0.487621,0.077694,rs71544286
 ncVarB_A001366,hg38,12,130830431,C,A/G,substitution,intronic,0.478437,0.10157,rs1077317
@@ -1466,7 +1466,7 @@ ncVarB_A001464,hg38,9,131163310,T,A/T,substitution,intronic,0.480697,0.096328,rs
 ncVarB_A001465,hg38,3,151512747,T,A/T,substitution,intronic,0.337614,0.234145,rs146426544
 ncVarB_A001466,hg38,5,125361399,A,A/G,substitution,intronic,0.446771,0.154211,rs370427746
 ncVarB_A001467,hg38,13,40808670,T,C/T,substitution,intronic,0.481009,0.095576,rs60754171
-ncVarB_A001468,hg38,3,193771994,G,A/G,substitution,reported_as_part_of_an_ncrna  ,0.450357,0.149522,rs6444744
+ncVarB_A001468,hg38,3,193771994,G,A/G,substitution,ncRNA,0.450357,0.149522,rs6444744
 ncVarB_A001469,hg38,6,99442351,C,C/T,substitution,intronic,0.415235,0.18761,rs17181201
 ncVarB_A001470,hg38,4,139760013,C,C/T,substitution,intronic,0.358515,0.225221,rs28582297
 ncVarB_A001471,hg38,16,23333813,AAATT,-/AAATT,deletion,intronic,0.41325,0.18934,rs113195087
@@ -1503,7 +1503,7 @@ ncVarB_A001501,hg38,5,88249500,C,A/G,substitution,intronic,0.48378,0.088583,rs30
 ncVarB_A001502,hg38,19,4188575,G,C/G,substitution,intronic,0.498632,0.026122,rs11085062
 ncVarB_A001503,hg38,11,121498875,-,-/A/AA,insertion,intronic,0.481087,0.095388,rs5795273
 ncVarB_A001504,hg38,13,20476030,C,C/G,substitution,intronic,0.440746,0.161604,rs7324188
-ncVarB_A001505,hg38,14,79948733,G,A/G,substitution,reported_as_part_of_an_ncrna  ,0.483995,0.088013,rs10483939
+ncVarB_A001505,hg38,14,79948733,G,A/G,substitution,ncRNA,0.483995,0.088013,rs10483939
 ncVarB_A001506,hg38,11,70014292,G,A/G,substitution,intronic,0.300169,0.244914,rs902875
 ncVarB_A001507,hg38,16,25932702,T,C/T,substitution,intronic,0.499218,0.019753,rs8052547
 ncVarB_A001508,hg38,17,65946544,T,C/T,substitution,intronic,0.475437,0.108066,rs1362665
@@ -1699,9 +1699,9 @@ ncVarB_A001697,hg38,6,161263107,G,A/G,substitution,intronic,0.475613,0.107697,rs
 ncVarB_A001698,hg38,17,5415893,C,C/T,substitution,intronic,0.493969,0.05458,rs28437236
 ncVarB_A001699,hg38,8,78606743,C,C/T,substitution,intronic,0.375996,0.215928,rs59401393
 ncVarB_A001700,hg38,9,70892140,A,A/G,substitution,intronic,0.417034,0.18601,rs1337033
-ncVarB_A001701,hg38,2,20405541,T,G/T,substitution,reported_as_part_of_an_ncrna  ,0.32768,0.237625,rs62124635
+ncVarB_A001701,hg38,2,20405541,T,G/T,substitution,ncRNA,0.32768,0.237625,rs62124635
 ncVarB_A001702,hg38,2,20584671,-,-/C,insertion,intronic,0.322959,0.239117,rs58622249
-ncVarB_A001703,hg38,9,87009494,A,A/G,substitution,reported_as_part_of_an_ncrna  ,0.499295,0.018757,rs7040571
+ncVarB_A001703,hg38,9,87009494,A,A/G,substitution,ncRNA,0.499295,0.018757,rs7040571
 ncVarB_A001704,hg38,Y,1301147,G,A/G,substitution,intronic,0.333491,0.235646,rs113062769
 ncVarB_A001705,hg38,14,56925214,C,C/T,substitution,intronic,0.388398,0.208197,rs709969
 ncVarB_A001706,hg38,21,29119662,-,-/T/TT/TTT/TTTT,insertion,intronic,0.475613,0.107697,rs75399336
@@ -1897,7 +1897,7 @@ ncVarB_A001895,hg38,3,16762165,TCT,-/TCT,deletion,intronic,0.469148,0.120308,rs3
 ncVarB_A001896,hg38,12,104487549,T,C/T,substitution,intronic,0.476314,0.106217,rs10861225
 ncVarB_A001897,hg38,1,9593776,A,A/C/T,substitution,intronic,0.401392,0.198948,rs3923984
 ncVarB_A001898,hg38,20,524026,A,A/C/T,substitution,intronic,0.483923,0.088203,rs205878
-ncVarB_A001899,hg38,8,27736063,A,A/G/T,substitution,reported_as_part_of_an_ncrna  ,0.49931,0.018557,rs3735747
+ncVarB_A001899,hg38,8,27736063,A,A/G/T,substitution,ncRNA,0.49931,0.018557,rs3735747
 ncVarB_A001900,hg38,14,64151239,G,A/C,substitution,intronic,0.441432,0.160792,rs3915546
 ncVarB_A001901,hg38,18,21483826,-,-/T,insertion,intronic,0.330482,0.236691,rs35035460
 ncVarB_A001902,hg38,10,127388767,G,C/G,substitution,intronic,0.458084,0.138567,rs7079661
