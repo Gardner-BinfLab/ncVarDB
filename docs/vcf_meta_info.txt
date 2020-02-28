@@ -1,0 +1,2 @@
+##fileformat=VCFv4.3
+##INFO=<ID=NC,Number=.,Type=String,Description="ncVAR ID">
