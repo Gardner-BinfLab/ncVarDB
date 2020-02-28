@@ -1,0 +1,8 @@
+sum	position
+43841946	deletion
+18932738	insertion
+607682680	single
+1104431	in-del
+236770	mnp
+12686	named
+4725	microsatellite

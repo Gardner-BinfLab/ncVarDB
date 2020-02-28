@@ -1,0 +1,7 @@
+691836	deletion
+51701	in-del
+508039	insertion
+3841	microsatellite
+269	mnp
+7	named
+9164641	single
