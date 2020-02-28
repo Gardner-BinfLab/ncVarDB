@@ -13,6 +13,25 @@ Variants within the non-coding genome  are frequently associated with phenotypes
 # Project structure
 Contained in this project are the final datasets, scripts, and additional raw data used in generating the ncVar database. The "All SNPs", "High frequency SNPs" graph columns, and benign dataset was generated using the file available from (ftp://hgdownload.soe.ucsc.edu/goldenPath/hg38/database/snp151.txt.gz). 
 
+data:
+
+A lot of the raw data used to generate the results from this paper - some files were too big for Github but can be found on the Zenodo repository
+
+
+docs:
+
+General helpful documents, including a description of files found in scripts 
+
+repo:
+
+The four final files for this database
+
+
+scripts: 
+
+A collection of scripts used to generate results 
+
+
 # Features
 The ncVar database contains curated pathogenic variants, with a supplied benign control dataset.
 
