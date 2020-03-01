@@ -47,24 +47,24 @@ otherwise processing_summaries.sh was used
 
 # MISC
 
-##benign_snps_with_alternate
+# benign_snps_with_alternate
 
 The benign database with the processed alternate chromosome (Making_alt_allele_column.R)
 
-##masked_over_5_all_snps_no_alts.txt
+# masked_over_5_all_snps_no_alts.txt
 
 All snps, excluding the ncVar pathogenic snps +/- 20000 bp 
 
-##non_coding_chromosomes.txt
+# non_coding_chromosomes.txt
 
 Needed for plotting the graphs
 
-##over_5_all_snps_no_alts.txt
+# over_5_all_snps_no_alts.txt
 
 Every SNP in a non alternate chromosome with a heterozygosity of >0.05
 
 
-##path_types.txt
+# path_types.txt
 
 the counted types of variants in the ncVar pathogenic dataset
 
