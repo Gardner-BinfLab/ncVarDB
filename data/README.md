@@ -23,7 +23,7 @@
 ```
  
  
- ##VARIANT TYPES AND POSITIONS
+ #VARIANT TYPES AND POSITIONS
 
 ##all_snps_positions.txt
 This is a count of each position category in the dbSNP database, generated from the snp151.txt file (not provided as it is very large) 
@@ -40,7 +40,7 @@ find ./split_snp_no_alts/* | parallel -j20 ./counting_split_snp_muttypes.sh
 otherwise processing_summaries.sh was used
 
 
-##MISC
+#MISC
 
 ##benign_snps_with_alternate
 The benign database with the processed alternate chromosome (Making_alt_allele_column.R)
