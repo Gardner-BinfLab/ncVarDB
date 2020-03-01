@@ -1,6 +1,6 @@
 ##Just chopping some letters off
 ##Reading in my controls file 
-ucsc_ctrl <- read.delim("test.csv", stringsAsFactors = F)
+ucsc_ctrl <- read.delim("proportion_matched_all_info.txt ", stringsAsFactors = F)
 alternate_column <- list()
 for( i in 1:nrow(ucsc_ctrl)){
   ref <- ucsc_ctrl[i,"refNCBI"]
