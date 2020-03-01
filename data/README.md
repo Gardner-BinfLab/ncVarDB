@@ -27,15 +27,15 @@
  
  # VARIANT TYPES AND POSITIONS
 
-##all_snps_positions.txt
+# all_snps_positions.txt
 
 This is a count of each position category in the dbSNP database, generated from the snp151.txt file (not provided as it is very large) 
 
-##all_snps_types.txt 
+# all_snps_types.txt 
 
 As above
 
-##over5...
+# over5...
 
 as above, but for the subset with a frequency of over 5%
 
