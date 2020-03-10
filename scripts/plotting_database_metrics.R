@@ -1,20 +1,20 @@
-setwd("~/Documents/Gardnerlab_bioinf/ncVariation_project/")
-table <- read.table("non_coding_chromosomes.txt")
+setwd("~/Documents/Gardnerlab_bioinf/ncVariation_project/final_upload/scripts/")
+table <- read.table("../data/raw_data/non_coding_chromosomes.txt")
 library(ggplot2)
 library(RColorBrewer)
 table$V2 <- factor(table$V2,levels=c("1",'2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','Y','X'))
 
-positions_all_over_5 <- read.delim("over5allsnpspos.txt", header=F)
+positions_all_over_5 <- read.delim("../data/raw_data/over5allsnpspos.txt", header=F)
 positions_all_over_5_stripped <- positions_all_over_5
 positions_all_over_5_stripped$V2 <- gsub(",.+", "", positions_all_over_5_stripped$V2)
 
-positions_all <- read.table('finished_summaries/all_snps_positions.txt',header=1)
+positions_all <- read.table('../data/raw_data/all_snps_positions.txt',header=1)
 positions_all_stripped <- positions_all
 positions_all_stripped$position <- gsub(",.+" , "" , positions_all_stripped$position)
 
-types_all_over_5 <- read.delim("over5allsnpstypes.txt", header=F)
+types_all_over_5 <- read.delim("../data/raw_data/over5allsnpstypes.txt", header=F)
 
-positions_nc_over5 <- read.delim("over5noncodingpositions.txt",header=F)
+positions_nc_over5 <- read.delim("../data/raw_data/over5noncodingpositions.txt",header=F)
 colnames(positions_nc_over5) <- c("sum","position")
 positions_nc_over5_stripped <- positions_nc_over5
 positions_nc_over5_stripped$position <- gsub(",.+","",positions_nc_over5_stripped$position)
@@ -82,7 +82,7 @@ aggregated_total <- full_join(joined_over5_positions,positions_all_aggregated)
 
 
 ##Reading in counted pathogenic positions
-path_positions_aggregated <- read.table("path_positions.txt")
+path_positions_aggregated <- read.table("../data/raw_data/path_positions.txt")
 colnames(path_positions_aggregated) <- c("sum_path", "position")
 ##Need multiple replace conditions
 aggregated_total$position <- gsub("intron", "intronic", aggregated_total$position)
@@ -130,12 +130,12 @@ ggplot(melted_aggregated_all, aes(x=position,y=log(value),fill=variable)) +
 
 ##Doing mutation types now
 ##Path types
-types_path <- read.table("path_types.txt")
+types_path <- read.table("../data/raw_data/path_types.txt")
 colnames(types_path) <- c("sum_path","type")
 ##benign types
-types_all <- read.table("finished_summaries/all_snps_types.txt", header=1)
-types_over5 <- read.table("over5allsnpstypes.txt")
-types_over_5_noncoding <- read.table("over5noncodingtypes.txt")
+types_all <- read.table("../data/raw_data/all_snps_types.txt", header=1)
+types_over5 <- read.table("../data/raw_data/over5allsnpstypes.txt")
+types_over_5_noncoding <- read.table("../data/raw_data/over5noncodingtypes.txt")
 
 
 ##single = substitution
@@ -186,7 +186,7 @@ ggplot(melted_types_full_aggregated, aes(x=type, y=log(value),fill=variable)) +
 
 
 
-benign <- read.csv("benign_snps_with_alternate.csv")
+benign <- read.csv("../data/raw_data/benign_snps_with_alternate.csv")
 
 #####Reading in tbales for benign shuffled set 
 benign_pos <- as.data.frame(table(benign$mut_position))
@@ -241,9 +241,14 @@ melted_no_named_no_indel_types$Dataset <- gsub("sum_path","Pathogenic set", melt
 melted_no_named_no_indel_types$Dataset <- reorder(melted_no_named_no_indel_types$Dataset, melted_no_named_no_indel_types$value )
 melted_no_named_no_indel_types$Dataset <- factor(melted_no_named_no_indel_types$Dataset, levels=rev(levels(melted_no_named_no_indel_types$Dataset)))
 
+
+##Set a color blind palette
+cbp1 <- c("#999999", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
+
+
 types <-ggplot(melted_no_named_no_indel_types, aes(x=type, y=value,fill=Dataset)) + 
   geom_bar(stat='identity', position=position_dodge(width=0.5), width=0.4) + 
-  labs(title="Comparison of variant types in each dataset", y="Total number of variants (log10)",x="Type") + 
+  labs(title="Comparison of variant types in each dataset", y="Total number of variants",x="Type") + 
   theme(text = element_text(size=45), axis.title.x=element_blank(), axis.text.x = element_text(angle = 45, hjust=1)) + 
   xlim("Substitution","Deletion","Insertion") + 
   scale_y_log10(limits=c(1,1e9))+ 
@@ -283,7 +288,7 @@ melted_aggregated_all$Dataset <- factor(melted_aggregated_all$Dataset, levels=re
 
 positions <- ggplot(melted_aggregated_all, aes(x=position,y=value,fill=Dataset)) + 
   geom_bar(stat='identity', position=position_dodge(width=0.5), width=0.4) + 
-  labs(title="Comparison of variant positions in each dataset", y="Total number of variants (log10)") +
+  labs(title="Comparison of variant positions in each dataset", y="Total number of variants") +
   theme(text = element_text(size=45), axis.title.x=element_blank(), axis.text.x = element_text(angle = 45, hjust=1)) + 
   xlim("Intronic","Intergenic","Genic","ncRNA","3' UTR","5' UTR") +
   scale_y_log10(limits=c(1,1e9)) + 
@@ -311,7 +316,7 @@ theme_Publication <- function(base_size=14, base_family="helvetica") {
             legend.key = element_rect(colour = NA),
             legend.position = "bottom",
             legend.direction = "horizontal",
-            legend.key.size= unit(0.2, "cm"),
+            legend.key.size= unit(1, "cm"),
             legend.margin = unit(0, "cm"),
             legend.title = element_text(face="italic"),
             plot.margin=unit(c(10,5,5,5),"mm"),
