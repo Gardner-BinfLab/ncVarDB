@@ -1,0 +1,5 @@
+     45 3utr
+     67 5utr
+     12 intergenic
+    570 intronic
+     74 ncRNA
