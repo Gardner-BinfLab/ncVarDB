@@ -29,15 +29,28 @@
 
 # all_snps_positions.txt
 
-This is a count of each position category in the dbSNP database, generated from the snp151.txt file (not provided as it is very large) 
+This is a count of each position category, generated from the snp151_no_alts.txt file (not provided as it is very large) 
 
 # all_snps_types.txt 
 
-As above
+A count of each variant type category, from snp151_no_alts.txt
 
-# over5...
+# over5allsnpspos.txt 
 
-as above, but for the subset with a frequency of over 5%
+A count of each category of variant positions in the over_5_percent_all_snps.txt file (not provided as it is very large)
+
+# over5allsnpstypes.txt
+
+A count of each category of variant type category in the over_5_percent_all_snps.txt file (not provided as it is very large)
+
+# over5noncodingpositions.txt
+
+A count of each category of variant positions in every SNP in a noncoding region, with over 5% population frequency
+
+# over5noncodingtypes.txt
+
+A count of each category of variant type category in every SNP in a noncoding region, with over 5% population frequency
+
 
 To make the full file (snp151) run, it was split into many files, and the following was run: 
 find ./split_snp_no_alts/* | parallel -j20 ./counting_split_snp_muttypes.sh
@@ -53,7 +66,7 @@ The benign database with the processed alternate chromosome (Making_alt_allele_c
 
 # masked_over_5_all_snps_no_alts.txt
 
-All snps, excluding the ncVar pathogenic snps +/- 20000 bp 
+All snps, excluding the ncVar pathogenic snps +/- 20000 bp (not provided as it is very large)
 
 # non_coding_chromosomes.txt
 
@@ -62,7 +75,6 @@ Needed for plotting the graphs
 # over_5_all_snps_no_alts.txt
 
 Every SNP in a non alternate chromosome with a heterozygosity of >0.05
-
 
 # path_types.txt
 
