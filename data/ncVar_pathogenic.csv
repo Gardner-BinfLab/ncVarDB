@@ -570,7 +570,7 @@ ncVarP_A000568,hg38,X,153867795,G,A,substitution,intronic,0,0,dbsnp:rs879253716;
 ncVarP_A000569,hg38,X,154367741,C,G,substitution,intronic,0,0,dbsnp:rs398123622;clinvarID:11749,9883725,Periventricular nodular heterotopia 1
 ncVarP_A000570,hg38,X,154991304,G,A,substitution,intronic,0,0,dbsnp:rs387906429;clinvarID:10097,2833855,Hereditary factor VIII deficiency disease
 ncVarP_A000571,hg38,9,35657948,A,G,substitution,ncRNA,0.000931,0.021551,dbsnp:rs199476103;clinvarID:14208,12107819,Cartilage hair hypoplasia
-ncVarP_A000572,hg38,8,127091692,G,A,substitution,ncRNA,0.49998,0.003195,dbsnp:rs1456315;omimID:615452,20874843,Hereditary prostate cancer
+ncVarP_A000572,hg38,8,127091692,T,A,substitution,ncRNA,0.49998,0.003195,dbsnp:rs1456315;omimID:615452,20874843,Hereditary prostate cancer
 ncVarP_A000573,hg38,7,129774757,G,A,substitution,ncRNA,0,0,dbsnp:rs587776522;clinvarID:865;omimID:611606,19363479,Hearing loss
 ncVarP_A000574,hg38,MT,5650,g,A,substitution,ncRNA,0,0,dbsnp:rs121434457;clinvarID:9624;omimID:590000,16476954,Myotonic dystrophy-like myopathy
 ncVarP_A000575,hg38,MT,5591,G,A,substitution,ncRNA,0,0,dbsnp:rs121434458;clinvarID:9625,14569122,Mitochondrial myopathy 
@@ -638,10 +638,10 @@ ncVarP_A000636,hg38,MT,5843,A,G,substitution,ncRNA,0,0,dbsnp:rs118203894;clinvar
 ncVarP_A000637,hg38,MT,1606,G,A,substitution,ncRNA,0,0,dbsnp:rs199476143;clinvarID:9548;omimID:590105,9450773,Ataxia; progressive seizures; mental detoriation and hearing loss
 ncVarP_A000638,hg38,MT,1624,C,T,substitution,ncRNA,0,0,dbsnp:rs199476144;clinvarID:9549,11799391,Neonatal death
 ncVarP_A000639,hg38,9,127785950,C,G,substitution,ncRNA,0,0,dbsnp:rs794728003;clinvarID:106;omimID:613405,19920351,Bone mineral density quantitative trait locus 15
-ncVarP_A000640,hg38,17,8173448,C,G,substitution,3utr,0.003659,0.042641,dbsnp:rs75008470;clinvarID:265783;omimID:616663,27571260, leukoencephalopathy; brain calcifications and cysts
-ncVarP_A000641,hg38,17,8173531,G,A,substitution,3utr,0,0,dbsnp:rs886039784;clinvarID:265786;omimID:616663,27571260, leukoencephalopathy; brain calcifications and cysts
-ncVarP_A000642,hg38,17,8173531,A,G,substitution,ncRNA,0.000142,0.008421,dbsnp:rs755495846;clinvarID:265787;omimID:616663,27571260, leukoencephalopathy; brain calcifications and cysts
-ncVarP_A000643,hg38,17,8173569,C,T,substitution,3utr,7.1E-05,0.005956,dbsnp:rs545394298;clinvarID:522852;omimID:616663,27571260, leukoencephalopathy; brain calcifications and cysts
+ncVarP_A000640,hg38,17,8173448,C,G,substitution,3utr,0.003659,0.042641,dbsnp:rs75008470;clinvarID:265783;omimID:616663,27571260,Â leukoencephalopathy; brain calcifications and cysts
+ncVarP_A000641,hg38,17,8173531,G,A,substitution,3utr,0,0,dbsnp:rs886039784;clinvarID:265786;omimID:616663,27571260,Â leukoencephalopathy; brain calcifications and cysts
+ncVarP_A000642,hg38,17,8173531,A,G,substitution,ncRNA,0.000142,0.008421,dbsnp:rs755495846;clinvarID:265787;omimID:616663,27571260,Â leukoencephalopathy; brain calcifications and cysts
+ncVarP_A000643,hg38,17,8173569,C,T,substitution,3utr,7.1E-05,0.005956,dbsnp:rs545394298;clinvarID:522852;omimID:616663,27571260,Â leukoencephalopathy; brain calcifications and cysts
 ncVarP_A000644,hg38,9,70810048,C,T,substitution,ncRNA,1.7E-05,0.002876,dbsnp:rs767146880;clinvarID:218881;omimID:610942,20713703,Retinal dystrophy and iris coloboma with or without cataract
 ncVarP_A000645,hg38,X,154762824,C,G,substitution,5utr,0.00053,0.016265,dbsnp:rs199422241;clinvarID:38944;omimID:300126,11379875,X-linked Dyskeratosis congenita
 ncVarP_A000646,hg38,X,154774706,G,A,substitution,intronic,NA,NA,dbsnp:rs1569558616;omimID:300126,11379875,X-linked Dyskeratosis congenita
@@ -656,7 +656,7 @@ ncVarP_A000654,hg38,2,112001199,A,G,substitution,intronic,0,0,dbsnp:rs730880273;
 ncVarP_A000655,hg38,2,112019523,G,T,substitution,intronic,1.6E-05,0.00287,dbsnp:rs371956016;clinvarID:5403,17301963,Retinitis pigmentosa 38
 ncVarP_A000656,hg38,2,190062219,G,A,substitution,intronic,0,0,dbsnp:rs397515373;clinvarID:7705;omimID:601788,15215484,Muscle hypertrophy
 ncVarP_A000657,hg38,13,83878728,G,A,substitution,intronic,0.001197,0.024439,dbsnp:rs191284403;clinvarID:1579;omimID:609678,16224024,Tourette syndrome
-ncVarP_A000658,hg38,12,48980693,A,G,substitution,intronic,0,0,dbsnp:rs387907354;clinvarID:50258;omimID:164820,23499309, Osteogenesis imperfecta type XV
+ncVarP_A000658,hg38,12,48980693,A,G,substitution,intronic,0,0,dbsnp:rs387907354;clinvarID:50258;omimID:164820,23499309,Â Osteogenesis imperfecta type XV
 ncVarP_A000659,hg38,X,133692368,G,T,substitution,intronic,0,0,dbsnp:rs869025182;clinvarID:11688;omimID:300037,10814714,Simpson-golabi-behmel syndrome type 1
 ncVarP_A000660,hg38,X,133953049,G,A,substitution,intronic,0,0,dbsnp:rs869025183;clinvarID:11693,16158429,Simpson-golabi-behmel syndrome type 1
 ncVarP_A000661,hg38,20,10641459,G,C,substitution,intronic,NA,NA,dbsnp:rs1568791920;omimID:601920,9207787,Alagille syndrome 1
