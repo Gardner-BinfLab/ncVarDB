@@ -4,7 +4,7 @@ You can download this database using
 ```bash
 git clone https://github.com/Gardner-BinfLab/ncVarDB
 ```
-or downloading this from our [zenodo](##add zenodo link) repository.
+
 
 # Motivation 
 Variants within the non-coding genome  are frequently associated with phenotypes in genome-wide association studies. These regions may be involved in the regulation of gene expression, encode functional non coding RNAs, splicing, or other cellular functions. However, relatively few of these regions have been shown to be  causative of phenotypic variation. We have curated a list of well characterised non-coding human genome variants based on published evidence for causing functional consequences. In order to minimise possible annotation errors, two curators have independently verified the supporting evidence for pathogenicity of each non-coding variant from published literature. 
