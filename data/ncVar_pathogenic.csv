@@ -570,7 +570,7 @@ ncVarP_A000568,hg38,X,153867795,G,A,substitution,intronic,0,0,dbsnp:rs879253716;
 ncVarP_A000569,hg38,X,154367741,C,G,substitution,intronic,0,0,dbsnp:rs398123622;clinvarID:11749,9883725,Periventricular nodular heterotopia 1
 ncVarP_A000570,hg38,X,154991304,G,A,substitution,intronic,0,0,dbsnp:rs387906429;clinvarID:10097,2833855,Hereditary factor VIII deficiency disease
 ncVarP_A000571,hg38,9,35657948,A,G,substitution,ncRNA,0.000931,0.021551,dbsnp:rs199476103;clinvarID:14208,12107819,Cartilage hair hypoplasia
-ncVarP_A000572,hg38,8,127091692,G,A,substitution,ncRNA,0.49998,0.003195,dbsnp:rs1456315;omimID:615452,20874843,Hereditary prostate cancer
+ncVarP_A000572,hg38,8,127091692,T,A,substitution,ncRNA,0.49998,0.003195,dbsnp:rs1456315;omimID:615452,20874843,Hereditary prostate cancer
 ncVarP_A000573,hg38,7,129774757,G,A,substitution,ncRNA,0,0,dbsnp:rs587776522;clinvarID:865;omimID:611606,19363479,Hearing loss
 ncVarP_A000574,hg38,MT,5650,g,A,substitution,ncRNA,0,0,dbsnp:rs121434457;clinvarID:9624;omimID:590000,16476954,Myotonic dystrophy-like myopathy
 ncVarP_A000575,hg38,MT,5591,G,A,substitution,ncRNA,0,0,dbsnp:rs121434458;clinvarID:9625,14569122,Mitochondrial myopathy 
@@ -656,7 +656,7 @@ ncVarP_A000654,hg38,2,112001199,A,G,substitution,intronic,0,0,dbsnp:rs730880273;
 ncVarP_A000655,hg38,2,112019523,G,T,substitution,intronic,1.60E-05,0.00287,dbsnp:rs371956016;clinvarID:5403,17301963,Retinitis pigmentosa 38
 ncVarP_A000656,hg38,2,190062219,G,A,substitution,intronic,0,0,dbsnp:rs397515373;clinvarID:7705;omimID:601788,15215484,Muscle hypertrophy
 ncVarP_A000657,hg38,13,83878728,G,A,substitution,intronic,0.001197,0.024439,dbsnp:rs191284403;clinvarID:1579;omimID:609678,16224024,Tourette syndrome
-ncVarP_A000658,hg38,12,48980693,A,G,substitution,intronic,0,0,dbsnp:rs387907354;clinvarID:50258;omimID:164820,23499309, Osteogenesis imperfecta type XV
+ncVarP_A000658,hg38,12,48980693,A,G,substitution,intronic,0,0,dbsnp:rs387907354;clinvarID:50258;omimID:164820,23499309,Â Osteogenesis imperfecta type XV
 ncVarP_A000659,hg38,X,133692368,G,T,substitution,intronic,0,0,dbsnp:rs869025182;clinvarID:11688;omimID:300037,10814714,Simpson-golabi-behmel syndrome type 1
 ncVarP_A000660,hg38,X,133953049,G,A,substitution,intronic,0,0,dbsnp:rs869025183;clinvarID:11693,16158429,Simpson-golabi-behmel syndrome type 1
 ncVarP_A000661,hg38,20,10641459,G,C,substitution,intronic,NA,NA,dbsnp:rs1568791920;omimID:601920,9207787,Alagille syndrome 1
