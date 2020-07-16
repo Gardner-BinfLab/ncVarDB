@@ -18,7 +18,6 @@ for index, row in df.iterrows():
     if str(row["mut_type"])=="substitution":
         reference=str(row["ref"]).upper()
         mutant=str(row["alt"]).upper()
-        id=str(row["pmed_ID"])
         chr=str(row["chr"])
         if chr=="MT":
             chr="M"
