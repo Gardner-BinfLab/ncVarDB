@@ -1,4 +1,13 @@
-setwd("~/Documents/Gardnerlab_bioinf/ncVariation_project/repo")
+args = commandArgs(trailingOnly=TRUE)
+
+if (length(args)==0) {
+  stop("A main path argument must be supplied.n", call.=FALSE)
+}
+
+main_directory = args[1]
+main_directory_no_slash = gsub('/$', '', main_directory)
+wd = paste(main_directory_no_slash, "data", sep="/")
+setwd(wd)
 ##Make VCFs from current database version 
 
 Pathogenic <- read.csv("ncVar_pathogenic.csv")
@@ -45,5 +54,5 @@ Ben_VCF$ID <- gsub("dbsnp:", "", Ben_VCF$ID)
 Ben_VCF$INFO <- gsub('nc', 'NC=nc',Ben_VCF$INFO)
 
 
-write.csv(Ben_VCF,"ben_vcf.csv", quote = F, row.names = F)
-write.csv(path_VCF,"path_vcf.csv", quote = F, row.names = F)
+write.csv(Ben_VCF,"benign_vcf.csv", quote = F, row.names = F)
+write.csv(path_VCF,"pathogenic_vcf.csv", quote = F, row.names = F)
