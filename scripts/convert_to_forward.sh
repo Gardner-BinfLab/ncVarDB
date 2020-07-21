@@ -9,4 +9,4 @@ path_to_original_csv="../data/ncVar_pathogenic.csv"
  
 rsync -avzP rsync://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/hg38.2bit ./
 
-python3 convert_to_forward.py $path_to_original_csv ncVar_pathogenic_forward.csv convert_to_forward_error_path
+python3 convert_to_forward.py $path_to_original_csv ncVar_pathogenic_forward.csv convert_to_forward_error_pathogenic
