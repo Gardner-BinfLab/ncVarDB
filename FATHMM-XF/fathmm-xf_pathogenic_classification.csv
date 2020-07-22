@@ -1,0 +1,769 @@
+# Chromosome	Position	Ref. Base	Mutant Base	Coding Score	Non-Coding Score	Warning
+1	2408451	C	T	--	0.986570	pathogenic (high conf.)
+1	3839606	A	G	--	0.991243	pathogenic (high conf.)
+1	11966985	A	-	--	--	Error: nucleotide must be A/C/G/T
+1	21564217	G	A	--	0.991839	pathogenic (high conf.)
+1	42752536	C	A	--	0.992842	pathogenic (high conf.)
+1	42757782	C	A	--	0.992108	pathogenic (high conf.)
+1	45332088	T	C	--	0.983422	pathogenic (high conf.)
+1	90916206	C	T	--	0.927826	pathogenic
+1	91353299	C	G	0.829222	--	pathogenic
+1	99880047	G	T	--	0.992554	pathogenic (high conf.)
+1	108903235	G	T	--	0.991341	pathogenic (high conf.)
+1	16996381	C	T	--	0.987979	pathogenic (high conf.)
+1	26447535	A	G	--	0.368413	benign
+1	42747254	C	T	0.065566	--	benign
+1	44823064	G	A	--	0.973455	pathogenic (high conf.)
+1	46189457	C	T	--	0.985203	pathogenic (high conf.)
+1	94011395	A	G	--	0.721352	pathogenic
+1	99915491	G	A	--	0.991627	pathogenic (high conf.)
+1	99916398	A	G	--	0.164475	benign
+1	145927328	C	G	--	0.212096	benign
+1	145927447	C	T	--	0.044024	benign
+1	150491665	A	G	--	0.573737	pathogenic
+1	151025513	A	G	--	0.990791	pathogenic (high conf.)
+5	60927745	C	G	--	0.023985	benign (high conf.)
+X	108620226	A	G	--	--	Predictions not available for allosomal chromosome 'X'
+8	11564446	T	G	--	0.101523	benign
+1	109608607	C	T	--	0.053695	benign
+1	100467953	C	G	--	0.957520	pathogenic
+1	150552897	G	A	--	0.981191	pathogenic (high conf.)
+8	41797691	C	T	--	0.021335	benign (high conf.)
+X	55031184	G	C	--	--	Predictions not available for allosomal chromosome 'X'
+X	108695042	T	C	--	--	Predictions not available for allosomal chromosome 'X'
+1	3816372	T	C	--	0.992304	pathogenic (high conf.)
+1	11022737	T	C	--	0.863011	pathogenic
+1	11952736	G	A	--	0.989330	pathogenic (high conf.)
+1	16125329	C	T	--	0.431145	benign
+1	17024076	T	C	--	0.992816	pathogenic (high conf.)
+1	17028599	C	T	--	0.988468	pathogenic (high conf.)
+2	46994513	AAGT	-	--	--	Error: nucleotide must be A/C/G/T
+1	21573801	T	G	--	0.992362	pathogenic (high conf.)
+1	24337790	G	T	--	0.991343	pathogenic (high conf.)
+5	36876937	CC	A	--	--	Error: nucleotide must be A/C/G/T
+17	42695519	AGAT	-	--	--	Error: nucleotide must be A/C/G/T
+X	15846013	TGTA	-	--	--	Error: nucleotide must be A/C/G/T
+4	186274115	G	A	--	0.992201	pathogenic (high conf.)
+X	129553302	A	G	--	--	Predictions not available for allosomal chromosome 'X'
+X	129562373	G	A	--	--	Predictions not available for allosomal chromosome 'X'
+2	202376806	G	A	--	0.052518	benign
+18	47851273	C	T	--	0.991127	pathogenic (high conf.)
+11	61967589	T	A	--	0.853357	pathogenic
+16	31191479	G	A	--	0.623139	pathogenic
+16	173692	A	G	--	0.694399	pathogenic
+16	173694	A	G	--	0.814732	pathogenic
+11	5225487	T	C	--	0.889426	pathogenic
+11	5250053	G	A	--	0.670323	pathogenic
+X	153971810	A	G	--	--	Predictions not available for allosomal chromosome 'X'
+11	2159793	T	C	0.019110	--	benign (high conf.)
+1	151399579	G	A	--	0.830089	pathogenic
+13	48303724	G	T	--	0.493024	benign
+13	48303715	G	A	--	0.472248	benign
+13	83878728	C	T	--	0.599831	pathogenic
+5	128328823	T	A	--	0.989601	pathogenic (high conf.)
+7	138734135	C	T	--	0.989449	pathogenic (high conf.)
+2	189061561	C	A	--	0.991719	pathogenic (high conf.)
+10	89007839	-	T	--	--	Error: nucleotide must be A/C/G/T
+2	25164783	G	T	--	0.879489	pathogenic
+2	26238933	C	T	--	0.991561	pathogenic (high conf.)
+1	228149857	A	G	--	0.395536	benign
+1	228149860	A	G	--	0.109590	benign
+15	48474652	T	A	--	0.992025	pathogenic (high conf.)
+12	47987268	C	-	--	--	Error: nucleotide must be A/C/G/T
+16	57639389	CAACGGTTGCCAGGG	-	--	--	Error: nucleotide must be A/C/G/T
+22	19723410	C	G	--	0.144481	benign
+8	22201444	T	C	--	0.945999	pathogenic
+9	113275630	TGTCAGTGACGCACTTCC	-	--	--	Error: nucleotide must be A/C/G/T
+15	73343384	-	TCAC	--	--	Error: nucleotide must be A/C/G/T
+2	168990800	C	T	--	0.991083	pathogenic (high conf.)
+2	169014300	T	G	--	0.990405	pathogenic (high conf.)
+1	25557269	T	G	--	0.990137	pathogenic (high conf.)
+4	154569800	G	T	--	0.992247	pathogenic (high conf.)
+17	4903159	G	A	--	0.761727	pathogenic
+2	1887487	C	T	--	0.989661	pathogenic (high conf.)
+2	19982552	A	T	--	0.721641	pathogenic
+2	32128483	A	G	--	0.991978	pathogenic (high conf.)
+2	46909018	C	T	--	0.992414	pathogenic (high conf.)
+2	47480876	G	C	--	0.993370	pathogenic (high conf.)
+2	62904596	G	A	--	0.024487	benign (high conf.)
+2	69245213	A	G	--	0.058207	benign
+2	71661900	G	T	--	0.048497	benign
+2	73902698	C	A	0.071893	--	benign
+2	73950574	C	G	--	0.373468	benign
+2	86217057	C	A	0.008703	--	benign (high conf.)
+2	97733464	G	A	--	0.060899	benign
+2	165754927	C	T	--	0.988370	pathogenic (high conf.)
+2	190294639	A	C	--	0.959528	pathogenic
+2	202513709	T	C	--	0.738226	pathogenic
+2	202520206	G	T	--	0.991570	pathogenic (high conf.)
+2	238352956	T	G	--	0.938276	pathogenic
+3	3146404	T	C	--	0.027866	benign (high conf.)
+3	9453732	A	G	--	0.272511	benign
+3	14168389	A	T	--	0.963119	pathogenic
+3	37008801	A	G	--	0.239001	benign
+3	48884134	A	C	--	0.525405	pathogenic
+3	49171662	C	T	--	0.104455	benign
+3	142465860	G	C	--	0.026980	benign (high conf.)
+3	180650140	T	C	--	0.026744	benign (high conf.)
+4	1003475	G	A	--	0.989589	pathogenic (high conf.)
+4	6293966	C	G	--	0.026138	benign (high conf.)
+4	42963153	A	T	--	0.379802	benign
+4	43020345	C	A	--	0.981984	pathogenic (high conf.)
+4	55418167	G	A	--	0.457372	benign
+4	88523797	C	T	--	0.097054	benign
+4	154608970	T	A	--	0.032981	benign
+5	37157382	C	T	0.032154	--	benign
+5	56859707	T	A	--	0.959742	pathogenic
+5	74720617	G	A	--	0.380821	benign
+5	78839434	A	C	--	0.943053	pathogenic
+5	78839434	A	C	--	0.943053	pathogenic
+4	186287824	G	A	--	0.992975	pathogenic (high conf.)
+1	183577598	C	T	--	0.990934	pathogenic (high conf.)
+1	193122332	G	A	--	0.995378	pathogenic (high conf.)
+1	193130173	G	A	--	0.992863	pathogenic (high conf.)
+1	209632777	C	T	--	0.991453	pathogenic (high conf.)
+1	214620653	A	C	--	0.992400	pathogenic (high conf.)
+2	85559076	C	A	--	0.992095	pathogenic (high conf.)
+2	88570873	C	T	--	0.988128	pathogenic (high conf.)
+2	108910459	C	T	--	0.990749	pathogenic (high conf.)
+2	108930963	C	T	--	0.990590	pathogenic (high conf.)
+2	112001199	A	G	--	0.991275	pathogenic (high conf.)
+2	135120817	A	G	--	0.990453	pathogenic (high conf.)
+5	90628554	C	G	--	0.839691	pathogenic
+5	112707526	A	T	--	0.437687	benign
+5	112707527	T	C	--	0.615547	pathogenic
+6	116877784	A	G	--	0.082486	benign
+6	136845605	A	G	--	0.657576	pathogenic
+6	152321898	T	C	--	0.287022	benign
+7	94395818	A	G	--	0.697008	pathogenic
+7	117589467	A	G	--	0.028577	benign (high conf.)
+7	117611555	A	G	--	0.296271	benign
+7	117639961	C	T	--	0.020425	benign (high conf.)
+7	143332409	T	C	--	0.868041	pathogenic
+7	154305155	C	T	--	0.613791	pathogenic
+7	156791137	T	C	--	0.434868	benign
+2	201628075	C	A	--	0.990334	pathogenic (high conf.)
+2	203868052	G	T	--	0.992985	pathogenic (high conf.)
+2	233761152	G	C	--	0.990756	pathogenic (high conf.)
+2	233768218	A	G	--	0.985227	pathogenic (high conf.)
+3	14156333	A	C	--	0.990210	pathogenic (high conf.)
+3	30688382	A	G	--	0.991347	pathogenic (high conf.)
+3	51986254	G	A	--	0.990157	pathogenic (high conf.)
+3	122257080	G	T	--	0.989570	pathogenic (high conf.)
+3	149163840	A	G	--	0.990100	pathogenic (high conf.)
+4	54727928	G	A	--	0.990806	pathogenic (high conf.)
+4	70635895	G	A	--	0.986211	pathogenic (high conf.)
+4	78472331	G	T	--	0.990749	pathogenic (high conf.)
+4	87657031	G	C	--	0.988718	pathogenic (high conf.)
+11	47449174	T	C	--	0.962206	pathogenic
+X	64921812	C	T	--	--	Predictions not available for allosomal chromosome 'X'
+6	83857238	T	G	--	0.984939	pathogenic (high conf.)
+20	2467201	G	T	--	0.549987	pathogenic
+10	68416703	G	-	--	--	Error: nucleotide must be A/C/G/T
+15	51218658	G	T	--	0.987091	pathogenic (high conf.)
+9	134795057	T	G	--	0.128234	benign
+9	134835207	GAGT	-	--	--	Error: nucleotide must be A/C/G/T
+4	154612527	C	T	--	0.991840	pathogenic (high conf.)
+11	2165787	A	T	--	0.447610	benign
+7	156791480	G	A	--	0.636045	pathogenic
+18	57580222	G	A	--	0.085410	benign
+21	36767213	C	T	--	0.987085	pathogenic (high conf.)
+5	68293835	G	T	--	0.993097	pathogenic (high conf.)
+5	148086403	A	T	--	0.982106	pathogenic (high conf.)
+5	149960981	T	C	--	0.506513	pathogenic
+6	50828617	A	T	--	0.992703	pathogenic (high conf.)
+7	94401565	A	G	--	0.991719	pathogenic (high conf.)
+7	94412122	G	A	--	0.991728	pathogenic (high conf.)
+7	94426532	T	C	--	0.992282	pathogenic (high conf.)
+8	93791320	G	A	--	0.991479	pathogenic (high conf.)
+8	99859482	T	C	--	0.985618	pathogenic (high conf.)
+8	102225020	T	C	--	0.990875	pathogenic (high conf.)
+8	144515243	C	T	--	0.898671	pathogenic
+9	134727264	A	G	--	0.990695	pathogenic (high conf.)
+9	136676681	C	G	--	0.991717	pathogenic (high conf.)
+10	13295608	T	C	--	0.992499	pathogenic (high conf.)
+10	89011997	A	C	--	0.985959	pathogenic (high conf.)
+10	89012083	T	A	--	0.987202	pathogenic (high conf.)
+11	2395971	G	A	--	0.972631	pathogenic (high conf.)
+11	31810826	A	T	--	0.968976	pathogenic
+11	34960519	G	A	--	0.991170	pathogenic (high conf.)
+11	34984569	G	A	--	0.992117	pathogenic (high conf.)
+11	63976224	G	C	--	0.983571	pathogenic (high conf.)
+1	94060536	C	A	--	0.991364	pathogenic (high conf.)
+1	155240629	C	T	--	0.966151	pathogenic
+1	156137033	G	C	--	0.989873	pathogenic (high conf.)
+1	156137642	T	G	--	0.397124	benign
+1	156138758	G	A	--	0.991645	pathogenic (high conf.)
+1	156138762	G	A	--	0.990594	pathogenic (high conf.)
+1	158656669	A	C	--	0.336751	benign
+1	160032009	G	C	--	0.656184	pathogenic
+1	161356841	G	A	--	0.991637	pathogenic (high conf.)
+1	196673968	T	G	--	0.978711	pathogenic (high conf.)
+1	202334984	C	T	--	0.974720	pathogenic (high conf.)
+1	205169835	G	A	--	0.953093	pathogenic
+1	209633028	C	T	--	0.069618	benign
+1	209633136	A	G	--	0.443038	benign
+1	215891198	T	C	--	0.605129	pathogenic
+1	225404715	T	C	--	0.839796	pathogenic
+1	243305133	C	T	0.017670	--	benign (high conf.)
+2	26238931	T	C	--	0.975281	pathogenic (high conf.)
+2	27226128	C	T	--	0.825757	pathogenic
+2	27226130	G	A	--	0.991337	pathogenic (high conf.)
+2	27457760	A	T	--	0.918281	pathogenic
+2	43805249	A	G	0.132689	--	benign
+2	46994356	G	T	--	0.987652	pathogenic (high conf.)
+2	47022084	T	A	--	0.053642	benign
+2	47414421	A	T	--	0.981009	pathogenic (high conf.)
+2	47476362	T	A	--	0.978751	pathogenic (high conf.)
+2	73844893	G	T	--	0.985536	pathogenic (high conf.)
+2	74531106	G	C	--	0.986852	pathogenic (high conf.)
+2	84459170	C	G	--	0.869897	pathogenic
+2	86252072	T	C	--	0.992112	pathogenic (high conf.)
+2	86254816	T	C	--	0.990476	pathogenic (high conf.)
+2	113060943	T	C	--	0.959565	pathogenic
+2	188988140	T	C	--	0.978351	pathogenic (high conf.)
+2	188996501	G	T	--	0.991670	pathogenic (high conf.)
+2	188997394	G	A	--	0.991978	pathogenic (high conf.)
+2	189003067	G	T	--	0.990731	pathogenic (high conf.)
+2	190062219	C	T	--	0.990798	pathogenic (high conf.)
+2	190296956	G	C	--	0.986732	pathogenic (high conf.)
+2	203871492	G	C	--	0.989583	pathogenic (high conf.)
+2	232482850	C	A	--	0.991574	pathogenic (high conf.)
+2	232484469	T	A	--	0.982300	pathogenic (high conf.)
+3	3147899	C	G	--	0.933786	pathogenic
+3	4788144	G	T	--	0.991506	pathogenic (high conf.)
+3	14168404	T	C	--	0.060724	benign
+3	31622328	G	T	--	0.090483	benign
+11	72234616	G	A	--	0.982576	pathogenic (high conf.)
+11	102594759	T	A	--	0.991830	pathogenic (high conf.)
+11	108293479	T	C	--	0.993293	pathogenic (high conf.)
+12	14884212	C	T	--	0.988128	pathogenic (high conf.)
+12	14884247	T	C	--	0.988241	pathogenic (high conf.)
+12	31102313	T	C	0.831932	--	pathogenic
+12	102852814	C	T	--	0.991735	pathogenic (high conf.)
+13	20193020	G	A	--	0.190464	benign
+13	24885671	C	G	--	0.977177	pathogenic (high conf.)
+13	28659090	C	-	--	--	Error: nucleotide must be A/C/G/T
+14	23431584	C	T	--	0.989042	pathogenic (high conf.)
+14	36518022	T	A	--	0.992201	pathogenic (high conf.)
+14	77298688	C	T	--	0.988805	pathogenic (high conf.)
+14	88833691	A	G	--	0.987972	pathogenic (high conf.)
+15	51218539	A	G	--	0.987800	pathogenic (high conf.)
+15	51236858	C	T	--	0.990446	pathogenic (high conf.)
+16	47502989	A	G	--	0.991363	pathogenic (high conf.)
+9	101435912	C	T	--	0.253455	benign
+16	88735134	C	T	--	0.982965	pathogenic (high conf.)
+17	19347782	A	G	--	0.989993	pathogenic (high conf.)
+17	38334703	C	T	--	0.991512	pathogenic (high conf.)
+17	40819516	C	T	--	0.934012	pathogenic
+17	43099773	A	T	--	0.991485	pathogenic (high conf.)
+17	45477899	C	T	0.097428	--	benign
+17	58210658	C	T	--	0.984637	pathogenic (high conf.)
+17	58219149	A	G	--	0.962176	pathogenic
+17	63917759	C	G	--	0.988483	pathogenic (high conf.)
+17	63918015	A	G	--	0.989374	pathogenic (high conf.)
+17	63918016	C	G	--	0.989374	pathogenic (high conf.)
+17	63918016	C	T	--	0.988803	pathogenic (high conf.)
+17	63918138	T	A	--	0.985818	pathogenic (high conf.)
+17	68512549	G	A	--	0.749549	pathogenic
+17	68529919	G	A	--	0.985508	pathogenic (high conf.)
+17	75836338	C	T	--	0.991481	pathogenic (high conf.)
+17	75840506	C	A	--	0.990502	pathogenic (high conf.)
+17	78124181	T	A	--	0.989698	pathogenic (high conf.)
+18	57554259	C	T	0.102331	--	benign
+18	58723046	A	G	--	0.990749	pathogenic (high conf.)
+19	11035133	G	A	--	0.987574	pathogenic (high conf.)
+19	49016546	C	A	--	0.970998	pathogenic (high conf.)
+19	49016546	C	G	--	0.984788	pathogenic (high conf.)
+19	54934488	C	T	--	0.970398	pathogenic (high conf.)
+19	54940930	C	T	--	0.838432	pathogenic
+20	62818517	G	A	--	0.975293	pathogenic (high conf.)
+21	34880714	C	A	--	0.988456	pathogenic (high conf.)
+21	43058970	T	G	--	0.993675	pathogenic (high conf.)
+21	43774760	C	G	--	0.977316	pathogenic (high conf.)
+21	46125265	G	T	--	0.991321	pathogenic (high conf.)
+22	32493282	G	T	--	0.978968	pathogenic (high conf.)
+22	42619946	C	A	--	0.991841	pathogenic (high conf.)
+X	17721439	A	G	--	--	Predictions not available for allosomal chromosome 'X'
+X	133692368	C	A	--	--	Predictions not available for allosomal chromosome 'X'
+X	133953049	C	T	--	--	Predictions not available for allosomal chromosome 'X'
+X	154182566	A	C	--	--	Predictions not available for allosomal chromosome 'X'
+X	154367639	A	G	--	--	Predictions not available for allosomal chromosome 'X'
+X	154370872	C	T	--	--	Predictions not available for allosomal chromosome 'X'
+1	17028737	C	G	--	0.992004	pathogenic (high conf.)
+1	17033058	A	T	--	0.991982	pathogenic (high conf.)
+1	17033059	C	T	--	0.991550	pathogenic (high conf.)
+1	17053947	C	T	--	0.935939	pathogenic
+1	17053947	C	A	--	0.970999	pathogenic (high conf.)
+1	24343026	G	T	--	0.992251	pathogenic (high conf.)
+1	25553921	G	C	--	0.992799	pathogenic (high conf.)
+3	37001058	G	A	--	0.993030	pathogenic (high conf.)
+3	69936756	G	A	--	0.992860	pathogenic (high conf.)
+3	81648851	C	G	--	0.993071	pathogenic (high conf.)
+3	119515865	A	G	--	0.035332	benign
+3	128481945	C	A	--	0.986572	pathogenic (high conf.)
+3	129461309	G	A	--	0.992643	pathogenic (high conf.)
+3	148994280	G	C	--	0.984226	pathogenic (high conf.)
+3	180987023	C	G	--	0.992178	pathogenic (high conf.)
+4	5793722	G	T	--	0.987758	pathogenic (high conf.)
+4	6291188	A	G	--	0.052584	benign
+4	102579043	A	G	--	0.990352	pathogenic (high conf.)
+4	108024034	G	T	--	0.031153	benign
+4	127898434	C	G	--	0.963528	pathogenic
+4	154569320	C	T	--	0.079165	benign
+4	157136891	G	A	--	0.986941	pathogenic (high conf.)
+4	183684059	G	A	--	0.989735	pathogenic (high conf.)
+4	183686751	A	G	--	0.986568	pathogenic (high conf.)
+5	78839434	A	C	--	0.943053	pathogenic
+5	78839434	A	C	--	0.943053	pathogenic
+5	83537002	T	C	--	0.987253	pathogenic (high conf.)
+5	83537002	T	A	--	0.981132	pathogenic (high conf.)
+5	83537005	A	T	--	0.991243	pathogenic (high conf.)
+5	83537005	A	G	--	0.991243	pathogenic (high conf.)
+5	83537006	G	C	--	0.991243	pathogenic (high conf.)
+5	83537006	G	A	--	0.991243	pathogenic (high conf.)
+5	83542269	G	A	--	0.992166	pathogenic (high conf.)
+5	83542270	T	A	--	0.992166	pathogenic (high conf.)
+5	112707526	A	G	--	0.437687	benign
+5	128335592	T	C	--	0.279311	benign
+5	138441091	G	T	--	0.985390	pathogenic (high conf.)
+6	6320575	T	G	--	0.023069	benign (high conf.)
+6	32039081	C	G	0.112788	--	benign
+6	33700516	G	C	--	0.959975	pathogenic
+6	43049665	G	T	--	0.986876	pathogenic (high conf.)
+6	50828684	G	A	--	0.987999	pathogenic (high conf.)
+6	158158267	A	G	--	0.983705	pathogenic (high conf.)
+6	158986423	T	C	--	0.991463	pathogenic (high conf.)
+7	5989798	A	T	--	0.992536	pathogenic (high conf.)
+7	37862001	C	T	--	0.021640	benign (high conf.)
+7	56104221	C	T	--	0.763471	pathogenic
+7	107660756	T	C	--	0.745745	pathogenic
+7	117509146	A	G	--	0.988987	pathogenic (high conf.)
+7	117627774	A	G	0.962316	--	pathogenic
+7	141615468	C	G	--	0.977546	pathogenic (high conf.)
+7	156791255	G	C	--	0.623476	pathogenic
+7	156791472	C	T	--	0.727478	pathogenic
+7	156791474	G	A	--	0.751095	pathogenic
+7	156791542	A	C	--	0.779588	pathogenic
+7	156791547	A	G	--	0.741066	pathogenic
+7	156791571	T	A	--	0.381131	benign
+7	156791579	C	T	--	0.656936	pathogenic
+7	156791581	A	G	--	0.559525	pathogenic
+7	156791771	G	C	--	0.855616	pathogenic
+7	157367488	G	A	--	0.987786	pathogenic (high conf.)
+7	158914230	T	A	--	0.913315	pathogenic
+8	11564613	G	T	--	0.926430	pathogenic
+8	18059568	T	C	--	0.991506	pathogenic (high conf.)
+8	22130707	A	G	--	0.171318	benign
+8	38245955	C	G	--	0.981175	pathogenic (high conf.)
+8	39017211	A	G	--	0.842538	pathogenic
+8	41708992	C	T	--	0.139145	benign
+8	41797646	A	G	--	0.015399	benign (high conf.)
+8	60801598	G	C	--	0.986462	pathogenic (high conf.)
+8	93755871	G	A	--	0.935534	pathogenic
+8	101493333	G	T	--	0.059571	benign
+9	34637546	C	A	--	0.990824	pathogenic (high conf.)
+9	35090061	C	T	--	0.976989	pathogenic (high conf.)
+9	78240369	G	A	--	0.983959	pathogenic (high conf.)
+9	78253282	G	A	--	0.931656	pathogenic
+9	89338609	G	A	--	0.044796	benign
+9	95172033	T	A	--	0.989870	pathogenic (high conf.)
+9	98768253	G	C	--	0.963372	pathogenic
+9	108899816	A	G	--	0.984638	pathogenic (high conf.)
+9	113391634	G	A	--	0.067897	benign
+9	120419975	T	C	--	0.063831	benign
+9	128522658	A	G	--	0.186228	benign
+9	134834960	T	A	--	0.176089	benign
+10	27100460	C	T	--	0.057263	benign
+10	71799634	G	A	--	0.984161	pathogenic (high conf.)
+10	87863608	G	T	--	0.019393	benign (high conf.)
+10	87863705	G	A	--	0.053996	benign
+10	93620620	T	A	--	0.496684	benign
+10	98435267	C	T	--	0.986020	pathogenic (high conf.)
+10	102835249	C	A	--	0.990349	pathogenic (high conf.)
+10	121517316	T	C	--	0.989156	pathogenic (high conf.)
+10	121517464	C	T	--	0.991464	pathogenic (high conf.)
+10	125816702	A	G	--	0.496676	benign
+10	125816708	C	T	--	0.067141	benign
+10	125816718	G	T	--	0.053561	benign
+10	125816722	G	T	--	0.328767	benign
+10	133369901	C	G	--	0.981722	pathogenic (high conf.)
+11	299504	G	A	--	0.335224	benign
+11	680959	T	G	--	0.971798	pathogenic (high conf.)
+11	2160544	C	T	--	0.022089	benign (high conf.)
+11	5225729	G	T	--	0.993927	pathogenic (high conf.)
+11	5225832	G	C	--	0.092063	benign
+11	5225923	G	A	--	0.042069	benign
+11	5226820	C	T	--	0.543277	pathogenic
+11	5226924	A	G	--	0.976037	pathogenic (high conf.)
+11	5226925	C	T	--	0.974115	pathogenic (high conf.)
+11	5226925	C	A	--	0.982364	pathogenic (high conf.)
+11	5226925	C	G	--	0.982364	pathogenic (high conf.)
+11	5227099	T	C	--	0.528412	pathogenic
+11	5227099	T	G	--	0.733767	pathogenic
+11	5227100	T	C	--	0.823248	pathogenic
+11	5227101	A	T	--	0.531526	pathogenic
+11	5227102	T	C	--	0.564319	pathogenic
+11	5227103	G	T	--	0.474238	benign
+11	5227157	G	C	--	0.781177	pathogenic
+11	5227158	G	C	--	0.800820	pathogenic
+11	5227159	G	A	--	0.798267	pathogenic
+11	5234514	T	C	--	0.601178	pathogenic
+11	5234559	T	A	--	0.274555	benign
+11	5234560	A	G	--	0.147424	benign
+11	5249971	G	A	--	0.885490	pathogenic
+11	5249974	C	T	--	0.814051	pathogenic
+11	5250052	G	C	--	0.667016	pathogenic
+11	5254895	G	T	--	0.767229	pathogenic
+11	5254895	G	A	--	0.812453	pathogenic
+11	5254956	A	G	--	0.640778	pathogenic
+11	5254983	G	C	--	0.481605	benign
+11	6616513	T	C	--	0.316293	benign
+11	17397055	C	T	0.152124	--	benign
+11	18310943	T	C	--	0.224016	benign
+11	31664397	C	A	--	0.765516	pathogenic
+11	31806397	C	G	--	0.990643	pathogenic (high conf.)
+11	32391967	C	T	--	0.988285	pathogenic (high conf.)
+11	32391968	G	A	--	0.989788	pathogenic (high conf.)
+11	46739505	G	A	--	0.555030	pathogenic
+11	47343281	C	T	--	0.106051	benign
+11	47448165	G	T	--	0.118428	benign
+11	62691424	G	C	--	0.976819	pathogenic (high conf.)
+11	62692371	C	T	--	0.918386	pathogenic
+11	65206824	G	A	--	0.968293	pathogenic
+11	65547915	C	T	--	0.990372	pathogenic (high conf.)
+11	68041392	A	T	--	0.981971	pathogenic (high conf.)
+11	68390053	G	A	--	0.990737	pathogenic (high conf.)
+11	78114262	T	C	--	0.973059	pathogenic (high conf.)
+11	108235839	G	A	--	0.983752	pathogenic (high conf.)
+11	112228271	A	T	--	0.300631	benign
+11	118340370	C	T	--	0.980429	pathogenic (high conf.)
+11	119101490	C	T	--	0.865754	pathogenic
+11	134216922	T	C	--	0.028813	benign (high conf.)
+12	48980693	A	G	--	0.983241	pathogenic (high conf.)
+12	56355703	C	G	--	0.982396	pathogenic (high conf.)
+12	88101183	T	C	--	0.040044	benign
+12	101757566	A	C	--	0.945947	pathogenic
+12	102843782	G	A	--	0.991154	pathogenic (high conf.)
+12	102843790	C	T	--	0.546887	pathogenic
+12	102844333	T	C	--	0.833923	pathogenic
+12	119832768	T	A	--	0.985497	pathogenic (high conf.)
+12	132643404	T	C	--	0.948253	pathogenic
+13	31247104	G	A	--	0.988327	pathogenic (high conf.)
+13	39699477	A	G	--	0.195624	benign
+14	65724328	G	T	--	0.990034	pathogenic (high conf.)
+14	74486324	C	T	--	0.991078	pathogenic (high conf.)
+14	77320429	C	G	--	0.908951	pathogenic
+14	81092611	G	C	--	0.977464	pathogenic (high conf.)
+14	88843851	G	A	--	0.992356	pathogenic (high conf.)
+15	42731206	C	T	--	0.966380	pathogenic
+15	48226575	A	G	--	0.992114	pathogenic (high conf.)
+15	48446701	C	T	--	0.989187	pathogenic (high conf.)
+15	52153937	T	C	--	0.971539	pathogenic (high conf.)
+15	57234110	G	C	--	0.979377	pathogenic (high conf.)
+15	68211258	C	A	--	0.991561	pathogenic (high conf.)
+15	72349266	C	T	--	0.900986	pathogenic
+15	91004872	C	G	--	0.986954	pathogenic (high conf.)
+16	1772656	C	T	--	0.074598	benign
+16	4798564	C	G	--	0.971888	pathogenic (high conf.)
+16	14627189	T	C	--	0.990791	pathogenic (high conf.)
+16	17138534	G	A	--	0.987418	pathogenic (high conf.)
+16	23445968	T	C	--	0.135288	benign
+16	23452822	T	G	--	0.978621	pathogenic (high conf.)
+16	31484657	C	A	--	0.099654	benign
+16	46693187	G	A	--	0.971845	pathogenic (high conf.)
+16	57656620	G	C	--	0.984324	pathogenic (high conf.)
+16	67436156	C	T	--	0.078877	benign
+16	67942609	A	G	--	0.904193	pathogenic
+16	71576031	T	C	--	0.884002	pathogenic
+16	89651659	C	T	--	0.132247	benign
+17	562498	C	T	--	0.988276	pathogenic (high conf.)
+17	3659855	C	G	--	0.969928	pathogenic
+17	4901641	C	T	--	0.143228	benign
+17	6610163	G	T	--	0.869024	pathogenic
+17	8173444	G	A	--	0.626244	pathogenic
+17	8173448	G	C	--	0.982782	pathogenic (high conf.)
+17	8175756	C	T	0.873263	--	pathogenic
+17	28402322	C	T	--	0.988715	pathogenic (high conf.)
+17	31221842	A	G	--	0.881717	pathogenic
+17	31336328	A	G	--	0.907965	pathogenic
+17	44375719	G	C	--	0.955570	pathogenic
+17	63917755	C	G	--	0.991488	pathogenic (high conf.)
+17	63917989	C	T	--	0.033657	benign
+17	63918012	C	T	--	0.988554	pathogenic (high conf.)
+17	68528994	A	G	--	0.779953	pathogenic
+17	68543723	T	C	0.837018	--	pathogenic
+17	77320193	G	C	--	0.826456	pathogenic
+17	80104542	T	G	--	0.051741	benign
+17	80182795	G	A	--	0.990869	pathogenic (high conf.)
+17	82893535	C	G	--	0.119205	benign
+18	23001782	T	G	--	0.109425	benign
+18	57571588	A	G	0.009191	--	benign (high conf.)
+18	62113129	C	T	--	0.984320	pathogenic (high conf.)
+18	70135176	T	C	--	0.780235	pathogenic
+18	79710825	C	T	--	0.016410	benign (high conf.)
+19	1105814	G	A	--	0.983345	pathogenic (high conf.)
+19	6361944	A	G	--	0.948818	pathogenic
+19	7456408	G	A	--	0.991330	pathogenic (high conf.)
+19	11021722	C	G	--	0.988481	pathogenic (high conf.)
+19	11105602	T	C	--	0.991850	pathogenic (high conf.)
+19	11120523	G	A	--	0.991843	pathogenic (high conf.)
+19	11120608	C	G	--	0.038693	benign
+19	35033827	G	A	--	--	No prediction found
+19	35126265	C	A	0.772916	--	pathogenic
+19	35126848	C	G	0.860392	--	pathogenic
+19	43744768	T	C	--	0.986474	pathogenic (high conf.)
+19	45553912	C	G	--	0.989954	pathogenic (high conf.)
+19	48297995	C	T	--	0.950789	pathogenic
+19	48965344	C	T	--	0.993282	pathogenic (high conf.)
+19	54123563	A	G	--	0.817515	pathogenic
+19	54130024	C	G	--	0.074436	benign
+20	18057908	A	C	--	0.649062	pathogenic
+20	18057941	A	G	--	0.684408	pathogenic
+20	23049655	C	A	--	0.116177	benign
+20	44625568	C	T	--	0.991346	pathogenic (high conf.)
+20	45893314	A	G	--	0.958436	pathogenic
+20	50945767	A	T	--	0.986491	pathogenic (high conf.)
+20	63689870	G	A	--	0.625630	pathogenic
+20	63695558	T	C	0.219045	--	benign
+21	33582064	T	C	--	0.914841	pathogenic
+21	33583688	T	C	--	0.070951	benign
+21	42485807	G	T	--	0.987941	pathogenic (high conf.)
+21	44330349	T	A	--	0.020297	benign (high conf.)
+22	20061684	G	A	--	0.993218	pathogenic (high conf.)
+22	20985828	G	A	--	0.121405	benign
+22	29636877	G	T	--	0.991175	pathogenic (high conf.)
+22	30613044	T	G	--	0.985512	pathogenic (high conf.)
+22	30615125	A	T	--	0.042276	benign
+22	42628144	C	G	--	0.755940	pathogenic
+X	13716530	A	G	--	--	Predictions not available for allosomal chromosome 'X'
+X	13719866	C	T	--	--	Predictions not available for allosomal chromosome 'X'
+X	13744405	T	G	--	--	Predictions not available for allosomal chromosome 'X'
+X	13750239	A	G	--	--	Predictions not available for allosomal chromosome 'X'
+X	15845898	C	T	--	--	Predictions not available for allosomal chromosome 'X'
+X	21972576	G	A	--	--	Predictions not available for allosomal chromosome 'X'
+X	24726579	A	G	--	--	Predictions not available for allosomal chromosome 'X'
+X	31261301	T	C	--	--	Predictions not available for allosomal chromosome 'X'
+X	38300884	C	T	--	--	Predictions not available for allosomal chromosome 'X'
+X	40589122	T	A	--	--	Predictions not available for allosomal chromosome 'X'
+X	48824894	A	T	--	--	Predictions not available for allosomal chromosome 'X'
+X	70450784	G	C	--	--	Predictions not available for allosomal chromosome 'X'
+X	71544561	T	G	--	--	Predictions not available for allosomal chromosome 'X'
+X	72572052	C	T	--	--	Predictions not available for allosomal chromosome 'X'
+X	80025598	T	A	--	--	Predictions not available for allosomal chromosome 'X'
+X	101346683	T	G	--	--	Predictions not available for allosomal chromosome 'X'
+X	101353865	C	T	--	--	Predictions not available for allosomal chromosome 'X'
+X	101399747	C	T	--	--	Predictions not available for allosomal chromosome 'X'
+X	124346784	G	C	--	--	Predictions not available for allosomal chromosome 'X'
+X	129841774	C	G	--	--	Predictions not available for allosomal chromosome 'X'
+X	136208453	A	G	--	--	Predictions not available for allosomal chromosome 'X'
+X	139541073	A	G	--	--	Predictions not available for allosomal chromosome 'X'
+X	150659654	A	G	--	--	Predictions not available for allosomal chromosome 'X'
+X	151403604	A	T	--	--	Predictions not available for allosomal chromosome 'X'
+X	151403604	A	C	--	--	Predictions not available for allosomal chromosome 'X'
+X	151403744	A	G	--	--	Predictions not available for allosomal chromosome 'X'
+X	151404909	T	G	--	--	Predictions not available for allosomal chromosome 'X'
+X	151404910	T	G	--	--	Predictions not available for allosomal chromosome 'X'
+X	151405064	A	G	--	--	Predictions not available for allosomal chromosome 'X'
+X	153865838	T	G	--	--	Predictions not available for allosomal chromosome 'X'
+X	153867795	C	T	--	--	Predictions not available for allosomal chromosome 'X'
+X	154367741	G	C	--	--	Predictions not available for allosomal chromosome 'X'
+X	154991304	C	T	--	--	Predictions not available for allosomal chromosome 'X'
+9	35657948	T	C	--	0.881488	pathogenic
+8	127091692	T	A	--	0.121401	benign
+7	129774757	C	T	--	0.928418	pathogenic
+M	5650	G	A	--	--	Error: unrecognised chromosome 'M'
+M	5591	G	A	--	--	Error: unrecognised chromosome 'M'
+M	10438	A	G	--	--	Error: unrecognised chromosome 'M'
+M	10450	A	G	--	--	Error: unrecognised chromosome 'M'
+M	5703	G	A	--	--	Error: unrecognised chromosome 'M'
+M	5728	T	C	--	--	Error: unrecognised chromosome 'M'
+M	7526	A	G	--	--	Error: unrecognised chromosome 'M'
+M	5184	T	C	--	--	Error: unrecognised chromosome 'M'
+M	5816	A	G	--	--	Error: unrecognised chromosome 'M'
+M	14709	T	C	--	--	Error: unrecognised chromosome 'M'
+M	14674	T	C	--	--	Error: unrecognised chromosome 'M'
+M	14674	T	G	--	--	Error: unrecognised chromosome 'M'
+M	14692	A	G	--	--	Error: unrecognised chromosome 'M'
+MT	4369	-	A	--	--	Error: nucleotide must be A/C/G/T
+M	4336	T	C	--	--	Error: unrecognised chromosome 'M'
+M	4332	G	A	--	--	Error: unrecognised chromosome 'M'
+M	9997	T	C	--	--	Error: unrecognised chromosome 'M'
+M	10010	T	C	--	--	Error: unrecognised chromosome 'M'
+M	10044	A	G	--	--	Error: unrecognised chromosome 'M'
+M	12192	G	A	--	--	Error: unrecognised chromosome 'M'
+M	12183	G	A	--	--	Error: unrecognised chromosome 'M'
+M	12147	G	A	--	--	Error: unrecognised chromosome 'M'
+M	12201	T	C	--	--	Error: unrecognised chromosome 'M'
+M	12315	G	A	--	--	Error: unrecognised chromosome 'M'
+M	12320	A	G	--	--	Error: unrecognised chromosome 'M'
+M	12297	T	C	--	--	Error: unrecognised chromosome 'M'
+M	8344	A	G	--	--	Error: unrecognised chromosome 'M'
+M	8356	T	C	--	--	Error: unrecognised chromosome 'M'
+M	8363	G	A	--	--	Error: unrecognised chromosome 'M'
+M	8313	G	A	--	--	Error: unrecognised chromosome 'M'
+M	8296	A	G	--	--	Error: unrecognised chromosome 'M'
+M	8342	G	A	--	--	Error: unrecognised chromosome 'M'
+M	8361	G	A	--	--	Error: unrecognised chromosome 'M'
+M	4409	T	C	--	--	Error: unrecognised chromosome 'M'
+M	583	G	A	--	--	Error: unrecognised chromosome 'M'
+M	611	G	A	--	--	Error: unrecognised chromosome 'M'
+M	622	G	A	--	--	Error: unrecognised chromosome 'M'
+M	616	T	G	--	--	Error: unrecognised chromosome 'M'
+M	586	G	A	--	--	Error: unrecognised chromosome 'M'
+M	608	A	G	--	--	Error: unrecognised chromosome 'M'
+M	15990	C	T	--	--	Error: unrecognised chromosome 'M'
+M	15965	A	G	--	--	Error: unrecognised chromosome 'M'
+M	15967	G	A	--	--	Error: unrecognised chromosome 'M'
+M	7512	T	C	--	--	Error: unrecognised chromosome 'M'
+M	7445	A	G	--	--	Error: unrecognised chromosome 'M'
+M	7510	T	C	--	--	Error: unrecognised chromosome 'M'
+M	7511	T	C	--	--	Error: unrecognised chromosome 'M'
+M	7445	A	C	--	--	Error: unrecognised chromosome 'M'
+M	7497	G	A	--	--	Error: unrecognised chromosome 'M'
+M	7505	T	C	--	--	Error: unrecognised chromosome 'M'
+M	12258	C	A	--	--	Error: unrecognised chromosome 'M'
+M	12207	G	A	--	--	Error: unrecognised chromosome 'M'
+M	15950	G	A	--	--	Error: unrecognised chromosome 'M'
+M	5549	G	A	--	--	Error: unrecognised chromosome 'M'
+MT	5537	-	T	--	--	Error: nucleotide must be A/C/G/T
+M	5521	G	A	--	--	Error: unrecognised chromosome 'M'
+M	5532	G	A	--	--	Error: unrecognised chromosome 'M'
+M	5545	C	T	--	--	Error: unrecognised chromosome 'M'
+M	5556	G	A	--	--	Error: unrecognised chromosome 'M'
+M	5874	T	C	--	--	Error: unrecognised chromosome 'M'
+MT	5888	T	-	--	--	Error: nucleotide must be A/C/G/T
+M	5877	C	T	--	--	Error: unrecognised chromosome 'M'
+M	5843	A	G	--	--	Error: unrecognised chromosome 'M'
+M	1606	G	A	--	--	Error: unrecognised chromosome 'M'
+M	1624	C	T	--	--	Error: unrecognised chromosome 'M'
+9	127785950	C	G	--	--	No prediction found
+17	8173448	G	C	--	0.982782	pathogenic (high conf.)
+17	8173532	C	T	--	0.994552	pathogenic (high conf.)
+17	8173531	T	C	--	0.981872	pathogenic (high conf.)
+17	8173569	G	A	--	0.995734	pathogenic (high conf.)
+9	70810048	G	A	--	0.969404	pathogenic
+X	154762824	C	G	--	--	Predictions not available for allosomal chromosome 'X'
+X	154774706	G	A	--	--	Predictions not available for allosomal chromosome 'X'
+1	92834833	G	T	0.493161	--	benign
+19	54123563	A	G	--	0.817515	pathogenic
+19	54130024	C	G	--	0.074436	benign
+12	12717808	GAGA	-	--	--	Error: nucleotide must be A/C/G/T
+12	12717384	CCTT	-	--	--	Error: nucleotide must be A/C/G/T
+10	44378102	C	T	--	0.069093	benign
+X	147921932	GG	TA	--	--	Error: nucleotide must be A/C/G/T
+2	112001199	A	G	--	0.991275	pathogenic (high conf.)
+2	112019523	G	T	--	0.992421	pathogenic (high conf.)
+2	190062219	C	T	--	0.990798	pathogenic (high conf.)
+13	83878728	C	T	--	0.599831	pathogenic
+12	48980693	A	G	--	0.983241	pathogenic (high conf.)
+X	133692368	C	A	--	--	Predictions not available for allosomal chromosome 'X'
+X	133953049	C	T	--	--	Predictions not available for allosomal chromosome 'X'
+20	10641459	C	G	--	0.990053	pathogenic (high conf.)
+10	87933253	T	G	--	0.992221	pathogenic (high conf.)
+10	87863705	G	A	--	0.053996	benign
+10	87863608	G	T	--	0.019393	benign (high conf.)
+X	153930761	A	T	--	--	Predictions not available for allosomal chromosome 'X'
+17	44351164	G	A	--	0.970479	pathogenic (high conf.)
+12	112455948	A	C	--	0.990093	pathogenic (high conf.)
+12	112482073	G	T	--	0.991719	pathogenic (high conf.)
+9	34637546	C	A	--	0.990824	pathogenic (high conf.)
+2	86254816	T	C	--	0.990476	pathogenic (high conf.)
+2	86217057	C	A	0.008703	--	benign (high conf.)
+2	86252072	T	C	--	0.992112	pathogenic (high conf.)
+1	112956380	-	CCCCACCCCGCCACGTGACCGGCGT	--	--	Error: nucleotide must be A/C/G/T
+1	11023351	G	A	--	0.581026	pathogenic
+X	108667124	C	G	--	--	Predictions not available for allosomal chromosome 'X'
+X	108666487	A	G	--	--	Predictions not available for allosomal chromosome 'X'
+X	108665496	C	A	--	--	Predictions not available for allosomal chromosome 'X'
+X	108621793	T	G	--	--	Predictions not available for allosomal chromosome 'X'
+X	108573562	G	A	--	--	Predictions not available for allosomal chromosome 'X'
+X	108570694	G	A	--	--	Predictions not available for allosomal chromosome 'X'
+1	11790916	C	T	--	0.032068	benign
+1	11791206	C	A	--	0.990035	pathogenic (high conf.)
+1	11792276	A	C	--	0.987926	pathogenic (high conf.)
+1	11793905	A	G	--	0.991109	pathogenic (high conf.)
+1	11796205	C	A	--	0.993713	pathogenic (high conf.)
+1	11802880	C	T	--	0.989988	pathogenic (high conf.)
+1	12004615	T	C	--	0.991678	pathogenic (high conf.)
+1	17027866	C	T	--	0.991981	pathogenic (high conf.)
+2	46978908	G	-	--	--	Error: nucleotide must be A/C/G/T
+1	23693914	G	A	--	0.990530	pathogenic (high conf.)
+14	88870200	TGC	-	--	--	Error: nucleotide must be A/C/G/T
+2	189062914	GCTCCCT	-	--	--	Error: nucleotide must be A/C/G/T
+4	94253672	G	T	--	0.979144	pathogenic (high conf.)
+12	110281780	C	G	--	0.793641	pathogenic
+X	154762824	C	G	--	--	Predictions not available for allosomal chromosome 'X'
+19	48965348	A	G	--	0.998801	pathogenic (high conf.)
+19	48965347	C	T	--	0.990563	pathogenic (high conf.)
+19	48965349	G	C	--	0.990359	pathogenic (high conf.)
+16	173692	A	G	--	0.694399	pathogenic
+11	5250053	G	A	--	0.670323	pathogenic
+11	17388225	C	A	--	0.123231	benign
+10	99808231	T	A	--	0.991523	pathogenic (high conf.)
+10	99811604	T	C	--	0.988456	pathogenic (high conf.)
+16	16221832	C	T	--	0.993067	pathogenic (high conf.)
+2	166051705	A	C	--	0.235192	benign
+2	202542302	A	G	--	0.971270	pathogenic (high conf.)
+3	49422505	G	A	--	0.226328	benign
+7	94395818	A	G	--	0.697008	pathogenic
+7	156791137	T	C	--	0.434868	benign
+3	39391440	G	A	--	0.991169	pathogenic (high conf.)
+3	52407318	T	C	--	0.987426	pathogenic (high conf.)
+5	42711206	G	T	--	0.991179	pathogenic (high conf.)
+5	68293835	G	C	--	0.993097	pathogenic (high conf.)
+20	2467201	G	T	--	0.549987	pathogenic
+7	138762435	C	T	--	0.992025	pathogenic (high conf.)
+8	71299637	C	T	--	0.991122	pathogenic (high conf.)
+8	93780872	A	G	--	0.992014	pathogenic (high conf.)
+10	89011997	A	C	--	0.985959	pathogenic (high conf.)
+10	89012083	T	A	--	0.987202	pathogenic (high conf.)
+11	44171743	G	A	--	0.991645	pathogenic (high conf.)
+1	154167941	C	T	--	0.984230	pathogenic (high conf.)
+1	156137237	G	C	--	0.987455	pathogenic (high conf.)
+1	159204893	T	C	--	0.895777	pathogenic
+2	71590178	A	G	--	0.382249	benign
+2	71664443	G	A	--	0.986097	pathogenic (high conf.)
+2	169493012	A	G	--	0.993183	pathogenic (high conf.)
+3	4782744	A	T	--	0.986405	pathogenic (high conf.)
+16	8772778	A	G	--	0.990151	pathogenic (high conf.)
+17	68512549	G	A	--	0.749549	pathogenic
+19	35033497	A	C	--	0.991334	pathogenic (high conf.)
+3	46370771	C	T	--	0.133410	benign
+3	149176413	C	T	--	0.986995	pathogenic (high conf.)
+4	154612013	C	T	--	0.991660	pathogenic (high conf.)
+5	33964017	C	T	--	0.989526	pathogenic (high conf.)
+5	112707526	A	T	--	0.437687	benign
+5	112707528	G	A	--	0.447419	benign
+7	246512	G	C	--	0.991621	pathogenic (high conf.)
+7	248312	C	G	--	0.981265	pathogenic (high conf.)
+7	117627502	T	C	--	0.167379	benign
+8	22130605	T	C	--	0.272876	benign
+8	22130636	G	C	--	0.563611	pathogenic
+8	22130702	G	A	--	0.464163	benign
+8	71271753	C	T	--	0.949952	pathogenic
+9	134814039	G	T	--	0.987315	pathogenic (high conf.)
+10	69278711	G	C	--	0.646152	pathogenic
+10	78009519	C	T	--	0.063641	benign
+10	89012083	T	C	--	0.987202	pathogenic (high conf.)
+11	2165787	A	T	--	0.447610	benign
+11	5227172	G	A	--	0.696198	pathogenic
+11	5232765	C	T	0.035041	--	benign
+11	5250055	A	G	--	0.677900	pathogenic
+11	32391966	A	T	--	0.984904	pathogenic (high conf.)
+11	47337820	T	C	--	0.058035	benign
+11	47347852	C	T	--	0.989933	pathogenic (high conf.)
+12	57782862	A	G	--	0.714591	pathogenic
+13	48303724	G	T	--	0.493024	benign
+14	75958692	G	A	--	0.241876	benign
+14	75980923	C	T	--	0.155222	benign
+15	80180230	G	A	0.922807	--	pathogenic
+17	42901110	A	G	--	0.989106	pathogenic (high conf.)
+17	44262928	C	T	--	0.445052	benign
+17	63918011	A	G	--	0.875403	pathogenic
+18	57551312	T	C	0.268638	--	benign
+19	48965359	G	C	--	0.995285	pathogenic (high conf.)
+20	32807751	G	A	--	0.433432	benign
+X	136208642	G	A	--	--	Predictions not available for allosomal chromosome 'X'
+1	16514283	T	C	--	0.950674	pathogenic
+1	28648604	A	G	--	0.985019	pathogenic (high conf.)
