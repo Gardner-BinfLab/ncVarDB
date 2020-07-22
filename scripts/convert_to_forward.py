@@ -46,5 +46,7 @@ for index, row in df.iterrows():
             error_df.append(row)
             print("Could not fetch base at position: " + position)
 
-df.to_csv(output_csv_file_name, sep=",", mode='a', index=False)
-error_df.to_csv(error_file_name, index=False)
+with open(output_csv_file_name, 'w') as output_file:
+    df.to_csv(output_csv_file_name, sep=",", index=False)
+with open(error_file_name, 'w') as error_file:
+    error_df.to_csv(error_file_name, index=False)
