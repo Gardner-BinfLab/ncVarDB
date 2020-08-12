@@ -40,7 +40,7 @@ ncVarP_A000038,hg38,1,17028599,C,T,substitution,intronic,1.6e-05,0.0028699999999
 ncVarP_A000039,hg38,2,46994513,AAGT,-,deletion,intronic,1.7e-05,0.002891,dbsnp:rs587776971;clinvarID:50608,23830146,Multiple gastrointestinal atresias
 ncVarP_A000040,hg38,1,21573801,T,G,substitution,intronic,0.0,0.0,dbsnp:rs1057517391;clinvarID:371591,18925618,Infantile hypophosphatasia
 ncVarP_A000041,hg38,1,24337790,G,T,substitution,intronic,0.0,0.0,dbsnp:rs886037768;clinvarID:219244,27018475,nonsyndromic cleft palate
-ncVarP_A000042,hg38,5,36876937,CC,A,delins,5utr,0.0,0.0,dbsnp:rs724159980;clinvarID:2151,16799922,Cornelia de Lange syndrome 1
+ncVarP_A000042,hg38,5,36876937,CC,A,substitution,5utr,0.0,0.0,dbsnp:rs724159980;clinvarID:2151,16799922,Cornelia de Lange syndrome 1
 ncVarP_A000043,hg38,17,42695519,AGAT,-,deletion,intronic,0.0,0.0,dbsnp:rs786204800;clinvarID:189262,24319099,Lethal congenital contracture syndrome 7
 ncVarP_A000044,hg38,X,15846013,TGTA,-,deletion,intronic,0.0,0.0,dbsnp:rs587776738;clinvarID:10779,17186471,Pettigrew syndrome
 ncVarP_A000045,hg38,4,186274115,G,A,substitution,intronic,0.0,0.0,dbsnp:rs1057517364;clinvarID:371555,27067486,Hereditary factor XI deficiency disease
