@@ -585,7 +585,7 @@ ncVarP_A000583,hg38,M,14709,T,C,substitution,ncRNA,0.0,0.0,dbsnp:rs121434453;cli
 ncVarP_A000584,hg38,M,14674,T,C,substitution,ncRNA,0.0,0.0,dbsnp:rs387906421;clinvarID:30003;clinvarID:9618,19720722,Mitochondrial myopathy infantile transient
 ncVarP_A000585,hg38,M,14674,T,G,substitution,ncRNA,0.0,0.0,dbsnp:rs387906421;clinvarID:30003;clinvarID:9618,21194154,Mitochondrial myopathy infantile transient
 ncVarP_A000586,hg38,M,14692,A,G,substitution,ncRNA,0.0,0.0,dbsnp:rs879192165;clinvarID:267298,27519417,Diabetes and Deafness; maternally inherited
-ncVarP_A000587,hg38,MT,4369,-,A,insertion,ncRNA,0.0,0.0,dbsnp:rs199476140;clinvarID:9614;omimID:590030,10996779,Myopathy
+ncVarP_A000587,hg38,M,4369,-,A,insertion,ncRNA,0.0,0.0,dbsnp:rs199476140;clinvarID:9614;omimID:590030,10996779,Myopathy
 ncVarP_A000588,hg38,M,4336,T,C,substitution,ncRNA,0.0,0.0,dbsnp:rs41456348;clinvarID:9615,11424923,Sensorineural deafness and migraine
 ncVarP_A000589,hg38,M,4332,G,A,substitution,ncRNA,0.0,0.0,dbsnp:rs199476141;clinvarID:9616,11171912,MELAS syndrome
 ncVarP_A000590,hg38,M,9997,T,C,substitution,ncRNA,0.0,0.0,dbsnp:rs121434475;clinvarID:9611;omimID:590035,8079988,Cardiomyopathy; hypertrophic
@@ -626,13 +626,13 @@ ncVarP_A000624,hg38,M,12258,C,A,substitution,ncRNA,0.0,0.0,dbsnp:rs118203888;cli
 ncVarP_A000625,hg38,M,12207,G,A,substitution,ncRNA,0.0,0.0,dbsnp:rs118203889;clinvarID:9561,16950817,MERRF/MELAS overlap syndrome
 ncVarP_A000626,hg38,M,15950,G,A,substitution,ncRNA,0.0,0.0,dbsnp:rs118203890;clinvarID:9559;omimID:590090,10369889,Parkinson disease susceptibility
 ncVarP_A000627,hg38,M,5549,G,A,substitution,ncRNA,0.0,0.0,dbsnp:rs199474671;clinvarID:9554;omimID:590095,7695240,Encephalomyopathy mitochondrial
-ncVarP_A000628,hg38,MT,5537,-,T,insertion,ncRNA,0.0,0.0,dbsnp:rs199474672;clinvarID:9555,9266739,Encephalomyopathy mitochondrial
+ncVarP_A000628,hg38,M,5537,-,T,insertion,ncRNA,0.0,0.0,dbsnp:rs199474672;clinvarID:9555,9266739,Encephalomyopathy mitochondrial
 ncVarP_A000629,hg38,M,5521,G,A,substitution,ncRNA,0.0,0.0,dbsnp:rs199474673;clinvarID:9556,9673981,Myopathy mitochondrial
 ncVarP_A000630,hg38,M,5532,G,A,substitution,ncRNA,0.0,0.0,dbsnp:rs199474674;clinvarID:9557,15054399,Neurogastrointestinal syndrome mitochondrial
 ncVarP_A000631,hg38,M,5545,C,T,substitution,ncRNA,0.0,0.0,dbsnp:rs387906418;clinvarID:9558,18337306,Encephalomyopathy mitochondrial
 ncVarP_A000632,hg38,M,5556,G,A,substitution,ncRNA,0.0,0.0,dbsnp:rs387906736;clinvarID:30007,19809478,Encephalomyopathy mitochondrial
 ncVarP_A000633,hg38,M,5874,T,C,substitution,ncRNA,0.0,0.0,dbsnp:rs118203891;clinvarID:9550;omimID:590100,11071502,Exercise intolerance and complex III deficiency somatic
-ncVarP_A000634,hg38,MT,5888,T,-,deletion,ncRNA,0.0,0.0,dbsnp:rs118203892;clinvarID:9551,11756614,Chronic progressive external opthalmoplegia with myopathy somatic
+ncVarP_A000634,hg38,M,5888,T,-,deletion,ncRNA,0.0,0.0,dbsnp:rs118203892;clinvarID:9551,11756614,Chronic progressive external opthalmoplegia with myopathy somatic
 ncVarP_A000635,hg38,M,5877,C,T,substitution,ncRNA,0.0,0.0,dbsnp:rs118203893;clinvarID:9552,11594340,Chronic progressive external opthalmoplegia with myopathy somatic
 ncVarP_A000636,hg38,M,5843,A,G,substitution,ncRNA,0.0,0.0,dbsnp:rs118203894;clinvarID:9553,14598342,Focal segmental glomerulosclerosis and dilated cardiomyopathy
 ncVarP_A000637,hg38,M,1606,G,A,substitution,ncRNA,0.0,0.0,dbsnp:rs199476143;clinvarID:9548;omimID:590105,9450773,Ataxia; progressive seizures; mental detoriation and hearing loss
