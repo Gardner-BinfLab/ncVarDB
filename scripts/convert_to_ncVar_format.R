@@ -11,6 +11,7 @@ benign$genome=rep("hg38", num)
 benign$ID=paste("ncVarB_A", sep="", formatC(c(1:num), width=6, flag=0))
 benign <- benign[c("ID", "genome", "chrom", "chromStart", "refUCSC", "minorAllele", "class", "func", "minorAlleleFreq", "name")]
 names(benign)<- c("ID", "genome", "chr", "pos", "ref", "alt", "mut_type", "mut_position", "MAF", "x_ref")
+benign$chr <- gsub("chr", "", benign$chr)
 
 write.table(benign, output_filename, quote = F,row.names = F,sep = "\t")
 
