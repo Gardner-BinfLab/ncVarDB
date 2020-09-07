@@ -585,7 +585,7 @@ M	14709	T	C	--	--	Error: unrecognised chromosome 'M'
 M	14674	T	C	--	--	Error: unrecognised chromosome 'M'
 M	14674	T	G	--	--	Error: unrecognised chromosome 'M'
 M	14692	A	G	--	--	Error: unrecognised chromosome 'M'
-MT	4369	-	A	--	--	Error: nucleotide must be A/C/G/T
+M	4369	-	A	--	--	Error: nucleotide must be A/C/G/T
 M	4336	T	C	--	--	Error: unrecognised chromosome 'M'
 M	4332	G	A	--	--	Error: unrecognised chromosome 'M'
 M	9997	T	C	--	--	Error: unrecognised chromosome 'M'
@@ -626,13 +626,13 @@ M	12258	C	A	--	--	Error: unrecognised chromosome 'M'
 M	12207	G	A	--	--	Error: unrecognised chromosome 'M'
 M	15950	G	A	--	--	Error: unrecognised chromosome 'M'
 M	5549	G	A	--	--	Error: unrecognised chromosome 'M'
-MT	5537	-	T	--	--	Error: nucleotide must be A/C/G/T
+M	5537	-	T	--	--	Error: nucleotide must be A/C/G/T
 M	5521	G	A	--	--	Error: unrecognised chromosome 'M'
 M	5532	G	A	--	--	Error: unrecognised chromosome 'M'
 M	5545	C	T	--	--	Error: unrecognised chromosome 'M'
 M	5556	G	A	--	--	Error: unrecognised chromosome 'M'
 M	5874	T	C	--	--	Error: unrecognised chromosome 'M'
-MT	5888	T	-	--	--	Error: nucleotide must be A/C/G/T
+M	5888	T	-	--	--	Error: nucleotide must be A/C/G/T
 M	5877	C	T	--	--	Error: unrecognised chromosome 'M'
 M	5843	A	G	--	--	Error: unrecognised chromosome 'M'
 M	1606	G	A	--	--	Error: unrecognised chromosome 'M'
