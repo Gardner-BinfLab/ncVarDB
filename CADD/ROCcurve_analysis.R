@@ -8,7 +8,6 @@ if (length(args)==0) {
 
 pathogenic_filename=args[1]
 benign_filename=args[2]
-PDF_file_name=args[3]
 
 pathogenic <- read.csv(pathogenic_filename, sep="\t", stringsAsFactors=FALSE)
 pathogenic$ncVar_type <- "pathogenic"
