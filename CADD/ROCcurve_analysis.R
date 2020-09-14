@@ -9,9 +9,11 @@ if (length(args)==0) {
 pathogenic_filename=args[1]
 benign_filename=args[2]
 
-pathogenic <- read.csv(pathogenic_filename, sep="\t", stringsAsFactors=FALSE)
+pathogenic <- read.delim(pathogenic_filename, stringsAsFactors=FALSE, skip=1)
+names(pathogenic) <- c("CHROM", "POS", "REF", "ALT", "RawScore", "PHRED")
 pathogenic$ncVar_type <- "pathogenic"
-benign <- read.csv(benign_filename, sep="\t", stringsAsFactors=FALSE)
+benign <- read.delim(benign_filename, stringsAsFactors=FALSE, skip=1)
+names(benign) <- c("CHROM", "POS", "REF", "ALT", "RawScore", "PHRED")
 benign$ncVar_type <- "benign"
 all_variants <- rbind(pathogenic, benign)
 all_variants$PHRED <- as.numeric(all_variants$PHRED)
