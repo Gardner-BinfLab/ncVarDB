@@ -9,7 +9,7 @@ output_benign_filename=args[3]
 
 over_5_all_snps_full_table <- fread(benign_unfiltered_filename)
 ##pathogenic set for calculating probabulities
-path <- read.csv(pathogenic_filename)
+path <- read.delim(pathogenic_filename)
 
 over_5_all_snps_full_table$class <- gsub("microsatellite","insertion",over_5_all_snps_full_table$class)
 over_5_all_snps_full_table$class <- gsub("mnp", "substitution",over_5_all_snps_full_table$class)

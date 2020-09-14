@@ -3,7 +3,7 @@
 main_path="/Users/sasha/Git/ncVarDB/"
 
 Rscript make_VCFs.R $main_path
-cat $main_path'docs/vcf_meta_info.txt' $main_path'data/pathogenic_vcf.csv' >$main_path'data/ncVar_pathogenic.vcf'
-cat $main_path'docs/vcf_meta_info.txt' $main_path'data/benign_vcf.csv' >$main_path'data/ncVar_benign.vcf'
-rm $main_path'data/pathogenic_vcf.csv'
-rm $main_path'data/benign_vcf.csv'
+cat $main_path'docs/vcf_meta_info.txt' $main_path'data/pathogenic_vcf.tsv' >$main_path'data/ncVar_pathogenic.vcf'
+cat $main_path'docs/vcf_meta_info.txt' $main_path'data/benign_vcf.tsv' >$main_path'data/ncVar_benign.vcf'
+rm $main_path'data/pathogenic_vcf.tsv'
+rm $main_path'data/benign_vcf.tsv'
