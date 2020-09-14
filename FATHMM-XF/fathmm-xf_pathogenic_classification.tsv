@@ -90,7 +90,6 @@ X	153971810	A	G	--	--	Predictions not available for allosomal chromosome 'X'
 2	71661900	G	T	--	0.048497	benign
 2	73902698	C	A	0.071893	--	benign
 2	73950574	C	G	--	0.373468	benign
-2	86217057	C	A	0.008703	--	benign (high conf.)
 2	97733464	G	A	--	0.060899	benign
 2	165754927	C	T	--	0.988370	pathogenic (high conf.)
 2	190294639	A	C	--	0.959528	pathogenic
@@ -116,7 +115,6 @@ X	153971810	A	G	--	--	Predictions not available for allosomal chromosome 'X'
 5	56859707	T	A	--	0.959742	pathogenic
 5	74720617	G	A	--	0.380821	benign
 5	78839434	A	C	--	0.943053	pathogenic
-5	78839434	A	C	--	0.943053	pathogenic
 4	186287824	G	A	--	0.992975	pathogenic (high conf.)
 1	183577598	C	T	--	0.990934	pathogenic (high conf.)
 1	193122332	G	A	--	0.995378	pathogenic (high conf.)
@@ -127,7 +125,6 @@ X	153971810	A	G	--	--	Predictions not available for allosomal chromosome 'X'
 2	88570873	C	T	--	0.988128	pathogenic (high conf.)
 2	108910459	C	T	--	0.990749	pathogenic (high conf.)
 2	108930963	C	T	--	0.990590	pathogenic (high conf.)
-2	112001199	A	G	--	0.991275	pathogenic (high conf.)
 2	135120817	A	G	--	0.990453	pathogenic (high conf.)
 5	90628554	C	G	--	0.839691	pathogenic
 5	112707526	A	T	--	0.437687	benign
@@ -218,7 +215,6 @@ X	64921812	C	T	--	--	Predictions not available for allosomal chromosome 'X'
 2	73844893	G	T	--	0.985536	pathogenic (high conf.)
 2	74531106	G	C	--	0.986852	pathogenic (high conf.)
 2	84459170	C	G	--	0.869897	pathogenic
-2	86252072	T	C	--	0.992112	pathogenic (high conf.)
 2	86254816	T	C	--	0.990476	pathogenic (high conf.)
 2	113060943	T	C	--	0.959565	pathogenic
 2	188988140	T	C	--	0.978351	pathogenic (high conf.)
@@ -285,8 +281,6 @@ X	64921812	C	T	--	--	Predictions not available for allosomal chromosome 'X'
 22	32493282	G	T	--	0.978968	pathogenic (high conf.)
 22	42619946	C	A	--	0.991841	pathogenic (high conf.)
 X	17721439	A	G	--	--	Predictions not available for allosomal chromosome 'X'
-X	133692368	C	A	--	--	Predictions not available for allosomal chromosome 'X'
-X	133953049	C	T	--	--	Predictions not available for allosomal chromosome 'X'
 X	154182566	A	C	--	--	Predictions not available for allosomal chromosome 'X'
 X	154367639	A	G	--	--	Predictions not available for allosomal chromosome 'X'
 X	154370872	C	T	--	--	Predictions not available for allosomal chromosome 'X'
@@ -314,8 +308,6 @@ X	154370872	C	T	--	--	Predictions not available for allosomal chromosome 'X'
 4	157136891	G	A	--	0.986941	pathogenic (high conf.)
 4	183684059	G	A	--	0.989735	pathogenic (high conf.)
 4	183686751	A	G	--	0.986568	pathogenic (high conf.)
-5	78839434	A	C	--	0.943053	pathogenic
-5	78839434	A	C	--	0.943053	pathogenic
 5	83537002	T	C	--	0.987253	pathogenic (high conf.)
 5	83537002	T	A	--	0.981132	pathogenic (high conf.)
 5	83537005	A	T	--	0.991243	pathogenic (high conf.)
@@ -362,7 +354,6 @@ X	154370872	C	T	--	--	Predictions not available for allosomal chromosome 'X'
 8	60801598	G	C	--	0.986462	pathogenic (high conf.)
 8	93755871	G	A	--	0.935534	pathogenic
 8	101493333	G	T	--	0.059571	benign
-9	34637546	C	A	--	0.990824	pathogenic (high conf.)
 9	35090061	C	T	--	0.976989	pathogenic (high conf.)
 9	78240369	G	A	--	0.983959	pathogenic (high conf.)
 9	78253282	G	A	--	0.931656	pathogenic
@@ -516,7 +507,6 @@ X	154370872	C	T	--	--	Predictions not available for allosomal chromosome 'X'
 19	45553912	C	G	--	0.989954	pathogenic (high conf.)
 19	48297995	C	T	--	0.950789	pathogenic
 19	48965344	C	T	--	0.993282	pathogenic (high conf.)
-19	54123563	A	G	--	0.817515	pathogenic
 19	54130024	C	G	--	0.074436	benign
 20	18057908	A	C	--	0.649062	pathogenic
 20	18057941	A	G	--	0.684408	pathogenic
@@ -638,7 +628,6 @@ M	5843	A	G	--	--	Error: unrecognised chromosome 'M'
 M	1606	G	A	--	--	Error: unrecognised chromosome 'M'
 M	1624	C	T	--	--	Error: unrecognised chromosome 'M'
 9	127785950	C	G	--	--	No prediction found
-17	8173448	G	C	--	0.982782	pathogenic (high conf.)
 17	8173532	C	T	--	0.994552	pathogenic (high conf.)
 17	8173531	T	C	--	0.981872	pathogenic (high conf.)
 17	8173569	G	A	--	0.995734	pathogenic (high conf.)
@@ -647,28 +636,21 @@ X	154762824	C	G	--	--	Predictions not available for allosomal chromosome 'X'
 X	154774706	G	A	--	--	Predictions not available for allosomal chromosome 'X'
 1	92834833	G	T	0.493161	--	benign
 19	54123563	A	G	--	0.817515	pathogenic
-19	54130024	C	G	--	0.074436	benign
 12	12717808	GAGA	-	--	--	Error: nucleotide must be A/C/G/T
 12	12717384	CCTT	-	--	--	Error: nucleotide must be A/C/G/T
 10	44378102	C	T	--	0.069093	benign
 X	147921932	GG	TA	--	--	Error: nucleotide must be A/C/G/T
 2	112001199	A	G	--	0.991275	pathogenic (high conf.)
 2	112019523	G	T	--	0.992421	pathogenic (high conf.)
-2	190062219	C	T	--	0.990798	pathogenic (high conf.)
-13	83878728	C	T	--	0.599831	pathogenic
-12	48980693	A	G	--	0.983241	pathogenic (high conf.)
 X	133692368	C	A	--	--	Predictions not available for allosomal chromosome 'X'
 X	133953049	C	T	--	--	Predictions not available for allosomal chromosome 'X'
 20	10641459	C	G	--	0.990053	pathogenic (high conf.)
 10	87933253	T	G	--	0.992221	pathogenic (high conf.)
-10	87863705	G	A	--	0.053996	benign
-10	87863608	G	T	--	0.019393	benign (high conf.)
 X	153930761	A	T	--	--	Predictions not available for allosomal chromosome 'X'
 17	44351164	G	A	--	0.970479	pathogenic (high conf.)
 12	112455948	A	C	--	0.990093	pathogenic (high conf.)
 12	112482073	G	T	--	0.991719	pathogenic (high conf.)
 9	34637546	C	A	--	0.990824	pathogenic (high conf.)
-2	86254816	T	C	--	0.990476	pathogenic (high conf.)
 2	86217057	C	A	0.008703	--	benign (high conf.)
 2	86252072	T	C	--	0.992112	pathogenic (high conf.)
 1	112956380	-	CCCCACCCCGCCACGTGACCGGCGT	--	--	Error: nucleotide must be A/C/G/T
@@ -693,12 +675,9 @@ X	108570694	G	A	--	--	Predictions not available for allosomal chromosome 'X'
 2	189062914	GCTCCCT	-	--	--	Error: nucleotide must be A/C/G/T
 4	94253672	G	T	--	0.979144	pathogenic (high conf.)
 12	110281780	C	G	--	0.793641	pathogenic
-X	154762824	C	G	--	--	Predictions not available for allosomal chromosome 'X'
 19	48965348	A	G	--	0.998801	pathogenic (high conf.)
 19	48965347	C	T	--	0.990563	pathogenic (high conf.)
 19	48965349	G	C	--	0.990359	pathogenic (high conf.)
-16	173692	A	G	--	0.694399	pathogenic
-11	5250053	G	A	--	0.670323	pathogenic
 11	17388225	C	A	--	0.123231	benign
 10	99808231	T	A	--	0.991523	pathogenic (high conf.)
 10	99811604	T	C	--	0.988456	pathogenic (high conf.)
@@ -706,18 +685,13 @@ X	154762824	C	G	--	--	Predictions not available for allosomal chromosome 'X'
 2	166051705	A	C	--	0.235192	benign
 2	202542302	A	G	--	0.971270	pathogenic (high conf.)
 3	49422505	G	A	--	0.226328	benign
-7	94395818	A	G	--	0.697008	pathogenic
-7	156791137	T	C	--	0.434868	benign
 3	39391440	G	A	--	0.991169	pathogenic (high conf.)
 3	52407318	T	C	--	0.987426	pathogenic (high conf.)
 5	42711206	G	T	--	0.991179	pathogenic (high conf.)
 5	68293835	G	C	--	0.993097	pathogenic (high conf.)
-20	2467201	G	T	--	0.549987	pathogenic
 7	138762435	C	T	--	0.992025	pathogenic (high conf.)
 8	71299637	C	T	--	0.991122	pathogenic (high conf.)
 8	93780872	A	G	--	0.992014	pathogenic (high conf.)
-10	89011997	A	C	--	0.985959	pathogenic (high conf.)
-10	89012083	T	A	--	0.987202	pathogenic (high conf.)
 11	44171743	G	A	--	0.991645	pathogenic (high conf.)
 1	154167941	C	T	--	0.984230	pathogenic (high conf.)
 1	156137237	G	C	--	0.987455	pathogenic (high conf.)
@@ -727,13 +701,11 @@ X	154762824	C	G	--	--	Predictions not available for allosomal chromosome 'X'
 2	169493012	A	G	--	0.993183	pathogenic (high conf.)
 3	4782744	A	T	--	0.986405	pathogenic (high conf.)
 16	8772778	A	G	--	0.990151	pathogenic (high conf.)
-17	68512549	G	A	--	0.749549	pathogenic
 19	35033497	A	C	--	0.991334	pathogenic (high conf.)
 3	46370771	C	T	--	0.133410	benign
 3	149176413	C	T	--	0.986995	pathogenic (high conf.)
 4	154612013	C	T	--	0.991660	pathogenic (high conf.)
 5	33964017	C	T	--	0.989526	pathogenic (high conf.)
-5	112707526	A	T	--	0.437687	benign
 5	112707528	G	A	--	0.447419	benign
 7	246512	G	C	--	0.991621	pathogenic (high conf.)
 7	248312	C	G	--	0.981265	pathogenic (high conf.)
@@ -746,7 +718,6 @@ X	154762824	C	G	--	--	Predictions not available for allosomal chromosome 'X'
 10	69278711	G	C	--	0.646152	pathogenic
 10	78009519	C	T	--	0.063641	benign
 10	89012083	T	C	--	0.987202	pathogenic (high conf.)
-11	2165787	A	T	--	0.447610	benign
 11	5227172	G	A	--	0.696198	pathogenic
 11	5232765	C	T	0.035041	--	benign
 11	5250055	A	G	--	0.677900	pathogenic
@@ -754,7 +725,6 @@ X	154762824	C	G	--	--	Predictions not available for allosomal chromosome 'X'
 11	47337820	T	C	--	0.058035	benign
 11	47347852	C	T	--	0.989933	pathogenic (high conf.)
 12	57782862	A	G	--	0.714591	pathogenic
-13	48303724	G	T	--	0.493024	benign
 14	75958692	G	A	--	0.241876	benign
 14	75980923	C	T	--	0.155222	benign
 15	80180230	G	A	0.922807	--	pathogenic
