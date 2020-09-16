@@ -1,0 +1,6 @@
+ID	genome	chr	pos	ref	alt	mut_type	mut_position	x_ref	pmed_ID	phenotype
+ncVarP_A000020	hg38	1	145927328	C	G	substitution	intronic	dbsnp:rs201779890;clinvarID:30465	22366785	Radial aplasia-thrombocytopenia syndrome
+ncVarP_A000021	hg38	1	145927447	C	T	substitution	5utr	dbsnp:rs139428292;clinvarID:30464	20301781	Radial aplasia-thrombocytopenia syndrome
+ncVarP_A000042	hg38	5	36876937	CC	A	substitution	5utr	dbsnp:rs724159980;clinvarID:2151	16799922	Cornelia de Lange syndrome 1
+ncVarP_A000509	hg38	19	54130024	C	G	substitution	intronic	dbsnp:rs587776591;clinvarID:4366	19618371	Retinitis pigmentosa 11
+ncVarP_A000641	hg38	X	147921932	GG	TA	substitution	intronic	dbsnp:rs1557176576;clinvarID:9971;omimID:309550	7670500	Fragile x syndrome
