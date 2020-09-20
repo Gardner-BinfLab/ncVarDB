@@ -13,13 +13,11 @@ Rscript make_bed_file.R ../data/ncVar_bening.tsv ncVar_benign.bed
 unstarch DANN_whole_genome_SNVs.bed.starch > DANN_whole_genome_SNVs.bed
 
 # sort and extract scores
-sort-bed ncVar_pathogenic_hg19.bed > tmp
-mv tmp ncVar_pathogenic_hg19.bed
-bedextract DANN_whole_genome_SNVs.bed ncVar_pathogenic_hg19.bed > DANN_pathogenic_scores.bed
+sort-bed ncVar_pathogenic_hg19.bed > sorted_ncVar_pathogenic_hg19.bed
+bedextract DANN_whole_genome_SNVs.bed sorted_ncVar_pathogenic_hg19.bed > DANN_pathogenic_scores.bed
 
-sort-bed ncVar_benign_hg19.bed > tmp
-mv tmp ncVar_benign_hg19.bed
-bedextract DANN_whole_genome_SNVs.bed ncVar_benign_hg19.bed > DANN_benign_scores.bed
+sort-bed ncVar_benign_hg19.bed > sorted_ncVar_benign_hg19.bed
+bedextract DANN_whole_genome_SNVs.bed sorted_ncVar_benign_hg19.bed > DANN_benign_scores.bed
 
 # convert DANN_pathogenic_scores.bed and DANN_benign_scores.bed to hg38 using UCSC hgLiftOover tool:  https://genome.ucsc.edu/cgi-bin/hgLiftOver
 
