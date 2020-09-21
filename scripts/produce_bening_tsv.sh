@@ -1,10 +1,10 @@
 #Download (file common_non-coding_dbSNP151.txt) common non-coding variants from dbSNP151 using genome table browser:
 #Use Common SNPs(151) - SNPs with >= 1% minor allele frequency (MAF), mapping only once to reference assembly. Use filter:  filter: not (snp151Common.chrom like '%\\_%') and not (FIND_IN_SET('cds-indel', snp151Common.func)>0  OR FIND_IN_SET('frameshift', snp151Common.func)>0  OR FIND_IN_SET('stop-loss', snp151Common.func)>0  OR FIND_IN_SET('missense', snp151Common.func)>0  OR FIND_IN_SET('nonsense', snp151Common.func)>0  OR FIND_IN_SET('coding-synon', snp151Common.func)>0  OR FIND_IN_SET('unknown', snp151Common.func)>0 )
 
-#adjust the path to pathogenic csv file:
+#adjust the path to pathogenic tsv file:
 path_file_path="/Users/sasha/Git/ncVarDB/data/ncVar_pathogenic.tsv"
 
-#make standard csv header
+#make simple header
 
 sed -i 1d  common_non-coding_dbSNP151.txt
 tail -c +2 common_non-coding_dbSNP151.txt > tmp
