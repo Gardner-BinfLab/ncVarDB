@@ -3,7 +3,7 @@ library(pROC)
 args=commandArgs(TRUE)
 
 if (length(args)==0) {
-  stop("There should be two argemants: pathigenic file name and benign file name in this order.n", call.=FALSE)
+  stop("There should be two argemants: pathigenic file name and benign file name in this order.\n", call.=FALSE)
 }
 
 pathogenic_filename=args[1]
@@ -18,6 +18,10 @@ all_variants$Non.Coding.Score <- as.numeric(all_variants$Non.Coding.Score)
 not_scored_variants <- all_variants[is.na(all_variants$Non.Coding.Score),]
 all_variants <- all_variants[!is.na(all_variants$Non.Coding.Score),]
 
+print("The number of analysed pathogenic variants:\n" )
+nrow(all_variants[all_variants$ncVar_type=="pathogenic",])
+print("The number of analysed benign variants:\n" )
+nrow(all_variants[all_variants$ncVar_type=="benign",])
 
 pdf("FATHMM-XF_ROCcurve.pdf")
 plot.roc(all_variants$ncVar_type, all_variants$Non.Coding.Score, print.thres=TRUE, print.thres.col="red", print.auc=TRUE)
