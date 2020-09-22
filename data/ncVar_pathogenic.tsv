@@ -550,7 +550,7 @@ ncVarP_A000548	hg38	X	154991304	C	T	substitution	intronic	dbsnp:rs387906429;clin
 ncVarP_A000549	hg38	9	35657948	T	C	substitution	ncRNA	dbsnp:rs199476103;clinvarID:14208	12107819	Cartilage hair hypoplasia
 ncVarP_A000550	hg38	8	127091692	T	A	substitution	ncRNA	dbsnp:rs1456315;omimID:615452	20874843	Hereditary prostate cancer
 ncVarP_A000551	hg38	7	129774757	C	T	substitution	ncRNA	dbsnp:rs587776522;clinvarID:865;omimID:611606	19363479	Hearing loss
-ncVarP_A000552	hg38	M	5650	g	A	substitution	ncRNA	dbsnp:rs121434457;clinvarID:9624;omimID:590000	16476954	Myotonic dystrophy-like myopathy
+ncVarP_A000552	hg38	M	5650	G	A	substitution	ncRNA	dbsnp:rs121434457;clinvarID:9624;omimID:590000	16476954	Myotonic dystrophy-like myopathy
 ncVarP_A000553	hg38	M	5591	G	A	substitution	ncRNA	dbsnp:rs121434458;clinvarID:9625	14569122	Mitochondrial myopathy 
 ncVarP_A000554	hg38	M	10438	A	G	substitution	ncRNA	dbsnp:rs121434456;clinvarID:9623;omimID:590005	15286228	Encephalomyopathy mitochondrial
 ncVarP_A000555	hg38	M	10450	A	G	substitution	ncRNA	dbsnp:rs387906731;clinvarID:30000	19809478	Encephalomyopathy mitochondrial
