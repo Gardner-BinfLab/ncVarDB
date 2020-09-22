@@ -19,6 +19,11 @@ all_variants <- rbind(pathogenic, benign)
 all_variants$PHRED <- as.numeric(all_variants$PHRED)
 all_variants$RawScore <- as.numeric(all_variants$RawScore)
 
+print("The number of analysed pathogenic variants:\n" )
+nrow(all_variants[all_variants$ncVar_type=="pathogenic",])
+print("The number of analysed benign variants:\n" )
+nrow(all_variants[all_variants$ncVar_type=="benign",])
+
 
 pdf("CADD_ROCcurve_PHRED.pdf")
 plot.roc(all_variants$ncVar_type, all_variants$PHRED, print.thres=TRUE, print.thres.col="red", print.auc=TRUE)
