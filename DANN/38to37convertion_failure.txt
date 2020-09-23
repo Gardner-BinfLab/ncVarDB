@@ -1,0 +1,6 @@
+#Deleted in new
+chr2	94199563	94199564
+#Deleted in new
+chr2	241821709	241821710
+#Deleted in new
+chr19	8606821	8606822

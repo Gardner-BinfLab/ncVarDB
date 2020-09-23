@@ -1,7 +1,7 @@
 args=commandArgs(TRUE)
 
 if (length(args)<5) {
-  stop("Please provide five arguments: ncVar file name, original file with DANN scores, converted to hg38 DANN score file, output file name.n, and error file name", call.=FALSE)
+  stop("Please provide five arguments: ncVar file name, original file with DANN scores, converted to hg38 DANN score file, output file name, and error file name", call.=FALSE)
 }
 
 ncVar_file_name=args[1]

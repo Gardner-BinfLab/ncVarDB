@@ -1,0 +1,10 @@
+7228 total variants
+
+7021 substitutions
+
+7018 were able to convert to hg37 (3 failed)
+
+7006 not on chromosome "M" or "Y"
+
+6989 were scored (17 were not scored due to inconsistency)
+

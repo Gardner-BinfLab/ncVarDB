@@ -1,7 +1,7 @@
 args=commandArgs(TRUE)
 
 if (length(args)==0) {
-  stop("Please provide arguments: input file name and output file name.n", call.=FALSE)
+  stop("Please provide arguments: input file name and output file name.\n", call.=FALSE)
 }
 
 input_file_name=args[1]
@@ -9,9 +9,9 @@ output_file_name=args[2]
 
 variants <-read.delim(input_file_name)
 
-variants_snv <- variants[variants$mut_type=="substitution",]
+single_bases=c("A", "C", "G", "T", "a", "c", "g", "t")
 
-variants_snv <- variants[length(variants$ref)==1,]
+variants_snv <- variants[variants$ref %in% single_bases & variants$alt %in% single_bases,]
 
 variants_snv$start <- variants_snv$pos-1
 

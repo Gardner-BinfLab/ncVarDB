@@ -51,6 +51,6 @@ sed 1d  tmp | sort -k1,1V -k2,2V >> ncVar_benign_full_data.tsv
 rm tmp
 
 #convert to ncVar format
-Rscript convert_to_ncVar_format.R ncVar_benign_full_data.tsv ncVar_benign.tsv
+Rscript convert_to_ncVar_format.R ncVar_benign_full_data.tsv ncVar_benign.tsv benign_error.tsv
 
 mv ncVar_benign.tsv ../data
