@@ -14,7 +14,7 @@ path <- read.delim(pathogenic_filename)
 over_5_all_snps_full_table$class <- gsub("microsatellite","insertion",over_5_all_snps_full_table$class)
 over_5_all_snps_full_table$class <- gsub("mnp", "substitution",over_5_all_snps_full_table$class)
 over_5_all_snps_full_table$class <- gsub("single","substitution",over_5_all_snps_full_table$class)
-
+##TODO there is in-del category which contains insertions, deletions, and more than one nucleotide substitutions. So one needs to reclassify to add those mutations to the three category: insertion, deletion, substitution. 
 
 over_5_all_snps_full_table$func <- gsub("intron", "intronic", over_5_all_snps_full_table$func)
 over_5_all_snps_full_table$func <-gsub("near-gene-3", "intergenic",over_5_all_snps_full_table$func)

@@ -12,12 +12,13 @@ all_positions$position <- gsub("intron|splice-3|splice-5", "intronic", all_posit
 all_positions$position <- gsub("near-gene-3|near-gene-5", "intergenic", all_positions$position)
 all_positions$position <- gsub("untranslated-3", "3utr", all_positions$position)
 all_positions$position <- gsub("untranslated-5", "5utr", all_positions$position)
-all_positions$position <-gsub("unknown", "intergenic", all_positions$position) #TODO how should we treat those unknown?
+#all_positions$position <-gsub("unknown", "intergenic", all_positions$position) #TODO should we treat the unknown as intergenic?
 all_positions$position <-gsub("cds-indel|coding-synon|frameshift|missense|nonsense|stop-loss","genic",all_positions$position)
 all_positions <- all_positions[, list(Number=sum(Number)), by="position"]
 all_positions <- setDF(all_positions)
 names(all_positions) <- c("mut_position", "Number")
 all_positions$Dataset <- "dbSNP"
+all_positions <- all_positions[all_positions$mut_position != "unknown",]
 
 all_types <- read.delim("data/raw_data/all_snps_types.txt")
 all_types$position <- gsub("single|mnp", "substitution", all_types$position)
@@ -104,15 +105,15 @@ types$Dataset <- factor(types$Dataset, levels = c("dbSNP", "5-20% MAF dbSNP", "n
 cbp1 <- c("#999999", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
 
 positions <- ggplot(positions, aes(x=mut_position, y=Number,fill=Dataset)) +
-  geom_bar(stat='identity', position=position_dodge(width=0.5), width=0.4) +
+  geom_bar(stat='identity', position=position_dodge(width=0.4), width=0.3) +
   labs(title="Comparison of variant positions in each dataset", y="Total number of variants") +
-  theme(text = element_text(size=45), axis.title.x=element_blank(), axis.text.x = element_text(angle = 45, hjust=1)) +
+  theme(axis.title.x=element_blank(), axis.text.x = element_text(angle = 45, hjust=1)) +
   xlim("Intronic","Intergenic","ncRNA","3' UTR","5' UTR") +
   scale_y_log10(limits=c(1,1e9)) +
   scale_fill_manual(values=cbp1)
 
 types <-ggplot(types, aes(x=mut_type, y=Number,fill=Dataset)) +
-  geom_bar(stat='identity', position=position_dodge(width=0.5), width=0.4) +
+  geom_bar(stat='identity', position=position_dodge(width=0.4), width=0.3) +
   labs(title="Comparison of variant types in each dataset", y="Total number of variants",x="Type") +
   theme(text = element_text(size=45), axis.title.x=element_blank(), axis.text.x = element_text(angle = 45, hjust=1)) +
   xlim("Substitution","Deletion","Insertion") +
@@ -141,9 +142,8 @@ theme_Publication <- function(base_size=14, base_family="Helvetica") {
             legend.position = "bottom",
             legend.direction = "horizontal",
             legend.key.size= unit(0.5, "cm"),
-            legend.margin = margin(c(10,10,10,10), "mm"),
             legend.title = element_text(face="italic"),
-            plot.margin=unit(c(10,5,5,5),"mm"),
+            plot.margin=unit(c(5,5,5,5),"mm"),
             strip.background=element_rect(colour="#f0f0f0",fill="#f0f0f0"),
             strip.text = element_text(face="bold")
     ))
@@ -162,10 +162,10 @@ scale_colour_Publication <- function(...){
   
 }
 
-png("scripts/plots/Positions.png",width=7.5, height=5, res=300, units="in")
+png("scripts/plots/Positions.png",width=7.5, height=4, res=300, units="in")
 positions + theme_Publication() + labs(tag="A") +
-    theme(text = element_text(size=14), axis.title.x=element_blank(), axis.text.x = element_text(angle = 45, hjust=1))
+    theme(text = element_text(size=14), axis.title.x=element_blank(), axis.text.x = element_text(angle = 45, hjust=1))+ theme(legend.position = "none")
 
-png("scripts/plots/Types.png",width=7.5, height=5, res=300, units="in")
+png("scripts/plots/Types.png",width=7.5, height=4.5, res=300, units="in")
 types + theme_Publication() + labs(tag="B") +
     theme(text = element_text(size=14), axis.title.x=element_blank(), axis.text.x = element_text(angle = 45, hjust=1))

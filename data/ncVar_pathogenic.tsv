@@ -720,5 +720,3 @@ ncVarP_A000718	hg38	18	57551312	T	C	substitution	intronic	dbsnp:rs202147607	7910
 ncVarP_A000719	hg38	19	48965359	G	C	substitution	3utr	dbsnp:rs398124638;clinvarID:16482	23300176	Hyperferritinemia cataract syndrome
 ncVarP_A000720	hg38	20	32807751	G	A	substitution	intronic	dbsnp:rs547940069	10555141	Centromeric instability of chromosomes 1 9 and 16 and immunodeficiency
 ncVarP_A000721	hg38	X	136208642	G	A	substitution	intronic	dbsnp:rs786200914	19687455	X-linked Myopathy with postural muscle atrophy
-ncVarP_A000722	hg38	1	16514283	T	C	substitution	ncRNA	literatureHarvested	31664194	Medulloblastoma lethal
-ncVarP_A000723	hg38	1	28648604	A	G	substitution	ncRNA	literatureHarvested	31664194	Medulloblastoma lethal
