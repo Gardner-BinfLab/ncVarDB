@@ -24,5 +24,3 @@ bedextract DANN_whole_genome_SNVs.bed sorted_ncVar_benign_hg19.bed > DANN_benign
 Rscript extract_scores_for_ncVar_variants.R $pathogenic_file DANN_pathogenic_scores.bed DANN_pathogenic_scores_hg38.bed DANN_pathogenic_classification.tsv path_error.tsv
 
 Rscript extract_scores_for_ncVar_variants.R $benign_file DANN_benign_scores.bed DANN_benign_scores_hg38.bed DANN_benign_classification.tsv benign_error.tsv
-
-Rscript ROCcurve_analysis.R DANN_pathogenic_classification.tsv DANN_benign_classification.tsv
