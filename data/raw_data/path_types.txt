@@ -1,3 +1,0 @@
-16	deletion
-7	insertion
-747	substitution

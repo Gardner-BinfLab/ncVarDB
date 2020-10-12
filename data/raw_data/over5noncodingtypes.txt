@@ -1,7 +1,0 @@
-689083	deletion
-51433	in-del
-507065	insertion
-3841	microsatellite
-259	mnp
-7	named
-9100647	single
