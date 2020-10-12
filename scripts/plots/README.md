@@ -1,4 +1,4 @@
-This directory contains all scripts and (some) intermediate data files that are reqierd to produce the graphs for the publication. 
+This directory contains all scripts and (some) intermediate data files that are requierd to produce the graphs for the publication. 
 
 # Figure 1 (frequency figure)
  
@@ -47,5 +47,5 @@ Two R data files 'high_freq_positions.rds' and 'high_freq_types.rds' were create
 
 # Figure 2 (ROC curve figure)
 
-First follow the instructions in the data analysis folders: FATHMM-XF, CADD, and DANN. Then use 'plot_3ROC_curves.R' to create the figure.  scripts 
+First follow the instructions in the data analysis folders: FATHMM-XF, CADD, and DANN. Then use 'plot_3ROC_curves.R' to create the figure.
 
