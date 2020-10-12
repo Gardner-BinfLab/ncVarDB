@@ -1,4 +1,4 @@
-This directory contains all scripts and (some) intermediate data files that are reqierd to produce the graphs for the publication. 
+This directory contains all scripts and (some) intermediate data files that are requierd to produce the graphs for the publication. 
 
 # Figure 1 (frequency figure)
  
