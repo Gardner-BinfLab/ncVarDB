@@ -4,7 +4,7 @@ library(ggplot2)
 #adjust the path
 setwd("/Users/sasha/Git/ncVarDB/")
 
-all_positions <- read.delim("data/raw_data/all_snps_positions.txt")
+all_positions <- read.delim("scripts/plots/all_snps_positions.txt")
 all_positions$position <- gsub(",.+", "", all_positions$position)
 all_positions <- setDT(all_positions)
 all_positions <- all_positions[, list(Number=sum(sum)), by="position"]
@@ -20,7 +20,7 @@ names(all_positions) <- c("mut_position", "Number")
 all_positions$Dataset <- "dbSNP"
 all_positions <- all_positions[all_positions$mut_position != "unknown",]
 
-all_types <- read.delim("data/raw_data/all_snps_types.txt")
+all_types <- read.delim("scripts/plots/all_snps_types.txt")
 all_types$position <- gsub("single|mnp", "substitution", all_types$position)
 all_types$position <- gsub("microsatellite", "insertion", all_types$position)
 all_types <- all_types[all_types$position!="in-del" & all_types$position!="named",] #TODO classify those in-del and named in one of the three categories: insertion, deletion, substitution
@@ -31,7 +31,7 @@ names(all_types) <- c("mut_type", "Number")
 all_types$Dataset <- "dbSNP"
 
 
-#high_freq <- read.delim("scripts/5-20_percent_MAF_nc_dbSNP151.tsv")
+#high_freq <- read.delim("scripts/benign/5-20_percent_MAF_nc_dbSNP151.tsv")
 #high_freq_positions <- data.table(high_freq["func"], Number=rep(1,nrow(high_freq)))
 #high_freq_positions <- high_freq_positions[, list(Number=sum(Number)), by="func"]
 #high_freq_positions$func <- gsub(",.+", "", high_freq_positions$func)
