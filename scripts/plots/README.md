@@ -37,3 +37,15 @@ Then run this to count mutation types
 sh processing_summaries.sh all_snps_muttypes.txt
 mv added_results.txt all_snps_types.txt
 ``` 
+
+Finally, run
+```
+Rscript plot_frequencies.R
+```
+
+Two R data files 'high_freq_positions.rds' and 'high_freq_types.rds' were created using plot_frequencies.R from 'scripts/benign/5-20_percent_MAF_nc_dbSNP151.tsv'. This file was created when the benign data wss produced. It is too large and not included here. 
+
+# Figure 2 (ROC curve figure)
+
+First follow the instructions in the data analysis folders: FATHMM-XF, CADD, and DANN. Then usr 'plot_3ROC_curves.R' to create the figure.  scripts 
+
