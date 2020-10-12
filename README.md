@@ -7,7 +7,7 @@ git clone https://github.com/Gardner-BinfLab/ncVarDB
 
 
 # Motivation 
-Variants within the non-coding genome  are frequently associated with phenotypes in genome-wide association studies. These regions may be involved in the regulation of gene expression, encode functional non coding RNAs, splicing, or other cellular functions. However, relatively few of these regions have been shown to be  causative of phenotypic variation. We have curated a list of well characterised non-coding human genome variants based on published evidence for causing functional consequences. In order to minimise possible annotation errors, two curators have independently verified the supporting evidence for pathogenicity of each non-coding variant from published literature. 
+Variants within the non-coding genome are frequently associated with phenotypes in genome-wide association studies. These regions may be involved in the regulation of gene expression, encode functional non coding RNAs, splicing, or other cellular functions. We have curated a list of well characterised non-coding human genome variants based on published evidence for causing functional consequences. In order to minimise possible annotation errors, two curators have independently verified the supporting evidence for pathogenicity of each non-coding variant from published literature. 
 ##Add paper link
 
 # Project structure
@@ -17,15 +17,21 @@ Data:
 
 The final datasets, and the raw data used in the generation of the figures and benign dataset. Some files were too big for github but can be found on our Zenodo repository
 
-
-Docs:
-
-General helpful documents
-
-
 Scripts: 
 
-A collection of scripts used to generate results 
+A collection of scripts and (some) intermediate data files used to generate results 
+
+FATHHM-XF:
+
+Files produced by FATHHM-XF data analysis.
+
+CADD:
+
+Scripts and files necessary for CADD data analysis.
+
+DANN:
+
+Scripts and files necessary for DADD data analysis.
 
 
 # Features
@@ -49,9 +55,7 @@ Mutation_type: the type of mutation of the variant (single, insertion, deletion)
 
 Mutation_position: The genomic position of the variant (intronic, 5utr, 3utr, ncRNA)
 
-AveHet: The average heterozygosity across all populations of the variant 
-
-AveHetSE: The average heterozygosity standard error across all populations of the variant
+MAF: The frequency of the minor allele (Alt)
 
 X_ref: Any ID’s from other databases e.g. dbSNP [REF] ClinVar [REF], OMIM [REF], Literature
 
