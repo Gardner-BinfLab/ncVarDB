@@ -162,10 +162,14 @@ scale_colour_Publication <- function(...){
   
 }
 
-png("scripts/plots/Positions.png",width=7.5, height=4, res=300, units="in")
-positions + theme_Publication() + labs(tag="A") +
-    theme(text = element_text(size=14), axis.title.x=element_blank(), axis.text.x = element_text(angle = 45, hjust=1))+ theme(legend.position = "none")
+library("ggpubr")
 
-png("scripts/plots/Types.png",width=7.5, height=4.5, res=300, units="in")
-types + theme_Publication() + labs(tag="B") +
-    theme(text = element_text(size=14), axis.title.x=element_blank(), axis.text.x = element_text(angle = 45, hjust=1))
+final_positions <- positions + theme_Publication() +
+    theme(text = element_text(size=14), axis.title.x=element_blank(), axis.text.x = element_text(angle = 45, hjust=1))+ theme(legend.position = "none")
+final_types <- types + theme_Publication() + theme(text = element_text(size=14), axis.title.x=element_blank(), axis.text.x = element_text(angle = 45, hjust=1))
+
+png("scripts/plots/Frequency.png",width=7.5, height=8, res=600, units="in")
+
+ggarrange(final_positions, final_types,
+          labels = c("A", "B"),
+          ncol = 1, nrow = 2)
