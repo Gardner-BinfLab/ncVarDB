@@ -51,7 +51,7 @@ auc_fathmm = paste(paste("FATHMM-XF (AUC = ", round(as.numeric(auc(roc_fathmm)),
 auc_cadd = paste(paste("CADD (AUC = ", round(as.numeric(auc(roc_cadd)), 3),  sep=""), ")", sep="")
 auc_dann = paste(paste("DANN (AUC = ", round(as.numeric(auc(roc_dann)), 3),  sep=""), ")", sep="")
 
-png("scripts/plots/3ROCcurves.png",width = 4, height = 4, units = 'in', res = 300)
+png("scripts/plots/3ROCcurves.png",width = 4, height = 4, units = 'in', res = 600)
 plot(roc_fathmm, col=1, main="ROC curves for three ncVar data analyses", lwd=1.3, cex.main=1, cex.lab=0.8, cex.axis=0.8, mar = c(4, 4, 4, 2))
 plot(roc_cadd, col="red", lwd=1.3, add=TRUE)
 plot(roc_dann, col="blue3", lwd=1.3, add=TRUE)
